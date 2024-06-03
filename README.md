@@ -1,6 +1,6 @@
-# Proyecto de Extracción de Información de Facturas Eléctricas
+# Proyecto de extracción de información de facturas eléctricas
 
-## Introducción al Desafío
+## Introducción al desafío
 
 El reto consiste en ser capaces de extraer algunos campos determinados de información de facturas eléctricas. Estas facturas se presentan en distintos formatos, todas ellas en archivos PDF, pero con un orden y disposición diferente de los campos. Sin embargo, la información de las facturas, aun con variaciones, es esencialmente la misma, y algunos de estos campos comunes deben ser obtenidos de ellas.
 
@@ -8,7 +8,7 @@ El objetivo es ser capaces de crear un método que extraiga la información de l
 
 Se pueden desarrollar los métodos que se consideren oportunos para conseguir este objetivo, con los modelos que creáis más convenientes. La única limitación será utilizar Python.
 
-## Dataset de Entrenamiento
+## Dataset de entrenamiento
 
 Nos proporcionan el siguiente material, que no puedo subir a GitHub debido a que los datos no son míos, sino del desafío:
 
@@ -17,7 +17,7 @@ Nos proporcionan el siguiente material, que no puedo subir a GitHub debido a que
 
 El dataset de entrenamiento está formado por 1000 facturas, numeradas desde `factura_0.pdf` hasta `factura_999.pdf`. Cada una de ellas tiene un archivo JSON correspondiente con el mismo nombre, cambiando sólo la extensión, con los 19 campos que hay que extraer de las facturas.
 
-## Campos a Extraer
+## Campos a extraer
 
 Los campos a extraer de las facturas son los siguientes:
 
@@ -41,26 +41,26 @@ Los campos a extraer de las facturas son los siguientes:
 - **Consumo en el periodo** (`consumo_periodo`)
 - **Potencia contratada** (`potencia_contratada`)
 
-## Formatos de Datos
+## Formatos de datos
 
 - **Fechas**: Formato `DD.MM.YYYY`, por ejemplo, `07.02.2016`.
 - **Valores numéricos con decimales**: Separados por una coma, por ejemplo, `191,32`.
 
 Para cualquier duda sobre los formatos, se pueden consultar los archivos JSON del dataset de entrenamiento para comprobar cuál es el formato utilizado.
 
-## Consideraciones Adicionales
+## Consideraciones adicionales
 
 - Los archivos PDF contienen texto dentro de ellos. Existen librerías en Python que permiten extraer el texto directamente del archivo PDF. Sin embargo, hay que tener cuidado ya que no todas las librerías extraen el mismo texto ni en el mismo formato.
 - No se considerará la diferencia entre letras mayúsculas y minúsculas, pero sí se considerarán caracteres diferentes si llevan tilde o si no. Usad la codificación apropiada para tenerlo en cuenta.
 - Es posible que en algunas facturas haya datos que faltan, mostrados como `XX`. No obstante, no debería ocurrir en ninguno de los casos de los datos que tenéis que obtener. El resto de información de las facturas es irrelevante.
 
-## Descarga del Dataset de Entrenamiento
+## Descarga del dataset de entrenamiento
 
 El dataset de entrenamiento puede descargarse en el siguiente enlace: [training.zip](#)
 
 El dataset de test está formado por otras 1000 facturas, también numeradas desde `factura_0.pdf` hasta `factura_999.pdf`. Los archivos JSON que generéis deberían seguir la misma nomenclatura, también usada en el dataset de entrenamiento, de forma que los archivos tengan el mismo nombre pero diferente extensión.
 
-## Estructura del Proyecto
+## Estructura del proyecto
 
 Muchos de los datos comienzan en una carpeta que estará nombrada en varios archivos llamada `TRAINING` que, por temas de privacidad y derechos, no puedo subir a GitHub.
 
@@ -107,7 +107,7 @@ La que mejor resultados, o digamos funciona por así decirlo, es lo que hay en l
     |-- decide/
 ```
 
-### Descripción de las Carpetas
+### Descripción de las carpetas
 
 - **training**: Contiene los datos del desafío (facturas en formato PDF y sus correspondientes archivos JSON). Por temas de protección de los datos no puedo compartir esta carpeta.
 - **decide**: Es el entorno virtual que he creado para trabajar en el proyecto. No la he subido porque no tiene sentido, pero sí está el archivo `requirements.txt`.
@@ -115,7 +115,7 @@ La que mejor resultados, o digamos funciona por así decirlo, es lo que hay en l
 - **libretas**: Después de trabajar en `cuadernos`, aquí aplico lo aprendido y continúo desarrollando el modelo spaCy hasta obtener buenas métricas en algunos datos, aunque con un acierto global del 40%. Es en esta fase cuando decido cambiar de modelo.
 - **bert**: Contiene el trabajo realizado con BERT y posteriormente con ROBERTA. Aquí intento encontrar un método que reconozca el texto de la factura y extraiga los datos sin depender de patrones específicos.
 
-### Experiencia con el Proyecto
+### Experiencia con el proyecto
 
 La idea era entrenar un modelo que fuera capaz de reconocer texto de una factura, y a partir de ahí extraer los datos. Lo he intentado con tres modelos diferentes: comencé con spaCy y luego trabajé con BERT y ROBERTA.
 
