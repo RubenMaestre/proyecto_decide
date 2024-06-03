@@ -117,17 +117,19 @@ La que mejor resultados, o digamos funciona por así decirlo, es lo que hay en l
 
 ### Experiencia con el Proyecto
 
-Este proyecto ha sido mi primera experiencia en NLP. Había visto alguna cosa en mi formación en Hack a Boss, pero nada como lo que he ido descubriendo enfrentándome a este desafío.
-
-Quiero decir, por si alguien quiere parar de leer ya, que no he conseguido hacerlo. Con el mejor modelo trabajado he obtenido alrededor de un 40% de acierto a la hora de acertar todos los datos. Es cierto que en campos como DNI o CIF he obtenido casi un 100% de acierto, pero en otros, como el de los municipios, prácticamente un 0%.
-
-Con todo esto, lo primero que me vino a la cabeza fue utilizar REGEX, pero prácticamente lo deseché porque entendía que iba a ser una locura hacerlo así si el formato de las facturas podía cambiar.
-
 La idea era entrenar un modelo que fuera capaz de reconocer texto de una factura, y a partir de ahí extraer los datos. Lo he intentado con tres modelos diferentes: comencé con spaCy y luego trabajé con BERT y ROBERTA.
 
-Curiosamente, con spaCy obtuve mejores métricas que con BERT y ROBERTA, que deberían haber funcionado mejor. Quizás no fui capaz de dar con la tecla con BERT. Aunque tenía claro cómo hacerlo, nunca conseguí acertar en la implementación. Creo que el modelo entrenaba bien, pero la tokenización, separando por sílabas y desglosando los números en unidades más pequeñas, me generaba muchos problemas al validar el modelo y encontrar patrones. Además, me enfrenté a problemas de desbalanceamiento de categorías, con una categoría mayoritaria de texto general que representaba casi el 85% y las categorías deseadas que no llegaban al 15%.
-
 En `cuadernos` y `libretas` desarrollo el modelo spaCy. En `cuadernos` abordo los primeros desafíos y experimento hasta comprender mejor el proceso. En `libretas`, con más conocimiento, trabajo hasta obtener mejores métricas en algunos datos, aunque con un acierto global del 40%. Decidí entonces cambiar de modelo y busqué uno que reconociera el texto y extrajera los datos, en lugar de crear patrones como en spaCy. Sin embargo, al trabajar con BERT y luego con ROBERTA, encontré problemas de tokenización y desbalanceo de categorías, que no pude resolver completamente en el tiempo disponible.
+
+### Modelo spaCy
+
+Comencé normalizando las plantillas de texto mediante el script normalizacion_plantillas.py, que elimina saltos de línea y reduce espacios dobles a simples, asegurando un formato uniforme para el procesamiento. Luego, con el script preprocesamiento.py, generé documentos de texto a partir de plantillas, sustituyendo los marcadores de posición por datos específicos cargados desde archivos JSON, creando así 20,000 documentos necesarios para entrenar el modelo.
+
+Para el entrenamiento del modelo, utilicé el script entrenamiento.py, donde procesé los documentos y sus entidades para crear archivos binarios compatibles con spaCy. Estos archivos fueron utilizados para entrenar y validar el modelo, que fue inicializado con un modelo preentrenado en español y ajustado para reconocer las etiquetas de entidades que me interesaban. Evalué el modelo continuamente para ajustar los parámetros y mejorar su precisión.
+
+Una vez entrenado el modelo, utilicé validacion.py para evaluar su rendimiento, comparando las entidades predichas con las reales en los datos de validación. Para probar el modelo con texto de entrada manual, desarrollé analizar_texto.py, permitiendo introducir texto por terminal y observar las entidades reconocidas por el modelo.
+
+Finalmente, con el script extraccion_pdf.py, extraje texto de archivos PDF de facturas, lo limpié y normalicé para su procesamiento. Utilicé el modelo entrenado para detectar patrones específicos en el texto y guardé los resultados en archivos JSON mediante el script app.py. Para medir la precisión del modelo, medicion.py comparó los resultados extraídos por el modelo con los datos originales, calculando la tasa de acierto para cada categoría de entidad y una tasa de acierto global.
 
 ### Modelo BERT y ROBERTA
 
