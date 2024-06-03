@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "QUITERIA GUILLÉN TARACENA",
+    "dni_cliente": "17142586L",
+    "calle_cliente": "Calle Atocha",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": "ELECTIAPLUS",
+    "nombre_comercializadora": "ENERGIA S.L.U",
+    "cif_comercializadora": "B19556299",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "19/05/2021",
+    "fin_periodo": "18/06/2021",
+    "importe_factura": "234,73",
+    "fecha_cargo": "23/06/2021",
+    "consumo_periodo": "18/06/2021",
+    "potencia_contratada": "4,378"
+}

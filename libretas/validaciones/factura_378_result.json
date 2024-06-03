@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Polinice Castañeda Pedroza",
+    "dni_cliente": "86760062Z",
+    "calle_cliente": "Calle del Bachiller Alonso López",
+    "cp_cliente": "46192",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ALCANZIA ENERGIA, S.L.",
+    "cif_comercializadora": "B98373269",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/09/2011",
+    "fin_periodo": "20/10/1901",
+    "importe_factura": "141,05",
+    "fecha_cargo": "",
+    "consumo_periodo": "15099",
+    "potencia_contratada": "5,317"
+}

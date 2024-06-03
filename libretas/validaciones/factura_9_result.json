@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALF CAMARENO NORIEGA",
+    "dni_cliente": "27033869Z",
+    "calle_cliente": "Calle de Alaró",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EXPORT INNOVATION GROUP, S.L.",
+    "cif_comercializadora": "B66286634",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "16/04/2012",
+    "fin_periodo": "16/05/2012",
+    "importe_factura": "125,02",
+    "fecha_cargo": "21/05/2012",
+    "consumo_periodo": "16/05/2012",
+    "potencia_contratada": "4,087"
+}

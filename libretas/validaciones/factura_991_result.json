@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Yerma Cervantes Valdiva",
+    "dni_cliente": "78171584N",
+    "calle_cliente": "Calle del Ciclón",
+    "cp_cliente": "19112019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGY BY COGEN SL-UNIPERSONAL-",
+    "cif_comercializadora": "B85634350",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28660",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-septiembre-2019",
+    "importe_factura": "29,07",
+    "fecha_cargo": "",
+    "consumo_periodo": "18635",
+    "potencia_contratada": "4,213"
+}

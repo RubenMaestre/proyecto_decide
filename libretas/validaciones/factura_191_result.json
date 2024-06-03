@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lucrecio Bolaños Ozuno",
+    "dni_cliente": "70107429W",
+    "calle_cliente": "",
+    "cp_cliente": "39310",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "SEVEN TRADE SOLUTIONS, S.L.U.",
+    "cif_comercializadora": "B01813104",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "20/12/1207",
+    "fin_periodo": "20/12/1108",
+    "importe_factura": "156,58",
+    "fecha_cargo": "",
+    "consumo_periodo": "23532",
+    "potencia_contratada": "3,336"
+}

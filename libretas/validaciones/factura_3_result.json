@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Belinda Zetina Mijares",
+    "dni_cliente": "89901698B",
+    "calle_cliente": "RAMBLA CATALUNYA, 91-93 08008 - BARCELONA",
+    "cp_cliente": "28102021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TRADE UNIVERSAL ENERGY, S.A.",
+    "cif_comercializadora": "A66531013",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-octubre-2021",
+    "importe_factura": "23,11",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,317"
+}

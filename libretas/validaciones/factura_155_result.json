@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ludmila Galeano Sánchez",
+    "dni_cliente": "80020843W",
+    "calle_cliente": "Calle Valdemartín",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "F46025136",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "09/08/2016",
+    "fin_periodo": "08/09/2016",
+    "importe_factura": "18,96",
+    "fecha_cargo": "13/09/2016",
+    "consumo_periodo": "08/09/2016",
+    "potencia_contratada": "4,927"
+}

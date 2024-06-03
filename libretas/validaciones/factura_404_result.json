@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JUSTINIANO OLMEDA SALCEDO",
+    "dni_cliente": "78562215B",
+    "calle_cliente": "Calle Acacias",
+    "cp_cliente": "27011993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DISA ENERGIA ELECTRICA",
+    "cif_comercializadora": "B76730324",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-diciembre-1992",
+    "importe_factura": "13,51",
+    "fecha_cargo": "30 de enero de 1993",
+    "consumo_periodo": "19106",
+    "potencia_contratada": "4,127"
+}

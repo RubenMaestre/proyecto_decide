@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Laodamia Iglesias Castañeda",
+    "dni_cliente": "98667136B",
+    "calle_cliente": "Camino de Villaconejos a Villasequilla",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A73987646",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "MURCIA",
+    "número_factura": "",
+    "inicio_periodo": "15/08/1993",
+    "fin_periodo": "14/09/1993 30 días  ",
+    "importe_factura": "47,04",
+    "fecha_cargo": "19/09/1993",
+    "consumo_periodo": "88337",
+    "potencia_contratada": "4,526"
+}

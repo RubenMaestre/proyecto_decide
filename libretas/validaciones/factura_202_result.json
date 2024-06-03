@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LADISLAO SEDANO PINEDA",
+    "dni_cliente": "73071933J",
+    "calle_cliente": "CALLE ALCAYATA, NUM.4",
+    "cp_cliente": "02488",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LIDERA COMERCIALIZADORA ENERGIA, S.L.",
+    "cif_comercializadora": "B02943991",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "18015",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "440,55",
+    "fecha_cargo": "06 de octubre de 1992",
+    "consumo_periodo": "94600",
+    "potencia_contratada": ""
+}

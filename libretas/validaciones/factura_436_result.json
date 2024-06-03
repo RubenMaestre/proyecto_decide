@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SONELGAZ  2, Bd Krim Belkacem",
+    "dni_cliente": "92613297W",
+    "calle_cliente": "Calle de Peña Ambote",
+    "cp_cliente": "09339",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "FÉLIX SOTO OZUNO",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "96916010012742000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "86,27",
+    "fecha_cargo": "",
+    "consumo_periodo": "80127",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CINTIA AGUIRRE CERDA",
+    "dni_cliente": "23809710H",
+    "calle_cliente": "AVENIDA JARDIN BOTÁNICO, 1345 EDIFICIO INTRA 1 OF.",
+    "cp_cliente": "18041994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BETA RENOWABLE GROUP SA.",
+    "cif_comercializadora": "A33985540",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33203",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-abril-1994",
+    "importe_factura": "10,76",
+    "fecha_cargo": "21 de abril de 1994",
+    "consumo_periodo": "41586",
+    "potencia_contratada": "3,159"
+}

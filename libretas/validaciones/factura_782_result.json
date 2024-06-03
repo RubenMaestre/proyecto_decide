@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Francisca Monge Salcedo",
+    "dni_cliente": "87581389B",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "12011996",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "AUDAX ENERGÍA, S.A.",
+    "cif_comercializadora": "A85258549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12-enero-1996",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-marzo-1996",
+    "importe_factura": "25,80",
+    "fecha_cargo": "",
+    "consumo_periodo": "18636",
+    "potencia_contratada": "3,791"
+}

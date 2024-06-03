@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AXPO IBERIA S.L.  ",
+    "dni_cliente": "62426172D",
+    "calle_cliente": "PASEO DE LA CASTELLANA, 95, PLANTA 20",
+    "cp_cliente": "31698",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LLAVORSI,SL 900 101",
+    "cif_comercializadora": "B83160994",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28046",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "76,09",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

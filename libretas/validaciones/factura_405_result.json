@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MELITÓN GÓMEZ CUERVO",
+    "dni_cliente": "93885207N",
+    "calle_cliente": "Calle de Turmalina",
+    "cp_cliente": "22080",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ENEL PRODUZIONE S.P.A. IT",
+    "cif_comercializadora": "5617841001",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "309,86",
+    "fecha_cargo": "",
+    "consumo_periodo": "30946",
+    "potencia_contratada": ""
+}

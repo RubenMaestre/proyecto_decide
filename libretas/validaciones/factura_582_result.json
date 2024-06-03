@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Kenzo Martí Acuña",
+    "dni_cliente": "93764309W",
+    "calle_cliente": "Calle Isla del Aire",
+    "cp_cliente": "29061990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÉCTRICA BAÑESA, SL",
+    "cif_comercializadora": "B24224248",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24380",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-junio-1990",
+    "importe_factura": "35,01",
+    "fecha_cargo": "02 de septiembre de 1990",
+    "consumo_periodo": "56492",
+    "potencia_contratada": "5,329"
+}

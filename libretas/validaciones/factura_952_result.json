@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CRISTO SAMPER OVIEDO",
+    "dni_cliente": "50651527F",
+    "calle_cliente": "Calle Torre",
+    "cp_cliente": "10002",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "STIN S.A",
+    "cif_comercializadora": "A02022366",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ALBACETE Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "162,13",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

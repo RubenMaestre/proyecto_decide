@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Benedicta García Vivas",
+    "dni_cliente": "52233297K",
+    "calle_cliente": "Travesia Fuente del Cura",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ROMERO CANDAU SL 104875560860",
+    "cif_comercializadora": "B73778516",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "16/10/1993",
+    "fin_periodo": "15/12/1993",
+    "importe_factura": "173,35",
+    "fecha_cargo": "20/12/1993",
+    "consumo_periodo": "15/12/1993",
+    "potencia_contratada": "4,189"
+}

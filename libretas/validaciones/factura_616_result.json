@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FRANCO VALDÉS PALOMINO",
+    "dni_cliente": "22900933V",
+    "calle_cliente": "Calle de Virgen del Espino",
+    "cp_cliente": "46178",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "GESTIONA ENERGIA, COMERCIALIZADORA",
+    "cif_comercializadora": "B66552068",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-septiembre-2003",
+    "importe_factura": "346,64",
+    "fecha_cargo": "20/03/0211",
+    "consumo_periodo": "20/03/3110",
+    "potencia_contratada": "1,167"
+}

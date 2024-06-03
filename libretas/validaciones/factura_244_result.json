@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KNET COMUNICACIONES, S.L.",
+    "dni_cliente": "33259329H",
+    "calle_cliente": "Camino de la Fuente de Dios",
+    "cp_cliente": "47690",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "BALTASAR CAMARILLO",
+    "cif_comercializadora": "B26266106",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "La Rioja",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "14,54",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "LOGROÑO"
+}

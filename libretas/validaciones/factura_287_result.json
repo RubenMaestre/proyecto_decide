@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "René Guardiola Alcocer",
+    "dni_cliente": "77658545B",
+    "calle_cliente": "Calle de Juana I",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "HOLALUZ-CLIDOM, S.A",
+    "cif_comercializadora": "A65445033",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "25/09/1996",
+    "fin_periodo": "24/11/1996",
+    "importe_factura": "96,79",
+    "fecha_cargo": "29/11/1996",
+    "consumo_periodo": "24/11/1996",
+    "potencia_contratada": "4,742"
+}

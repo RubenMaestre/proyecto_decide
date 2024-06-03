@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Alexandra Medrano Troncoso",
+    "dni_cliente": "87965634H",
+    "calle_cliente": "Calle del Corral Barroso",
+    "cp_cliente": "33874",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ENEL TRADE S.P.A.",
+    "cif_comercializadora": "5918271007",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3839483691667",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "32,17",
+    "fecha_cargo": "20 de mayo de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

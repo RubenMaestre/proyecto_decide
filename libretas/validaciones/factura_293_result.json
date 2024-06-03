@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEONIDAS AHUMADA MEDRANO",
+    "dni_cliente": "46346870F",
+    "calle_cliente": "Plaza del Verso",
+    "cp_cliente": "05299",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CYE ENERGIA SL",
+    "cif_comercializadora": "B98516693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46013",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-enero-2009",
+    "importe_factura": "13,47",
+    "fecha_cargo": "20/09/0902",
+    "consumo_periodo": "20/09/0702",
+    "potencia_contratada": "4,022"
+}

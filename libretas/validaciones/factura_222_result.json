@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Juan Bautista Escalante Duarte",
+    "dni_cliente": "16619436G",
+    "calle_cliente": "Calle Duero",
+    "cp_cliente": "12224",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "GESTINER INGENIEROS, S.L.",
+    "cif_comercializadora": "B82410549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "30,93",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

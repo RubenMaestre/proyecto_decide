@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Celina Villallovos Gavilán",
+    "dni_cliente": "84576665F",
+    "calle_cliente": "Calle de las Piscinas 16660",
+    "cp_cliente": "16660",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "KALCUS ADVANCE, S.L",
+    "cif_comercializadora": "B66658188",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28037",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "21,76",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

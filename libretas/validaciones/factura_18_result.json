@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ANTOLINA RUIZ RUIZ S.L.UNIPERSONAL",
+    "dni_cliente": "19469478R",
+    "calle_cliente": "CALLE GÓMEZ NÚÑEZ Nº 2 PLANTA",
+    "cp_cliente": "43790",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "PREMIUM NUEVA ENERGIA SL",
+    "cif_comercializadora": "B66527201",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24402",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-octubre-1999",
+    "importe_factura": "31,79",
+    "fecha_cargo": "15 de octubre de 1999",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,677"
+}

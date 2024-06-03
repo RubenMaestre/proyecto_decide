@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Imelda Varela Orozco",
+    "dni_cliente": "25373021L",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B63841597",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "23/02/2009",
+    "fin_periodo": "25/03/2009",
+    "importe_factura": "99,96",
+    "fecha_cargo": "30/03/2009",
+    "consumo_periodo": "25/03/2009",
+    "potencia_contratada": "3,593"
+}

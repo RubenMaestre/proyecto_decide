@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JIMENO OSEDA MENDOZA",
+    "dni_cliente": "79525429P",
+    "calle_cliente": "CARRETERA DE FRANCIA, 10 22660 -",
+    "cp_cliente": "14051993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRO ESCARRILLA, S.L",
+    "cif_comercializadora": "B22216733",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12-abril-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-mayo-1993",
+    "importe_factura": "16,83",
+    "fecha_cargo": "17 de mayo de 1993",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,817"
+}

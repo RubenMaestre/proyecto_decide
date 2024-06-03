@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ORIOL MEJÍA",
+    "dni_cliente": "30402100X",
+    "calle_cliente": "Calle Guillermo Cabrera Infante",
+    "cp_cliente": "16350",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ARAN ENERGIA, S.L. EN LIQUIDACIÓN",
+    "cif_comercializadora": "B25823006",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "11-julio-2011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "36,75",
+    "fecha_cargo": "20/11/1307",
+    "consumo_periodo": "20/11/1107",
+    "potencia_contratada": "5,415"
+}

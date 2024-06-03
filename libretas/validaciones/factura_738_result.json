@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ESTEFANO SAMPER VALDIVA",
+    "dni_cliente": "11546311N",
+    "calle_cliente": "Plaza de la Lealtad",
+    "cp_cliente": "31890",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  C CAMPANAR Nº41 POL.",
+    "cif_comercializadora": "B54985353",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03330",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "152,86",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

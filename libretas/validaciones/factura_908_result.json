@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Víctor Manuel Gamboa Marrero",
+    "dni_cliente": "62931460X",
+    "calle_cliente": "Calle Madrileña",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "GB799162671",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "20/05/2005",
+    "fin_periodo": "19/07/2005",
+    "importe_factura": "259,73",
+    "fecha_cargo": "24/07/2005",
+    "consumo_periodo": "19/07/2005",
+    "potencia_contratada": "4,273"
+}

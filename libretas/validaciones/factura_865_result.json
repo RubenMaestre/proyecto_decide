@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NICOLAZA GAYTÁN VANEGAS",
+    "dni_cliente": "15333274W",
+    "calle_cliente": "Avenida de Chozas de la Sierra",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A87705471",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "23/10/2020",
+    "fin_periodo": "22/12/2020",
+    "importe_factura": "357,15",
+    "fecha_cargo": "27/12/2020",
+    "consumo_periodo": "22/12/2020",
+    "potencia_contratada": "atencionalclientevive-energia.com"
+}

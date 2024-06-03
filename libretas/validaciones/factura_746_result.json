@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SARMIENTO QUIJADA",
+    "dni_cliente": "29493572M",
+    "calle_cliente": "AVENIDA DE BARCELONA, 229 08222 - TERRASSA",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA PENINSULAR S.L.",
+    "cif_comercializadora": "B67065441",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "52006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Melilla",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-marzo-2002",
+    "importe_factura": "13,48",
+    "fecha_cargo": "20/02/1003",
+    "consumo_periodo": "20/02/0904",
+    "potencia_contratada": "3,948"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "J.P. MORGAN ENERGY EUROPE ESPAÑA, S.L.U.",
+    "dni_cliente": "53855746G",
+    "calle_cliente": "Calle de Pozuelo de Zarzón",
+    "cp_cliente": "01051991",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "J.P. MORGAN ENERGY EUROPE ESPAÑA",
+    "cif_comercializadora": "B62139274",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-marzo-1991",
+    "importe_factura": "11,37",
+    "fecha_cargo": "04 de mayo de 1991",
+    "consumo_periodo": "6563",
+    "potencia_contratada": "3,276"
+}

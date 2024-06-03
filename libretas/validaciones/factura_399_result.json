@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARTOLO PRIETO CASAS",
+    "dni_cliente": "44211498R",
+    "calle_cliente": "Glorieta de Málaga",
+    "cp_cliente": "02111997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "PHOTON GESTION, S.L.",
+    "cif_comercializadora": "B19595677",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "69,53",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "31-octubre-1997",
+    "importe_factura": "13,35",
+    "fecha_cargo": "24, ENTRESUELO, 46870",
+    "consumo_periodo": "45536",
+    "potencia_contratada": "3,919"
+}

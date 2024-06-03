@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ramsés Acuña Quintana",
+    "dni_cliente": "36465630G",
+    "calle_cliente": "CALLE TEMPLE, 25 08911 - Badalona",
+    "cp_cliente": "23052021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Ramsés Acuña Quintana",
+    "cif_comercializadora": "B01620160",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22-junio-2021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "23-mayo-2021",
+    "importe_factura": "10,17",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,920"
+}

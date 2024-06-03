@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Filemón Lugo Parra",
+    "dni_cliente": "51951950X",
+    "calle_cliente": "Calle Duque de Ahumada",
+    "cp_cliente": "37893",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ELECTRICA DEL SURESTE",
+    "cif_comercializadora": "B73748097",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "52,58",
+    "fecha_cargo": "21 de enero de 2003",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ARISTÓBULO SOZA SALCEDO",
+    "dni_cliente": "35574980Y",
+    "calle_cliente": "AVENIDA DE PORTUGAL, 27 PLANTA 4, PUERTA",
+    "cp_cliente": "08228",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CIMA ENERGIA COMERCIALIZADORA SL",
+    "cif_comercializadora": "B26558056",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/04/0508",
+    "fecha_cargo": "20/04/0708",
+    "consumo_periodo": "80137",
+    "potencia_contratada": "3,264"
+}

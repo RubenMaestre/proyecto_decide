@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HERCULANO ROBLES BAZÁN",
+    "dni_cliente": "75794204G",
+    "calle_cliente": "Calle del Bario 08416 Bigues i Riells",
+    "cp_cliente": "08416",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "RECICLAJES ECOLOGICOS CHANDUY,S.L.",
+    "cif_comercializadora": "B67605584",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08810",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "57,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

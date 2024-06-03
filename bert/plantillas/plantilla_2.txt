@@ -1,0 +1,14 @@
+resumen de la factura:
+
+cliente: placeholder_01
+dni: placeholder_02
+dirección: placeholder_03, cp: placeholder_04, población: placeholder_05, provincia: placeholder_06
+
+comercializadora: placeholder_07, cif: placeholder_08, dirección: placeholder_09, cp: placeholder_10, población: placeholder_11, provincia: placeholder_12
+
+número de factura: placeholder_13
+periodo: del placeholder_14 al placeholder_15
+consumo: placeholder_18 kWh
+potencia contratada: placeholder_19 kW
+importe: placeholder_16 €
+fecha de cargo: placeholder_17

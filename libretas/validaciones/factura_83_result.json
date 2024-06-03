@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FORTUNATO CHÁVEZ LINES",
+    "dni_cliente": "21779668W",
+    "calle_cliente": "Extraradio Finca la Platera",
+    "cp_cliente": "40260",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "FORTUNATO CHÁVEZ LINES",
+    "cif_comercializadora": "A28039469",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "19-mayo-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-abril-2006",
+    "importe_factura": "20/06/1905",
+    "fecha_cargo": "20/06/2105",
+    "consumo_periodo": "33074",
+    "potencia_contratada": "4,098"
+}

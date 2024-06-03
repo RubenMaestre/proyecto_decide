@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Albertina Osorio Otero",
+    "dni_cliente": "24202889N",
+    "calle_cliente": "Finca Isla del Herrero",
+    "cp_cliente": "24412",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B84317593",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "61,19",
+    "fecha_cargo": "",
+    "consumo_periodo": "46991",
+    "potencia_contratada": ""
+}

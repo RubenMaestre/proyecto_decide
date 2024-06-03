@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Immanuel Del Castillo Gavilán",
+    "dni_cliente": "48133504R",
+    "calle_cliente": "Avenida Doctor Marañón",
+    "cp_cliente": "27092019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "QUASAR ENERGÍA, S.L.",
+    "cif_comercializadora": "B99514374",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50012",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-septiembre-2019",
+    "importe_factura": "37,98",
+    "fecha_cargo": "",
+    "consumo_periodo": "97001",
+    "potencia_contratada": "5,514"
+}

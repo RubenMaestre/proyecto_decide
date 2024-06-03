@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MORFEO CORNEJO MOSCOA",
+    "dni_cliente": "62436942S",
+    "calle_cliente": "Calle de Asunción Pérez Vizcaíno",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "REPSOL GENERACIÓN ELÉCTRICA S.A.U.",
+    "cif_comercializadora": "A62733126",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "21/03/1995",
+    "fin_periodo": "20/05/1995",
+    "importe_factura": "46,49",
+    "fecha_cargo": "25/05/1995",
+    "consumo_periodo": "20/05/1995",
+    "potencia_contratada": "4,897"
+}

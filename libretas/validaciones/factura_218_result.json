@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Heleia Galeano Herrera",
+    "dni_cliente": "51879887Y",
+    "calle_cliente": "Calle de la Cañada de Vicálvaro a San Fernando",
+    "cp_cliente": "25021998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HIDROELECTRICA LUMYMEY SL UNIPERSONAL.",
+    "cif_comercializadora": "B15552060",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "15800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-enero-1998",
+    "importe_factura": "17,37",
+    "fecha_cargo": "28 de febrero de 1998",
+    "consumo_periodo": "83867",
+    "potencia_contratada": "5,063"
+}

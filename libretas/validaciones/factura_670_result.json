@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MANOLETE CÉSPEDES AGUIRRE",
+    "dni_cliente": "91450807R",
+    "calle_cliente": "Calle de Valcotos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECTRICIDAD EOSUN, S.L.",
+    "cif_comercializadora": "B88002027",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "01/04/1994",
+    "fin_periodo": "01/05/1994",
+    "importe_factura": "129,86",
+    "fecha_cargo": "06/05/1994",
+    "consumo_periodo": "01/05/1994",
+    "potencia_contratada": "3,301"
+}

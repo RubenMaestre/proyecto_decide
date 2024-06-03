@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BERNARDO JERANO",
+    "dni_cliente": "15429010N",
+    "calle_cliente": "Calle Robledillo",
+    "cp_cliente": "47639",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENELUZ 2025, S.L.",
+    "cif_comercializadora": "B19505049",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-diciembre-2018",
+    "importe_factura": "11,14",
+    "fecha_cargo": "",
+    "consumo_periodo": "53377",
+    "potencia_contratada": "3,265"
+}

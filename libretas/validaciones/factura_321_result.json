@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SIMPLICIO OSORIO",
+    "dni_cliente": "14805974T",
+    "calle_cliente": "DIP.",
+    "cp_cliente": "19275",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DEL SURESTE.",
+    "cif_comercializadora": "B73748097",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12-septiembre-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-octubre-2006",
+    "importe_factura": "20/06/1210",
+    "fecha_cargo": "20/06/1410",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,899"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LIGIA SALVADO LAMAS",
+    "dni_cliente": "11864303Y",
+    "calle_cliente": "Calle Picón",
+    "cp_cliente": "24135",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TORRES ENERGIA, S.L.",
+    "cif_comercializadora": "B25816745",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25170",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-marzo-2015",
+    "importe_factura": "42,20",
+    "fecha_cargo": "05 de mayo de 2015",
+    "consumo_periodo": "20048",
+    "potencia_contratada": "6,178"
+}

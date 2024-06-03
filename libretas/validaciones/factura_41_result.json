@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Orfilia Montero López",
+    "dni_cliente": "71801872N",
+    "calle_cliente": "Paseo de los Perales",
+    "cp_cliente": "47419",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "TALAYUELAS SL",
+    "cif_comercializadora": "DK36201770",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "DK-8000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "POWERMART",
+    "fin_periodo": "50",
+    "importe_factura": "339,77",
+    "fecha_cargo": "04 de diciembre de 2003",
+    "consumo_periodo": "54975",
+    "potencia_contratada": "AARHUS"
+}

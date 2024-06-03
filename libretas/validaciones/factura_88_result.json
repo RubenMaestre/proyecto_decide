@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HUGO GUARDIOLA URIARTE",
+    "dni_cliente": "87068473H",
+    "calle_cliente": "CALLE VILLAMANIN, 31 4F",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TAUTRA ENERGIA S.L.",
+    "cif_comercializadora": "B04949384",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "12/06/2013",
+    "fin_periodo": "12/07/2013",
+    "importe_factura": "60,85",
+    "fecha_cargo": "17/07/2013",
+    "consumo_periodo": "12/07/2013",
+    "potencia_contratada": "3,006"
+}

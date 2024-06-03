@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Aquilina Mena Valencia",
+    "dni_cliente": "64996878M",
+    "calle_cliente": "CALLE DEL SILENCIO, 10-3ºB",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ANILLACO ENERGIA, S.L.",
+    "cif_comercializadora": "B88635289",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "23/06/2007",
+    "fin_periodo": "23/07/2007 30 días  1,000000 meses",
+    "importe_factura": "14,65",
+    "fecha_cargo": "28/07/2007",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,074"
+}

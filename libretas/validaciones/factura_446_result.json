@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AE3000 AGENT COMERCIALITZADOR, S.L.",
+    "dni_cliente": "99642541D",
+    "calle_cliente": "Calle del Cabo de Creus",
+    "cp_cliente": "06042014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AE3000 AGENT COMERCIALITZADOR, S.L.",
+    "cif_comercializadora": "B25680083",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "2982",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lérida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-abril-2014",
+    "importe_factura": "28,94",
+    "fecha_cargo": "",
+    "consumo_periodo": "99113",
+    "potencia_contratada": "4,158"
+}

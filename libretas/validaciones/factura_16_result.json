@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Juan Jesús Morillo Varga",
+    "dni_cliente": "62200075W",
+    "calle_cliente": "Calle Kindeland",
+    "cp_cliente": "01051990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADEINNOVA ENERGIA",
+    "cif_comercializadora": "B25794207",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25730",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-mayo-1990",
+    "importe_factura": "8,30",
+    "fecha_cargo": "05 de junio de 1990",
+    "consumo_periodo": "16052",
+    "potencia_contratada": "2,420"
+}

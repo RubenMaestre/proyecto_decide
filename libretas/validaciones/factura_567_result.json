@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Herculano Estévez Carrillo",
+    "dni_cliente": "83940837Z",
+    "calle_cliente": "Calle Vereda del Prado",
+    "cp_cliente": "15293",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F46004750",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46610",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "204,85",
+    "fecha_cargo": "28 de octubre de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

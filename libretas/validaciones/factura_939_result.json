@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MALAQUÍAS BOLAÑOS LOBO",
+    "dni_cliente": "99236434J",
+    "calle_cliente": "",
+    "cp_cliente": "03101997",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ANOTHER ENERGY OPTION, S.L.",
+    "cif_comercializadora": "B93267300",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "613780621654",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-octubre-1997",
+    "importe_factura": "257,49",
+    "fecha_cargo": "07 de diciembre de 1997",
+    "consumo_periodo": "9097",
+    "potencia_contratada": "4,932"
+}

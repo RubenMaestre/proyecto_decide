@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AXEL MARCÍAS ALANIS",
+    "dni_cliente": "84824644T",
+    "calle_cliente": "Camino Villar",
+    "cp_cliente": "27081997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AXEL MARCÍAS ALANIS",
+    "cif_comercializadora": "DK17225898",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "DK-8200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "25-agosto-1997",
+    "importe_factura": "28,57",
+    "fecha_cargo": "30 de agosto de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,110"
+}

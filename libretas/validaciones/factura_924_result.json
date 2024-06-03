@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rosalinda Cisneros Calles",
+    "dni_cliente": "42029483L",
+    "calle_cliente": "Calle Viriato 15369 Cariño",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B87113973",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "MADRID",
+    "número_factura": "",
+    "inicio_periodo": "09/05/2006",
+    "fin_periodo": "08/06/2006",
+    "importe_factura": "86,48",
+    "fecha_cargo": "13/06/2006",
+    "consumo_periodo": "08/06/2006",
+    "potencia_contratada": "5,396"
+}

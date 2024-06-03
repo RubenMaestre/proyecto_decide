@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MERRIL LYNCH COMMODITIES EUROPE LIMITED",
+    "dni_cliente": "67269637L",
+    "calle_cliente": "Plaza de Adriano",
+    "cp_cliente": "29062021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MERRIL LYNCH COMMODITIES EUROPE",
+    "cif_comercializadora": "GB245122493",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "129,98",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-julio-2021",
+    "importe_factura": "16,94",
+    "fecha_cargo": "29-junio-2021",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,970"
+}

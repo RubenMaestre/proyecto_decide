@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALEJANDRINA GARCÍA GARRIDO",
+    "dni_cliente": "88294439S",
+    "calle_cliente": "Calle Ramon Y Cajal",
+    "cp_cliente": "30112019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÉCTRICA DE BARBASTRO, S.A.",
+    "cif_comercializadora": "A22194856",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29-octubre-2019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "12,63",
+    "fecha_cargo": "",
+    "consumo_periodo": "28112019",
+    "potencia_contratada": "3,653"
+}

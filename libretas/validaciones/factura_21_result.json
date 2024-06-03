@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Neptuno Quijano Alayón",
+    "dni_cliente": "72252519C",
+    "calle_cliente": "Pje del Cerrajón",
+    "cp_cliente": "30729",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ESTABANELL IMPULSA",
+    "cif_comercializadora": "A62422720",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08400",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "20/03/2311",
+    "fin_periodo": "23-diciembre-2003",
+    "importe_factura": "20/03/2312",
+    "fecha_cargo": "20/03/2512",
+    "consumo_periodo": "9069",
+    "potencia_contratada": "4,180"
+}

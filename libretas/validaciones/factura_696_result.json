@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Luciano Medrano Becerra",
+    "dni_cliente": "79090350C",
+    "calle_cliente": "Camino del El Esparragal",
+    "cp_cliente": "03051993",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "CONECTA2 ENERGIA, S.L.",
+    "cif_comercializadora": "B66024464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02061993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-junio-1993",
+    "importe_factura": "70,12",
+    "fecha_cargo": "Vega",
+    "consumo_periodo": "54631",
+    "potencia_contratada": "3,221"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Erica Roble De la Fuente",
+    "dni_cliente": "64606839T",
+    "calle_cliente": "AVENIDA DEL PUERTO 64 ENTRESUELO",
+    "cp_cliente": "15003",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÉTICA DEL ESTE SL",
+    "cif_comercializadora": "B40563520",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Coruña",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "24,91",
+    "fecha_cargo": "",
+    "consumo_periodo": "24748",
+    "potencia_contratada": "3,744"
+}

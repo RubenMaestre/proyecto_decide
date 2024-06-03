@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EUGENIA GUTIÉRREZ PEÑA",
+    "dni_cliente": "19882982B",
+    "calle_cliente": "Calle de Colomer",
+    "cp_cliente": "28609",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "A19240621",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28703",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "186,48",
+    "fecha_cargo": "",
+    "consumo_periodo": "49159",
+    "potencia_contratada": ""
+}

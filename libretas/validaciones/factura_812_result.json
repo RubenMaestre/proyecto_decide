@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ISOLDA BORGES VILLALLOVOS",
+    "dni_cliente": "31452996J",
+    "calle_cliente": "PLAZA ESGLESIA",
+    "cp_cliente": "25170",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EMPRESA MUNICIPAL ENERGIA",
+    "cif_comercializadora": "B25460494",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "211,52",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-noviembre-2007",
+    "importe_factura": "32,11",
+    "fecha_cargo": "20/07/1111",
+    "consumo_periodo": "20/08/1001",
+    "potencia_contratada": "4,698"
+}

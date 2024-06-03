@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Almendra Del Castillo Ulloa",
+    "dni_cliente": "39812497A",
+    "calle_cliente": "Calle de la Amnistía",
+    "cp_cliente": "19461",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "NORDJYSK ELHANDEL AS",
+    "cif_comercializadora": "NORDJYSK",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "21-agosto-2004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "20/04/2108",
+    "fin_periodo": "20/04/2009",
+    "importe_factura": "15,36",
+    "fecha_cargo": "25 de septiembre de 2004",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,563"
+}

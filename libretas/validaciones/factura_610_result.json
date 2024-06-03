@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ABRIL BARRIENTOS FRÍAS",
+    "dni_cliente": "14616341W",
+    "calle_cliente": "Calle de las Eras San Marcos",
+    "cp_cliente": "29012013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ABRIL BARRIENTOS FRÍAS",
+    "cif_comercializadora": "B73817033",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "5297",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-febrero-2013",
+    "importe_factura": "14,00",
+    "fecha_cargo": "",
+    "consumo_periodo": "78173",
+    "potencia_contratada": "4,079"
+}

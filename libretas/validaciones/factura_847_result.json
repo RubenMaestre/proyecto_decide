@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Caterina Castañeda Marroquí",
+    "dni_cliente": "33481374K",
+    "calle_cliente": "Avenida del Doctor Federico Rubio y Galí",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECNOVA SIGLO XXI SL",
+    "cif_comercializadora": "B14988125",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "07/03/2006",
+    "fin_periodo": "06/05/2006",
+    "importe_factura": "140,87",
+    "fecha_cargo": "11/05/2006",
+    "consumo_periodo": "06/05/2006",
+    "potencia_contratada": "3,690"
+}

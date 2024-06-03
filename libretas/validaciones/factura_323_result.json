@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LORNA ARGÜELLES VILLAREAL",
+    "dni_cliente": "73868265Q",
+    "calle_cliente": "Calle de los Carboneros 06182 Badajoz",
+    "cp_cliente": "06182",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "REGULADA, GAS POWER, S.A.",
+    "cif_comercializadora": "A65067332",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "35,57",
+    "fecha_cargo": "29 de mayo de 2011",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

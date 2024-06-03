@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sansón Caldera Valentín",
+    "dni_cliente": "65729208S",
+    "calle_cliente": "Carretera M-131",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GLOBELIGHT ENERGY S.L",
+    "cif_comercializadora": "B19318401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "02/11/2009",
+    "fin_periodo": "01/01/2010 60 días  ",
+    "importe_factura": "191,50",
+    "fecha_cargo": "06/01/2010",
+    "consumo_periodo": "74222",
+    "potencia_contratada": "5,973"
+}

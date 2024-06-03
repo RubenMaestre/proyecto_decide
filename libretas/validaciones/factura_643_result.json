@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GIULIANA GAITÁN URIETA",
+    "dni_cliente": "98695315S",
+    "calle_cliente": "Travesia del Poniente",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B66589904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "03/12/1993",
+    "fin_periodo": "01/02/1994",
+    "importe_factura": "155,27",
+    "fecha_cargo": "06/02/1994",
+    "consumo_periodo": "01/02/1994",
+    "potencia_contratada": "6,433"
+}

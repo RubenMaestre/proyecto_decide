@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Eneas Manuel Batalla",
+    "dni_cliente": "53244851N",
+    "calle_cliente": "Calle Maestro Granados",
+    "cp_cliente": "16102013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AB ENERGÍA 1903,",
+    "cif_comercializadora": "B22350466",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22300",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-octubre-2013",
+    "importe_factura": "40,85",
+    "fecha_cargo": "",
+    "consumo_periodo": "10442",
+    "potencia_contratada": "1,685"
+}

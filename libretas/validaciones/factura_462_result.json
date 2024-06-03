@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Clarinda Saucedo Gayoso",
+    "dni_cliente": "43424964K",
+    "calle_cliente": "Calle de Avelino Montero Ríos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "BLAZQUEZ SL 403889572583",
+    "cif_comercializadora": "B98670003",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "atencionalclientelucera.es",
+    "número_factura": "",
+    "inicio_periodo": "18/01/2019",
+    "fin_periodo": "17/02/2019 30 días  1,000000 meses",
+    "importe_factura": "83,36",
+    "fecha_cargo": "22/02/2019",
+    "consumo_periodo": "63334",
+    "potencia_contratada": "2,885"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PASCAL CALLES MOSCOA",
+    "dni_cliente": "31890550S",
+    "calle_cliente": "Calle Cerro del Cañal",
+    "cp_cliente": "35309",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "A55766927",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "25,67",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

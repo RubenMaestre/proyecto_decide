@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CRISTIANO TRAVIESO MORILLO",
+    "dni_cliente": "45771014W",
+    "calle_cliente": "Calle Nolís",
+    "cp_cliente": "25081996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ROMERO ABREU HERMANOS, S.L.",
+    "cif_comercializadora": "B11000783",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03570",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "23-agosto-1996",
+    "importe_factura": "22,56",
+    "fecha_cargo": "28 de agosto de 1996",
+    "consumo_periodo": "94424",
+    "potencia_contratada": "6,531"
+}

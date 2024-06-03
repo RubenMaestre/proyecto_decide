@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HELIO ESCAMILLA",
+    "dni_cliente": "48825214D",
+    "calle_cliente": "Camino de la Mesilla",
+    "cp_cliente": "16061995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AUDAX RENOVABLES, S.A",
+    "cif_comercializadora": "A62338827",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-junio-1995",
+    "importe_factura": "12,42",
+    "fecha_cargo": "21 de julio de 1995",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,588"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CLAUDIO LÁNDEZ SOLÉ",
+    "dni_cliente": "71464763Z",
+    "calle_cliente": "Calle de Juan Mazo",
+    "cp_cliente": "11520",
+    "población_cliente": "",
+    "provincia_cliente": "SANTA CRUZ DE TENERIFE Tenerife",
+    "nombre_comercializadora": "APELES ELECTRICIDAD, SL",
+    "cif_comercializadora": "B76654771",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38110",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "CRUZ DE TENERIFE",
+    "fin_periodo": "50",
+    "importe_factura": "65,91",
+    "fecha_cargo": "25 de octubre de 2011",
+    "consumo_periodo": "57158",
+    "potencia_contratada": ""
+}

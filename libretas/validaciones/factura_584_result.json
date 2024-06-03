@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PASCAL VILLAREAL REDONDO",
+    "dni_cliente": "35943843H",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECTRICA SEROSENSE, S.L.",
+    "cif_comercializadora": "B25051947",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lérida",
+    "número_factura": "",
+    "inicio_periodo": "01/11/2007",
+    "fin_periodo": "01/12/2007 30 días  ",
+    "importe_factura": "54,12",
+    "fecha_cargo": "06/12/2007",
+    "consumo_periodo": "51296",
+    "potencia_contratada": "2,469"
+}

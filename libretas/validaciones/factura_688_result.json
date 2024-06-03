@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Talía Jurado Molleda",
+    "dni_cliente": "96167316S",
+    "calle_cliente": "Calle Sacrificio",
+    "cp_cliente": "08758",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ELECTRICA S.L  C VILLA COHETE 4 ÁTICO C",
+    "cif_comercializadora": "B73852972",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30850",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "64,58",
+    "fecha_cargo": "09 de octubre de 2013",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

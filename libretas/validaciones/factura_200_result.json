@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CRISTINA MIJARES PERAZA",
+    "dni_cliente": "46202008E",
+    "calle_cliente": "AVENIDA JARDIN BOTÁNICO, 1345 EDIFICIO INTRA 1 OF.",
+    "cp_cliente": "13190",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BETA RENOWABLE GROUP SA.",
+    "cif_comercializadora": "A33985540",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33203",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-enero-2013",
+    "importe_factura": "21,75",
+    "fecha_cargo": "20/12/2011",
+    "consumo_periodo": "19012013",
+    "potencia_contratada": "3,267"
+}

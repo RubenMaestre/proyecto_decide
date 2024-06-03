@@ -1,0 +1,51 @@
+Estimado/a cliente,
+
+En nuestra compañía, queremos asegurarnos de que entiendas cada detalle de tu factura de electricidad. A continuación, te presentamos una guía de tu factura para el periodo del placeholder_14 al placeholder_15.
+
+Datos de la Factura
+
+Número de factura: placeholder_13
+Fecha de emisión: placeholder_17
+Fecha de cargo:
+Importe total: placeholder_16 euros
+Datos del Cliente y Comercializadora
+
+Cliente: placeholder_01
+DNI: placeholder_02
+Dirección: placeholder_03, placeholder_04, placeholder_05, placeholder_06
+Comercializadora: placeholder_07
+CIF: placeholder_08
+Dirección: placeholder_09, placeholder_10, placeholder_11, placeholder_12
+Desglose del Importe
+
+Potencia contratada: placeholder_19 kW - 28,87 euros
+Energía consumida: placeholder_18 kWh - 45,54 euros
+Impuesto de electricidad: 3,80 euros
+Alquiler de equipos: 1,06 euros
+IGIC reducido: 7,82 euros
+IGIC normal: 0,07 euros
+Resumen del Consumo
+
+Lectura anterior: 7567 kWh
+Lectura actual: 7757 kWh
+Consumo en el periodo: placeholder_18 kWh
+Detalles del Contrato
+
+Titular: cliente
+NIF: placeholder_02
+Dirección: placeholder_03, CP placeholder_04, Población placeholder_05, Provincia placeholder_06
+Peaje de acceso: 2.0A
+Número de contador: 971086386
+Ref. contrato de suministro: 1946814670387
+Ref. contrato de acceso: 809087405368
+CUPS: ES8499131146833801QOQH
+Tipo de contador: contador inteligente
+Contacto y Atención al Cliente
+
+Teléfono: 900 103 601 (gratuito)
+Dirección:
+Reclamaciones: Para reclamaciones sobre el contrato o facturaciones, contacta a la Consejería de Empleo, Industria y Comercio de Canarias: 928 XXX XXX.
+Conclusión
+Esperamos que esta explicación te ayude a entender mejor los componentes y costos de tu consumo eléctrico, gestionándolo de manera más eficiente.
+
+Atentamente

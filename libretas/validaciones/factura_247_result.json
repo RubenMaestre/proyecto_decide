@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Alejo Cevedo Quiroga",
+    "dni_cliente": "15561128H",
+    "calle_cliente": "Paseo del Pireo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GRACIA UNZUETA HIDALGO E HIJOS SL",
+    "cif_comercializadora": "B87757464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "24/03/2007",
+    "fin_periodo": "23/04/2007",
+    "importe_factura": "129,55",
+    "fecha_cargo": "28/04/2007",
+    "consumo_periodo": "23/04/2007",
+    "potencia_contratada": "3,311"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Astrid Pacheco Navarro",
+    "dni_cliente": "75204805A",
+    "calle_cliente": "URIA MENDEZ - C. PRINCIPE DE VERGARA, Nº 187 08034 - BARCELONA",
+    "cp_cliente": "02486",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CONSTELLATION ENERGY COMMODITIES GROUP LIMITED",
+    "cif_comercializadora": "N0060091F.",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "31-julio-2010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/10/3107",
+    "fecha_cargo": "20/10/0208",
+    "consumo_periodo": "22104",
+    "potencia_contratada": "4,166"
+}

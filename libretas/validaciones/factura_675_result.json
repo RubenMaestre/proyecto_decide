@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tetis Ruiz Larios",
+    "dni_cliente": "87545287L",
+    "calle_cliente": "Paseo de José María Oñate",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "INGENIO CORE, S.L.",
+    "cif_comercializadora": "B87828679",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "21/12/1996",
+    "fin_periodo": "20/01/1997",
+    "importe_factura": "150,61",
+    "fecha_cargo": "25/01/1997",
+    "consumo_periodo": "20/01/1997",
+    "potencia_contratada": "4,445"
+}

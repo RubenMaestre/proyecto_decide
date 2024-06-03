@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OLIMPIA LAMAS PERALTA",
+    "dni_cliente": "85638069F",
+    "calle_cliente": "Calle de Jesús del Fresno",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "REVEREND BAJONA, 26",
+    "cif_comercializadora": "B25025164",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "19/03/2000",
+    "fin_periodo": "18/04/2000",
+    "importe_factura": "14,37",
+    "fecha_cargo": "23/04/2000",
+    "consumo_periodo": "18/04/2000",
+    "potencia_contratada": "3,061"
+}

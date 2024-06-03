@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "XENIA ANAYA",
+    "dni_cliente": "19676375J",
+    "calle_cliente": "AVENIDA DE AMERICA 18",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A42785949",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "26/10/1998",
+    "fin_periodo": "25/12/1998",
+    "importe_factura": "231,80",
+    "fecha_cargo": "30/12/1998",
+    "consumo_periodo": "25/12/1998",
+    "potencia_contratada": "4,785"
+}

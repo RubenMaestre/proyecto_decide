@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mimi Pineda Valencia",
+    "dni_cliente": "49022311L",
+    "calle_cliente": "Calle de la Playa del Sardinero",
+    "cp_cliente": "40550",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CANARY BIOENERGY, S.L.U.",
+    "cif_comercializadora": "B38920500",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28-agosto-2009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-septiembre-2009",
+    "importe_factura": "20/09/2709",
+    "fecha_cargo": "20/09/2808",
+    "consumo_periodo": "36239",
+    "potencia_contratada": "1,770"
+}

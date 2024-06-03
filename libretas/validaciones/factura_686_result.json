@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CATALINA LOMBARDO CUEVAS",
+    "dni_cliente": "34097219H",
+    "calle_cliente": "Lugar la Rocina",
+    "cp_cliente": "42313",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENDI ENERGY TRADING SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B95960365",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25-julio-2001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "20/01/2507",
+    "fin_periodo": "20 de",
+    "importe_factura": "26,93",
+    "fecha_cargo": "20/01/2509",
+    "consumo_periodo": "20/01/2309",
+    "potencia_contratada": "3,871"
+}

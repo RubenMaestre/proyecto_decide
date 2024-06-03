@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Valentín Sabín Pastrana",
+    "dni_cliente": "14520792H",
+    "calle_cliente": "Calle Flor de los Tilos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELURENERGIA VERDE SL",
+    "cif_comercializadora": "B02571909",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "16/01/2005",
+    "fin_periodo": "17/03/2005",
+    "importe_factura": "173,29",
+    "fecha_cargo": "22/03/2005",
+    "consumo_periodo": "17/03/2005",
+    "potencia_contratada": "5,567"
+}

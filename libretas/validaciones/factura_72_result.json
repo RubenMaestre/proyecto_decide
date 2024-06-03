@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROSELINA QUESADA PEÑA",
+    "dni_cliente": "46472130D",
+    "calle_cliente": "Calle Ciprés",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EUROPEA DE ENERGIA LIMPIA, S.L.",
+    "cif_comercializadora": "B76361393",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "04/12/1998",
+    "fin_periodo": "03/01/1999",
+    "importe_factura": "55,91",
+    "fecha_cargo": "08/01/1999",
+    "consumo_periodo": "03/01/1999",
+    "potencia_contratada": "1,312"
+}

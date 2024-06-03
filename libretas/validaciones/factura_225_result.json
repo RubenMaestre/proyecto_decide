@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ireneo Castellanos Murillo",
+    "dni_cliente": "80319695S",
+    "calle_cliente": "social Manso Avellana sn",
+    "cp_cliente": "30570",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B17659111",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17844",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gerona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "266,51",
+    "fecha_cargo": "09 de octubre de 2016",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

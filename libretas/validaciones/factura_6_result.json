@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dimitri Segura Lucas",
+    "dni_cliente": "13428402J",
+    "calle_cliente": "Calle Santiago de Rusiñol",
+    "cp_cliente": "28742",
+    "población_cliente": "",
+    "provincia_cliente": "Madrid",
+    "nombre_comercializadora": "Marin, S.L. 809087405368",
+    "cif_comercializadora": "B25813767",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25172",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-mayo-2020",
+    "importe_factura": "87,16",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,097"
+}

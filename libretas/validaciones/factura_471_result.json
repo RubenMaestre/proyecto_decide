@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ON DEMAND FACILITIES, SLU",
+    "dni_cliente": "64604044B",
+    "calle_cliente": "Calle Namadilla",
+    "cp_cliente": "32897",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "DEMAND FACILITIES, SLU",
+    "cif_comercializadora": "B91405084",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41018",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "255,45",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

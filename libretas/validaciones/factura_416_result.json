@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Alina Martí Camareno",
+    "dni_cliente": "18624402Z",
+    "calle_cliente": "Calle Alcalde Heliodoro Sanz",
+    "cp_cliente": "37440",
+    "población_cliente": "",
+    "provincia_cliente": "Diego",
+    "nombre_comercializadora": "NUEVA COMERCIALIZADORA ESPAÑOLA SL",
+    "cif_comercializadora": "B99301822",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "203,53",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

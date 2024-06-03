@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TAMAR PARDO VALLEJO",
+    "dni_cliente": "32268133F",
+    "calle_cliente": "Calle de Miguel Mayor",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SOLAR EAAS, S.L.",
+    "cif_comercializadora": "B88639059",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "24/05/2017",
+    "fin_periodo": "23/07/2017",
+    "importe_factura": "188,56",
+    "fecha_cargo": "28/07/2017",
+    "consumo_periodo": "23/07/2017",
+    "potencia_contratada": "2,829"
+}

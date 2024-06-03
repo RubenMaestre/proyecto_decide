@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Inma Macías Céspedes",
+    "dni_cliente": "38202383G",
+    "calle_cliente": "PLAZA SAN FRANCISCO 4 03190 - PILAR DE LA HORADADA",
+    "cp_cliente": "24516",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "CONCISA-COMUNICACIÓN MARKETING Y SERVICIOS, S.L. UNIPERSONAL",
+    "cif_comercializadora": "B30819577",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02-mayo-2001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "20/01/0205",
+    "fin_periodo": "20/01/0107",
+    "importe_factura": "101,19",
+    "fecha_cargo": "06 de julio de 2001",
+    "consumo_periodo": "13407",
+    "potencia_contratada": "4,294"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GONZALO URRUTIA DE LA ROSA",
+    "dni_cliente": "28474158C",
+    "calle_cliente": "Camino del Valle a las Fuentes",
+    "cp_cliente": "34480",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HELIOELEC ENERGIA ELECTRICA, S.L.",
+    "cif_comercializadora": "B42555284",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03190",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "14,31",
+    "fecha_cargo": "",
+    "consumo_periodo": "79283",
+    "potencia_contratada": "4,269"
+}

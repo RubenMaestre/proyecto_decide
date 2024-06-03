@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Manuel Villareal Montalvo",
+    "dni_cliente": "29331444G",
+    "calle_cliente": "Calle Río Algodor",
+    "cp_cliente": "42112",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "WEGO ENERGY, S.L.",
+    "cif_comercializadora": "B98953177",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "86,03",
+    "fecha_cargo": "04 de septiembre de 1991",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

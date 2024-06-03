@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nicodemo Caballero Fuentes",
+    "dni_cliente": "23560919H",
+    "calle_cliente": "CALLE TEMPLE, 25 08911 - Badalona",
+    "cp_cliente": "17110",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA ECOLÓGICA ECONÓMICA, S.L.",
+    "cif_comercializadora": "B01620160",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "20/10/0810",
+    "fin_periodo": "08-octubre-2010",
+    "importe_factura": "28,51",
+    "fecha_cargo": "20/10/0912",
+    "consumo_periodo": "20/10/0712",
+    "potencia_contratada": "4,196"
+}

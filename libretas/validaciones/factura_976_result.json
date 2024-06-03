@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Francisco Javier Ponce Vela",
+    "dni_cliente": "57881825W",
+    "calle_cliente": "Calle de Borgoña",
+    "cp_cliente": "21021995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DE ALBATERENSE, S.L",
+    "cif_comercializadora": "B53482774",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03340",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-febrero-1995",
+    "importe_factura": "10,11",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,917"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EGIDIO ESTRADA URIBE",
+    "dni_cliente": "51045805L",
+    "calle_cliente": "AVENIDA PORTUS GADITANUS, 18- PUERTA 13 11518 - PUERTO REAL",
+    "cp_cliente": "34114",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EGIDIO ESTRADA URIBE",
+    "cif_comercializadora": "B72313992",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "11518",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "31-marzo-1999",
+    "importe_factura": "13,20",
+    "fecha_cargo": "05 de mayo de 1999",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,974"
+}

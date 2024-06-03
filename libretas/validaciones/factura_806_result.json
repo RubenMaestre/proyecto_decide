@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AMALIA OTERO LOREDO",
+    "dni_cliente": "24512023A",
+    "calle_cliente": "Av Alcalde Díaz Saavedra Navarro 49699",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CLOUD ENERGY SYSTEM, S.L",
+    "cif_comercializadora": "B99505679",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ZARAGOZA",
+    "número_factura": "",
+    "inicio_periodo": "28/02/1998",
+    "fin_periodo": "29/04/1998",
+    "importe_factura": "92,99",
+    "fecha_cargo": "04/05/1998",
+    "consumo_periodo": "29/04/1998",
+    "potencia_contratada": "1,915"
+}

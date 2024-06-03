@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEOCRICIA ZULETA NOVOA",
+    "dni_cliente": "58986620S",
+    "calle_cliente": "Travesia del Condado de Treviño",
+    "cp_cliente": "24339",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NOSA ENERXIA SCG.",
+    "cif_comercializadora": "F94090792",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09-noviembre-2005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "20/05/0911",
+    "fin_periodo": "20 de",
+    "importe_factura": "20,42",
+    "fecha_cargo": "13 de enero de 2006",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,994"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ENERXIA GALEGA MAIS SLU",
+    "dni_cliente": "96660798D",
+    "calle_cliente": "Avenida Primera",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B27266279",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "20/07/1992",
+    "fin_periodo": "18/09/1992",
+    "importe_factura": "121,58",
+    "fecha_cargo": "23/09/1992",
+    "consumo_periodo": "18/09/1992",
+    "potencia_contratada": "3,190"
+}

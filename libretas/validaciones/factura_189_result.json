@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TYLER LÁNDEZ TRUJILLO",
+    "dni_cliente": "61890602V",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ISMAEL BIOSCA, S.L. 531223285136",
+    "cif_comercializadora": "B63841597",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "29/07/2003",
+    "fin_periodo": "27/09/2003",
+    "importe_factura": "207,50",
+    "fecha_cargo": "02/10/2003",
+    "consumo_periodo": "27/09/2003",
+    "potencia_contratada": "5,912"
+}

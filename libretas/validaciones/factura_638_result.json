@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GERMANO AMADOR TEDESCO",
+    "dni_cliente": "54914263S",
+    "calle_cliente": "Calle Puerto de Mijares",
+    "cp_cliente": "09315",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SEVEN TRADE SOLUTIONS, S.L.U.",
+    "cif_comercializadora": "B01813104",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-octubre-2005",
+    "importe_factura": "20/05/0111",
+    "fecha_cargo": "20/05/0210",
+    "consumo_periodo": "71536",
+    "potencia_contratada": "4,942"
+}

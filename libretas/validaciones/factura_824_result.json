@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "YOCO ROMERO ALCÁZAR",
+    "dni_cliente": "48558472K",
+    "calle_cliente": "Plaza Del Pilar",
+    "cp_cliente": "50548",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA CALLOSINA, S.L.",
+    "cif_comercializadora": "B53480547",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03360",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-enero-2010",
+    "importe_factura": "26,78",
+    "fecha_cargo": "20/10/0201",
+    "consumo_periodo": "20/10/0303",
+    "potencia_contratada": "4,007"
+}

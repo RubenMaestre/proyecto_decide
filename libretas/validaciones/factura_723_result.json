@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PETRARCA MAURER MARRERO",
+    "dni_cliente": "19395899E",
+    "calle_cliente": "PLAZA DE CUENCA, 1 16320 - TALAYUELAS",
+    "cp_cliente": "24122021",
+    "población_cliente": "",
+    "provincia_cliente": "Córdoba",
+    "nombre_comercializadora": "ELECTRICA TALAYUELAS S.L",
+    "cif_comercializadora": "B16322042",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16320",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Córdoba",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "179,12",
+    "fecha_cargo": "24-diciembre-2021",
+    "consumo_periodo": "97169",
+    "potencia_contratada": "3,872"
+}

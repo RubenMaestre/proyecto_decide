@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Piera Suárez Busto",
+    "dni_cliente": "52843484H",
+    "calle_cliente": "Calle de la Ciudad de Berlín",
+    "cp_cliente": "26325",
+    "población_cliente": "",
+    "provincia_cliente": "La Rioja",
+    "nombre_comercializadora": "ADS ENERGY 8.0 SL",
+    "cif_comercializadora": "B66162421",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07021995",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-diciembre-1994",
+    "importe_factura": "167,85",
+    "fecha_cargo": "12 de febrero de 1995",
+    "consumo_periodo": "57233",
+    "potencia_contratada": "5,637"
+}

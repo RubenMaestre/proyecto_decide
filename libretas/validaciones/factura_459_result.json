@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MAITE BENÍTEZ DANIEL",
+    "dni_cliente": "45692433N",
+    "calle_cliente": "Calle de Pedro de Répide",
+    "cp_cliente": "12052019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA BENUZA Y BAÑESA, SL.",
+    "cif_comercializadora": "B24675811",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "C",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-mayo-2019",
+    "importe_factura": "28,20",
+    "fecha_cargo": "",
+    "consumo_periodo": "36462",
+    "potencia_contratada": "4,094"
+}

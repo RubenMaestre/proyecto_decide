@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Patty Solé Seballos",
+    "dni_cliente": "53248121Q",
+    "calle_cliente": "Calle de Campuzano",
+    "cp_cliente": "29470",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DAIMUZ ENERGIA SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B04787024",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "21-junio-2000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-agosto-2000",
+    "importe_factura": "21062000",
+    "fecha_cargo": "25 de agosto de 2000",
+    "consumo_periodo": "20082000",
+    "potencia_contratada": "4,030"
+}

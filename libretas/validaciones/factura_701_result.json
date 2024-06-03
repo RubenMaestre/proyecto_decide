@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Friné Pedroza Machado",
+    "dni_cliente": "50839669D",
+    "calle_cliente": "Calle de Albania",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ORUS ENERGÍA, S.L.",
+    "cif_comercializadora": "B64885064",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "16/04/1994",
+    "fin_periodo": "16/05/1994",
+    "importe_factura": "66,12",
+    "fecha_cargo": "21/05/1994",
+    "consumo_periodo": "16/05/1994",
+    "potencia_contratada": "4,456"
+}

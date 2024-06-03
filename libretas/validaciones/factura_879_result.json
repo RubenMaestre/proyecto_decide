@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SERAPIO REAL CUEVAS",
+    "dni_cliente": "66061925Z",
+    "calle_cliente": "Plaza de Cibeles",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "STIN S.A",
+    "cif_comercializadora": "A02022366",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "06/09/2013",
+    "fin_periodo": "06/10/2013 30 días  ",
+    "importe_factura": "136,67",
+    "fecha_cargo": "11/10/2013",
+    "consumo_periodo": "86975",
+    "potencia_contratada": "4,092"
+}

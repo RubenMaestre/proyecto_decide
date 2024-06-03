@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vedia Ordóñez Taracena",
+    "dni_cliente": "88304309H",
+    "calle_cliente": "Paraje Cruviejas",
+    "cp_cliente": "15062020",
+    "población_cliente": "",
+    "provincia_cliente": "Huesca",
+    "nombre_comercializadora": "GAZPROM MARKETING TRADING",
+    "cif_comercializadora": "GB927405129",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41080-Sevilla",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-junio-2020",
+    "importe_factura": "27,01",
+    "fecha_cargo": "",
+    "consumo_periodo": "71293",
+    "potencia_contratada": "4,014"
+}

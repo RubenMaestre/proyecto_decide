@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lucrecia Alanis Real",
+    "dni_cliente": "37573120K",
+    "calle_cliente": "Calle del Corto",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B12595724",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "19/01/2002",
+    "fin_periodo": "20/03/2002",
+    "importe_factura": "316,46",
+    "fecha_cargo": "25/03/2002",
+    "consumo_periodo": "20/03/2002",
+    "potencia_contratada": "4,463"
+}

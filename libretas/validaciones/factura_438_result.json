@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LUCIO BÁEZ BACA",
+    "dni_cliente": "52512014R",
+    "calle_cliente": "Calle de Pérez Herrera",
+    "cp_cliente": "01052017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DE SOT DE CHERA SCV.",
+    "cif_comercializadora": "F46027298",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30-junio-2017",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-mayo-2017",
+    "importe_factura": "35,83",
+    "fecha_cargo": "05 de julio de 2017",
+    "consumo_periodo": "38145",
+    "potencia_contratada": "5,113"
+}

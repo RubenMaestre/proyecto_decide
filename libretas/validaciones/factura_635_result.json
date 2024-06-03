@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NEPTUNO NOBLE ALCOCER",
+    "dni_cliente": "43066196F",
+    "calle_cliente": "Calle Jumilla",
+    "cp_cliente": "10031990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ZERO ELECTRUM SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B55161400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17244",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-marzo-1990",
+    "importe_factura": "21,62",
+    "fecha_cargo": "14 de mayo de 1990",
+    "consumo_periodo": "65539",
+    "potencia_contratada": "3,148"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Noemí Maduro Zacarías",
+    "dni_cliente": "",
+    "calle_cliente": "Calle Gravera",
+    "cp_cliente": "33002",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Social CJULIO CÉSAR, 3, 2 PLT",
+    "cif_comercializadora": "B90472028",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-marzo-2000",
+    "importe_factura": "16032000",
+    "fecha_cargo": "21 de mayo de 2000",
+    "consumo_periodo": "16052000",
+    "potencia_contratada": "4,018"
+}

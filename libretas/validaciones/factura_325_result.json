@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sabra Galindo Calleja",
+    "dni_cliente": "18625266G",
+    "calle_cliente": "Finca del Quexigal",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "ArabaÁlava",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "01/12/2014",
+    "fin_periodo": "30/01/2015",
+    "importe_factura": "117,16",
+    "fecha_cargo": "04/02/2015",
+    "consumo_periodo": "30/01/2015",
+    "potencia_contratada": "5,315"
+}

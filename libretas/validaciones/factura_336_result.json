@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OITA LAFUENTE HERNÁNDEZ",
+    "dni_cliente": "91811749G",
+    "calle_cliente": "CALLE ALGUIXOS 5",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "OITA LAFUENTE HERNÁNDEZ",
+    "cif_comercializadora": "ArabaÁlava",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "09/10/2013",
+    "fin_periodo": "08/11/2013 30 días  ",
+    "importe_factura": "165,82",
+    "fecha_cargo": "13/11/2013",
+    "consumo_periodo": "38476",
+    "potencia_contratada": "3,569"
+}

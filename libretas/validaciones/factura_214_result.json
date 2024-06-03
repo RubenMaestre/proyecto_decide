@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Emma Alcocer Cuéllar",
+    "dni_cliente": "92093896X",
+    "calle_cliente": "Travesia de la Vía",
+    "cp_cliente": "11051998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MUNICIPAL DE SERVICIOS",
+    "cif_comercializadora": "B12820155",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "10-junio-1998",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-mayo-1998",
+    "importe_factura": "14,42",
+    "fecha_cargo": "15 de junio de 1998",
+    "consumo_periodo": "25977",
+    "potencia_contratada": "4,288"
+}

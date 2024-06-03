@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Laia Zabaleta Travieso",
+    "dni_cliente": "53517917E",
+    "calle_cliente": "AVENIDA PAÍSOS CATALANS NÚM 29-LOCAL 1 08500 -",
+    "cp_cliente": "16647",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AAYUM COMPANYIA CATALANA SUBMINISTRADORA DENERGIA",
+    "cif_comercializadora": "B65509887",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-mayo-2015",
+    "importe_factura": "20,24",
+    "fecha_cargo": "",
+    "consumo_periodo": "45637",
+    "potencia_contratada": "2,868"
+}

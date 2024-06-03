@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Kali Heredia Sandoval",
+    "dni_cliente": "50242493M",
+    "calle_cliente": "Calle del Aragonito",
+    "cp_cliente": "26212",
+    "población_cliente": "",
+    "provincia_cliente": "La Rioja",
+    "nombre_comercializadora": "INSERIMOS ENERGÍA, S.L",
+    "cif_comercializadora": "B27779818",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08041999",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-marzo-1999",
+    "importe_factura": "13,86",
+    "fecha_cargo": "",
+    "consumo_periodo": "56123",
+    "potencia_contratada": "4,209"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Zacarías Cevedo Valentín",
+    "dni_cliente": "37595295R",
+    "calle_cliente": "Senda de Zipi y Zape",
+    "cp_cliente": "21061990",
+    "población_cliente": "",
+    "provincia_cliente": "Burgos",
+    "nombre_comercializadora": "DB ENERGY COMMODITIES",
+    "cif_comercializadora": "GB243609761",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "244375276671",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-junio-1990",
+    "importe_factura": "106,02",
+    "fecha_cargo": "26 de julio de 1990",
+    "consumo_periodo": "31352",
+    "potencia_contratada": "3,982"
+}

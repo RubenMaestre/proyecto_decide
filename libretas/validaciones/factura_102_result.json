@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NORMA OCAMPO",
+    "dni_cliente": "84225139J",
+    "calle_cliente": "Callejon de la Chitina",
+    "cp_cliente": "31122019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NORMA OCAMPO VALDIVA",
+    "cif_comercializadora": "B85634350",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29-noviembre-2019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "12,10",
+    "fecha_cargo": "",
+    "consumo_periodo": "74902",
+    "potencia_contratada": "3,417"
+}

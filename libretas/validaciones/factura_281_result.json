@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALBINA IZQUIERDO PLÁCIDO",
+    "dni_cliente": "56877225L",
+    "calle_cliente": "Avenida de los Saltos del Sil",
+    "cp_cliente": "17133",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALBINA IZQUIERDO PLÁCIDO",
+    "cif_comercializadora": "B81997439",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "20/11/2112",
+    "fin_periodo": "19-febrero-2012",
+    "importe_factura": "24,35",
+    "fecha_cargo": "",
+    "consumo_periodo": "20/12/1902",
+    "potencia_contratada": "atencionalclientehidroelectricasilleda.co"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Malva Urieta Ferrer",
+    "dni_cliente": "30147460A",
+    "calle_cliente": "Calle los Olivos",
+    "cp_cliente": "18616",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B66101171",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08174",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "20/11/2401",
+    "fin_periodo": "20/11/2503",
+    "importe_factura": "236,40",
+    "fecha_cargo": "",
+    "consumo_periodo": "16073",
+    "potencia_contratada": "4,705"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEÓNIDA CASTAÑEDA PUENTE",
+    "dni_cliente": "74384459K",
+    "calle_cliente": "Calle de Picos de Urbión",
+    "cp_cliente": "39590",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "WIND TO MARKET S.A.",
+    "cif_comercializadora": "A84000884",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-mayo-2012",
+    "importe_factura": "20,45",
+    "fecha_cargo": "20/12/1407",
+    "consumo_periodo": "20/12/1207",
+    "potencia_contratada": "3,093"
+}

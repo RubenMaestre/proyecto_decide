@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rosario Infante Montalbán",
+    "dni_cliente": "13081468B",
+    "calle_cliente": "Calle de Los Nogales",
+    "cp_cliente": "06051997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA SERRANIA DE RONDA",
+    "cif_comercializadora": "B93158293",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29370",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-marzo-1997",
+    "importe_factura": "21,50",
+    "fecha_cargo": "09 de mayo de 1997",
+    "consumo_periodo": "47287",
+    "potencia_contratada": "3,138"
+}

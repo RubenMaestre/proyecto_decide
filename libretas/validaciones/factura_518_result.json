@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CHANTAL URIETA SALAZAR",
+    "dni_cliente": "35714865M",
+    "calle_cliente": "Calle de las Islas Hawai",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "PT500697256",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "27/01/2014",
+    "fin_periodo": "28/03/2014",
+    "importe_factura": "31,14",
+    "fecha_cargo": "02/04/2014",
+    "consumo_periodo": "28/03/2014",
+    "potencia_contratada": "4,034"
+}

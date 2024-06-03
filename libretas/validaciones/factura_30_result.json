@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FILOMENO SARDINAS",
+    "dni_cliente": "54254277Z",
+    "calle_cliente": "Calle de Malcampo",
+    "cp_cliente": "10121994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NOSA ENERXIA SCG.",
+    "cif_comercializadora": "F94090792",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36619",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-febrero-1995",
+    "importe_factura": "22,59",
+    "fecha_cargo": "13 de febrero de 1995",
+    "consumo_periodo": "28970",
+    "potencia_contratada": "3,350"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PARMENIO SANTOS VELA",
+    "dni_cliente": "34670181G",
+    "calle_cliente": "Calle de Miguel Corral Aragón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": "Ciudad Real",
+    "nombre_comercializadora": "SHELL ENERGY TRADING",
+    "cif_comercializadora": "GB235763255146",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "- Extranjero",
+    "número_factura": "",
+    "inicio_periodo": "18/11/1994",
+    "fin_periodo": "18/12/1994 30 días  ",
+    "importe_factura": "101,85",
+    "fecha_cargo": "23/12/1994",
+    "consumo_periodo": "42937",
+    "potencia_contratada": "3,685"
+}

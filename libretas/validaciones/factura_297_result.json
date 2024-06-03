@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Icaro Dueñas Barba",
+    "dni_cliente": "82061073V",
+    "calle_cliente": "Camino Vereda del Lomo",
+    "cp_cliente": "33813",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  SANT ANDREU DE LA BARCA, 9 LOCAL 2, MARTORELL",
+    "cif_comercializadora": "B66296401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08760",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BARCELONA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "51,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

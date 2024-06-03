@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "51279403Y",
+    "calle_cliente": "Calle Bristol",
+    "cp_cliente": "45138",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F46004750",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46610",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "174,54",
+    "fecha_cargo": "02 de abril de 2007",
+    "consumo_periodo": "52129",
+    "potencia_contratada": ""
+}

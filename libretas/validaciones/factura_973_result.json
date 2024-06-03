@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ludovica Galeano Treminio",
+    "dni_cliente": "23008191A",
+    "calle_cliente": "Glorieta Virgen de los Remedios",
+    "cp_cliente": "37891",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LERSA, S.L.",
+    "cif_comercializadora": "B17650995",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "127,43",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

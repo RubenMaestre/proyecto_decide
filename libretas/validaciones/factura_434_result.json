@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Julieta Molleda Obregón",
+    "dni_cliente": "61788328R",
+    "calle_cliente": "FUENTE LA HIGUERA",
+    "cp_cliente": "03349",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EPAC SOLUCIONES ENERGETICAS, S.L",
+    "cif_comercializadora": "B40657413",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-septiembre-2009",
+    "importe_factura": "14,95",
+    "fecha_cargo": "20/09/0209",
+    "consumo_periodo": "20/09/0111",
+    "potencia_contratada": "2,168"
+}

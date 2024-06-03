@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "20980142W",
+    "calle_cliente": "Paseo de José Ignacio de Ibarrola",
+    "cp_cliente": "5905732426909",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SULPICIO ESCOVAR FONSECA",
+    "cif_comercializadora": "F03013356",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03410",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Alicante",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "62,52",
+    "fecha_cargo": "29 de enero de 1994",
+    "consumo_periodo": "58468",
+    "potencia_contratada": "BIAR"
+}

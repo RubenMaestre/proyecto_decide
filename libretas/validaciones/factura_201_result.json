@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GAZPROM MARKETING TRADING LIMITED  Triton Street 20, Londres, NW1 3BF",
+    "dni_cliente": "73128643M",
+    "calle_cliente": "Camino Finca Campisano",
+    "cp_cliente": "44220",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "GAZPROM MARKETING TRADING",
+    "cif_comercializadora": "GB927405129",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "170,39",
+    "fecha_cargo": "23 de enero de 2014",
+    "consumo_periodo": "85916",
+    "potencia_contratada": ""
+}

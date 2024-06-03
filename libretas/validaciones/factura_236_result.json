@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PROSPERO OCHOA",
+    "dni_cliente": "35851977Z",
+    "calle_cliente": "RONDA NARCIS MONTURIOL 6 EDIFICIO DESTRO, 103B 46980 -",
+    "cp_cliente": "29032021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Social RONDA NARCIS MONTURIOL 6 EDIFICIO DESTRO, 103B",
+    "cif_comercializadora": "B98219868",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46980",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Bizkaia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-marzo-2021",
+    "importe_factura": "23,84",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,461"
+}

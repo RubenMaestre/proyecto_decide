@@ -1,0 +1,45 @@
+{
+    "text": "datos de la factura: el cliente, osian marti placido, con dni 21779668W, ha recibido la factura numero placeholder_13 con referencia 3299002825308181. la fecha de emision de la factura es placeholder_17. el periodo de facturacion comprende desde el placeholder_14 hasta el placeholder_15, abarcando un total de 30 dias. la fecha de cargo esta programada para el 18 de diciembre de 1999. la empresa comercializadora responsable es placeholder_07, con cif placeholder_08. su direccion es placeholder_09, placeholder_10 placeholder_11, provincia placeholder_12. el cliente reside en ronda de enrico fermi, cp 32847, poblacion penamellera alta, provincia albacete. la forma de pago es domiciliada. detalles financieros: los conceptos de potencia, energia y otros impuestos incluyen un igic reducido de 11,60, otros importes de 60,49, y varios cargos adicionales como 2,75, 3,69 y 1,52. el pago se justifica con el correspondiente apunte bancario. para mas detalles, puede consultar el reverso de la factura. consumo de energia: durante el periodo de facturacion, el consumo en los periodos punta y valle se detalla a continuacion. la evolucion del consumo es de placeholder_18 kwh de 12h a 22h y de 22h a 12h. la lectura anterior fue de 660 y 550, reales a 23518 kwh, mientras que la lectura actual fue de 440 y 330, reales a 23762 kwh, resultando en un consumo de 110 y 0 kwh en el periodo. el consumo acumulado durante el ultimo ano es de x.xxx kwh en el valle y xx kwh en otros periodos. el reparto del consumo muestra que la mayor parte se ha realizado en el periodo valle. total de la factura: el importe total de la factura es de 40,61 euros. el resumen de la factura y los datos de pago indican que el importe por energia consumida es de 244 kwh x 0,247889 €/kwh. el desglose del importe de su factura es el siguiente: el importe por potencia contratada es de 2,454 kw x 0,111065 €/kw x 30 dias, totalizando 11,60 euros. la facturacion por peaje de acceso es de kw x 37,536029 €/kw y ano x 30/365 dias, totalizando 10,74 euros. otros importes incluyen el consumo p1 de 244 kwh x 0,104051 €/kwh y los incentivos a las energias renovables, cogeneracion y residuos, coste de redes de transporte y distribucion, y otros costes regulados incluida la anualidad del deficit. el subtotal es de 72,09 euros.",
+    "entities": [
+        [
+            33,
+            52,
+            "nombre_cliente"
+        ],
+        [
+            62,
+            71,
+            "dni_cliente"
+        ],
+        [
+            580,
+            601,
+            "calle_cliente"
+        ],
+        [
+            606,
+            611,
+            "cp_cliente"
+        ],
+        [
+            623,
+            639,
+            "poblacion_cliente"
+        ],
+        [
+            651,
+            659,
+            "provincia_cliente"
+        ],
+        [
+            1632,
+            1637,
+            "importe_factura"
+        ],
+        [
+            1863,
+            1868,
+            "potencia_contratada"
+        ]
+    ]
+}

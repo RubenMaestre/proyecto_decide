@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "APELES ELECTRICIDAD, SL",
+    "dni_cliente": "17013629T",
+    "calle_cliente": "Calle de Emilio Serrano 34128 Nogal de las Huertas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "APELES ELECTRICIDAD, SL",
+    "cif_comercializadora": "B76654771",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tenerife",
+    "número_factura": "",
+    "inicio_periodo": "04/03/2019",
+    "fin_periodo": "03/04/2019",
+    "importe_factura": "26,92",
+    "fecha_cargo": "08/04/2019",
+    "consumo_periodo": "03/04/2019",
+    "potencia_contratada": "5,988"
+}

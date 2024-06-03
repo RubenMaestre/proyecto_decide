@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Anunciata Ramos Bastida",
+    "dni_cliente": "38652791A",
+    "calle_cliente": "Calle de los Lirios",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A65376766",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "08/04/2015",
+    "fin_periodo": "07/06/2015",
+    "importe_factura": "103,46",
+    "fecha_cargo": "12/06/2015",
+    "consumo_periodo": "07/06/2015",
+    "potencia_contratada": "3,374"
+}

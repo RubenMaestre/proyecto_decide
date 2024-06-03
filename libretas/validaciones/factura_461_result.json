@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PERSEO LAGOS",
+    "dni_cliente": "57373037C",
+    "calle_cliente": "Calle Marqueteros",
+    "cp_cliente": "24005",
+    "población_cliente": "",
+    "provincia_cliente": "León",
+    "nombre_comercializadora": "KALCUS ADVANCE, S.L",
+    "cif_comercializadora": "B66658188",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22-enero-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "20/06/2201",
+    "fin_periodo": "20/06/2102",
+    "importe_factura": "130,62",
+    "fecha_cargo": "26 de febrero de 2006",
+    "consumo_periodo": "19708",
+    "potencia_contratada": "4,135"
+}

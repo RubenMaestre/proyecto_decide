@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "74378270L",
+    "calle_cliente": "PIEDAD RESTREPO GUERRERO",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "VOLTIEN COMERCIALIZADORA ELECTRICA, S.L.",
+    "cif_comercializadora": "B98846363",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "19/06/2002",
+    "fin_periodo": "18/08/2002",
+    "importe_factura": "99,47",
+    "fecha_cargo": "23/08/2002",
+    "consumo_periodo": "18/08/2002",
+    "potencia_contratada": "4,738"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ISAAC CORNEJO OLIVERA",
+    "dni_cliente": "92489249Q",
+    "calle_cliente": "POLIGONO ESPIRITU SANTO",
+    "cp_cliente": "33010",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "INTEGRACIÓN ASTURIANA DE TELECOMUNICACIONES, S.L.",
+    "cif_comercializadora": "B74139429",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ASTURIAS",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "271,06",
+    "fecha_cargo": "09 de agosto de 1993",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

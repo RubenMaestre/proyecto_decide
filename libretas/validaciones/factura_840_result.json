@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LILIANA MOSCOA NIETO",
+    "dni_cliente": "73498118P",
+    "calle_cliente": "Calle de las Infantas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B93358513",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "26/08/2015",
+    "fin_periodo": "25/10/2015",
+    "importe_factura": "198,94",
+    "fecha_cargo": "30/10/2015",
+    "consumo_periodo": "25/10/2015",
+    "potencia_contratada": "4,226"
+}

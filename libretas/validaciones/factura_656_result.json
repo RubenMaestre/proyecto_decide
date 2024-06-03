@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Segismundo Sandino Lucas",
+    "dni_cliente": "10644631R",
+    "calle_cliente": "",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELÉCTRICA CATRALENSE, SLU",
+    "cif_comercializadora": "B53485140",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "26/12/2018",
+    "fin_periodo": "24/02/2019",
+    "importe_factura": "162,60",
+    "fecha_cargo": "01/03/2019",
+    "consumo_periodo": "24/02/2019",
+    "potencia_contratada": "4,580"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EFRAÍN MONGE VALENCIA",
+    "dni_cliente": "87814823H",
+    "calle_cliente": "Calle Villarta",
+    "cp_cliente": "42312",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RELUZCA ENERGÍA, S.L.",
+    "cif_comercializadora": "B87327128",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "25-marzo-2013",
+    "importe_factura": "25032013",
+    "fecha_cargo": "29 de mayo de 2013",
+    "consumo_periodo": "24052013",
+    "potencia_contratada": "5,262"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "UNIELECTRICA ENERGIA, S.A",
+    "dni_cliente": "12698822Q",
+    "calle_cliente": "Paseo de Serbales",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "UNIELECTRICA ENERGIA, S.A",
+    "cif_comercializadora": "A14944276",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "01/03/1994",
+    "fin_periodo": "31/03/1994",
+    "importe_factura": "169,28",
+    "fecha_cargo": "05/04/1994",
+    "consumo_periodo": "31/03/1994",
+    "potencia_contratada": "2,454"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Conrado Daniel Iglesias",
+    "dni_cliente": "73635161V",
+    "calle_cliente": "Calle la Solana",
+    "cp_cliente": "27092018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "IBERDESA COMERCIALIZADORA",
+    "cif_comercializadora": "B90393497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41410",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "19,78",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,799"
+}

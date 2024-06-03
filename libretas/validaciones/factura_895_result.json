@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PETRONILA FRAGA ESPINO",
+    "dni_cliente": "22305291Y",
+    "calle_cliente": "Avenida de la Dehesa",
+    "cp_cliente": "07051998",
+    "población_cliente": "",
+    "provincia_cliente": "Granada",
+    "nombre_comercializadora": "GESTINER INGENIEROS, S.L.",
+    "cif_comercializadora": "B82410549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "152,98",
+    "fecha_cargo": "",
+    "consumo_periodo": "24119",
+    "potencia_contratada": "4,140"
+}

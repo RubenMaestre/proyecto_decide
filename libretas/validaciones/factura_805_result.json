@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LOLA MONTALVO",
+    "dni_cliente": "11528816C",
+    "calle_cliente": "Camino del Boquinegro",
+    "cp_cliente": "15172",
+    "población_cliente": "",
+    "provincia_cliente": "CORUÑA",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B94042892",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "16,89",
+    "fecha_cargo": "14 de enero de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

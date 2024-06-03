@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Beatriz Salmón Céspedes",
+    "dni_cliente": "36132435X",
+    "calle_cliente": "Calle de Ricardo de la Vega",
+    "cp_cliente": "13081994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INGENIO CORE, S.L.",
+    "cif_comercializadora": "B87828679",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28044",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-agosto-1994",
+    "importe_factura": "22,34",
+    "fecha_cargo": "17 de septiembre de 1994",
+    "consumo_periodo": "",
+    "potencia_contratada": "6,375"
+}

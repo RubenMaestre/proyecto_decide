@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Alejandro Nieto Redondo",
+    "dni_cliente": "35429010V",
+    "calle_cliente": "Calle de Suecia",
+    "cp_cliente": "29052014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGYA VM GESTION DE ENERGÍA, S.L",
+    "cif_comercializadora": "B83393066",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-mayo-2014",
+    "importe_factura": "29,88",
+    "fecha_cargo": "28-marzo-2014",
+    "consumo_periodo": "30105",
+    "potencia_contratada": "4,341"
+}

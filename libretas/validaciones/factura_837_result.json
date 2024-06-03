@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nazareno Moneda Vega",
+    "dni_cliente": "90968335T",
+    "calle_cliente": "Travesia del Rondón",
+    "cp_cliente": "06032013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "WIND TO MARKET S.A.",
+    "cif_comercializadora": "A84000884",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-marzo-2013",
+    "importe_factura": "28,32",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,173"
+}

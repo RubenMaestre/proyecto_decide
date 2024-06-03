@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VICENTE HIERRO VELASCO",
+    "dni_cliente": "27775610M",
+    "calle_cliente": "Calle Jesús Martín",
+    "cp_cliente": "15011996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "GESTINER INGENIEROS, S.L.",
+    "cif_comercializadora": "B82410549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-enero-1996",
+    "importe_factura": "14,86",
+    "fecha_cargo": "",
+    "consumo_periodo": "10422",
+    "potencia_contratada": "4,286"
+}

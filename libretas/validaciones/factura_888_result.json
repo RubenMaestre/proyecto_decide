@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leo Cadenas Pantoja",
+    "dni_cliente": "92572703A",
+    "calle_cliente": "Calle de Mingorria",
+    "cp_cliente": "29018",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SUNAIR ONE ENERGY S.L",
+    "cif_comercializadora": "B55567986",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "22,64",
+    "fecha_cargo": "16 de septiembre de 2005",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

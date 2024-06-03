@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RAMÓN BASTIDA INFANTE",
+    "dni_cliente": "78940304A",
+    "calle_cliente": "Pasaje del Calvario",
+    "cp_cliente": "50310",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CANARY BIOENERGY, S.L.U.",
+    "cif_comercializadora": "B38920500",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-febrero-1999",
+    "importe_factura": "14,20",
+    "fecha_cargo": "",
+    "consumo_periodo": "62572",
+    "potencia_contratada": "4,169"
+}

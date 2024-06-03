@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Timoteo Ayala Figueras",
+    "dni_cliente": "76974243M",
+    "calle_cliente": "PASEO DE LA CASTELLANA, 121 ESCALERA",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B88407507",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "12/05/1999",
+    "fin_periodo": "11/07/1999",
+    "importe_factura": "47,12",
+    "fecha_cargo": "16/07/1999",
+    "consumo_periodo": "11/07/1999",
+    "potencia_contratada": "5,507"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RAFAELA VALENZUELA BORGES",
+    "dni_cliente": "16640519L",
+    "calle_cliente": "Travesia del Barrero",
+    "cp_cliente": "17171",
+    "población_cliente": "",
+    "provincia_cliente": "Girona",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B24373367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04-junio-2003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "20/03/0406",
+    "fin_periodo": "20/03/0308",
+    "importe_factura": "152,89",
+    "fecha_cargo": "03 de agosto de 2003",
+    "consumo_periodo": "42931",
+    "potencia_contratada": "3,868"
+}

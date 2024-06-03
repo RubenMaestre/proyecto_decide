@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Isabela Quevedo Ventura",
+    "dni_cliente": "79218478S",
+    "calle_cliente": "Calle Estebas",
+    "cp_cliente": "24227",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ESTABANELL Y PAHISA ENERGÍA, S.A. UNIPERSONAL.",
+    "cif_comercializadora": "A61121752",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02-mayo-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-julio-2006",
+    "importe_factura": "34,03",
+    "fecha_cargo": "20/06/0205",
+    "consumo_periodo": "20/06/0107",
+    "potencia_contratada": "4,935"
+}

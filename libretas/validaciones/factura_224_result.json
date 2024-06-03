@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ANA VALENTÍN CISNEROS",
+    "dni_cliente": "36830224W",
+    "calle_cliente": "Urbanizacion el Soto",
+    "cp_cliente": "03072013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RECICLAJES ECOLOGICOS CHANDUY,S.L.",
+    "cif_comercializadora": "B67605584",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08810",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-julio-2013",
+    "importe_factura": "10,66",
+    "fecha_cargo": "07 de agosto de 2013",
+    "consumo_periodo": "12307",
+    "potencia_contratada": "3,230"
+}

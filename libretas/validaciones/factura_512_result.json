@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Kirik Marcías Zavala",
+    "dni_cliente": "16668269P",
+    "calle_cliente": "Camino Salmedina",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "HENARENERGIA SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B19317304",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "20/11/2010",
+    "fin_periodo": "19/01/2011",
+    "importe_factura": "46,51",
+    "fecha_cargo": "24/01/2011",
+    "consumo_periodo": "19/01/2011",
+    "potencia_contratada": "3,841"
+}

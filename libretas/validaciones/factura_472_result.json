@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALINA CAMACHO JARA",
+    "dni_cliente": "23058159S",
+    "calle_cliente": "Calle Trovatore 42295 Baraona",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TALARN DISTRIBUCIÓ MUNICIPAL ELÉCTRICA",
+    "cif_comercializadora": "B25616970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "14/10/2012",
+    "fin_periodo": "13/11/2012 30 días  ",
+    "importe_factura": "32,33",
+    "fecha_cargo": "18/11/2012",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,812"
+}

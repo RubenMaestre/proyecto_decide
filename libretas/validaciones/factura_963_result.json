@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ariadna Lucas Morillo",
+    "dni_cliente": "98345808Q",
+    "calle_cliente": "Calle Capitán Elía",
+    "cp_cliente": "43370",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ABOUTWHITE SL",
+    "cif_comercializadora": "B87177408",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28823",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-junio-2003",
+    "importe_factura": "33,26",
+    "fecha_cargo": "20/03/1408",
+    "consumo_periodo": "20/03/1208",
+    "potencia_contratada": "4,855"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CARMELA DARÍO GAMBOA",
+    "dni_cliente": "24338786W",
+    "calle_cliente": "Calle de la Virgen de África",
+    "cp_cliente": "09640",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNIC GLOBAL-LOGISTICS, S.L.",
+    "cif_comercializadora": "B66277138",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "11-julio-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "37,23",
+    "fecha_cargo": "20/06/1109",
+    "consumo_periodo": "20/06/0909",
+    "potencia_contratada": "5,405"
+}

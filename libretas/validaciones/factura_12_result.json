@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "42713258G",
+    "calle_cliente": "Calle de Valcotos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "PALOMA FONSECA GRIJALBA",
+    "cif_comercializadora": "B87095543",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "10/08/2000",
+    "fin_periodo": "09/09/2000 30 días  1,000000 meses",
+    "importe_factura": "11,48",
+    "fecha_cargo": "14/09/2000",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,520"
+}

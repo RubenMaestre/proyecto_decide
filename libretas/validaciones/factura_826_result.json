@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Peleo Zamora Galindo",
+    "dni_cliente": "76248840E",
+    "calle_cliente": "Plaza de los Peligros",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELÉCTRICA DE CATOIRA, S.L. 946927416573",
+    "cif_comercializadora": "B85551273",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "11/06/2007",
+    "fin_periodo": "10/08/2007",
+    "importe_factura": "65,09",
+    "fecha_cargo": "15/08/2007",
+    "consumo_periodo": "10/08/2007",
+    "potencia_contratada": "4,753"
+}

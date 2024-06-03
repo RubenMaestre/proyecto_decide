@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LIONELA CABEZA ZALDÍVAR",
+    "dni_cliente": "50003530N",
+    "calle_cliente": "Calle del Alcalde Redondo Aceña",
+    "cp_cliente": "25736",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LUX FORUM SL",
+    "cif_comercializadora": "B87517017",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "20/06/2209",
+    "fin_periodo": "22-septiembre-2006",
+    "importe_factura": "29,13",
+    "fecha_cargo": "20/06/2311",
+    "consumo_periodo": "20/06/2111",
+    "potencia_contratada": "atencionalclienteluxforum.es"
+}

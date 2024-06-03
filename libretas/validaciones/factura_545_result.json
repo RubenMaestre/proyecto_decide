@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Victorio Cuervo Ferrer",
+    "dni_cliente": "31893562Z",
+    "calle_cliente": "PLAZA PLANELL, 5",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "DISTRIBUCIÓ DENERGIA ELÈCTRICA DE PONTS,",
+    "cif_comercializadora": "B25428905",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "30/10/2015",
+    "fin_periodo": "29/12/2015",
+    "importe_factura": "79,55",
+    "fecha_cargo": "03/01/2016",
+    "consumo_periodo": "29/12/2015",
+    "potencia_contratada": "2,666"
+}

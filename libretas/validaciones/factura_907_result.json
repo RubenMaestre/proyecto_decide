@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NINI VELASCO NIETO",
+    "dni_cliente": "44245703M",
+    "calle_cliente": "CALLE PORTUGAL 14",
+    "cp_cliente": "24062019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ATENCO ENERGIA SL",
+    "cif_comercializadora": "B76366723",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "12,19",
+    "fecha_cargo": "",
+    "consumo_periodo": "59576",
+    "potencia_contratada": "3,623"
+}

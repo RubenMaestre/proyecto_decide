@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EDUINA JIMÉNEZ GUTIÉRREZ",
+    "dni_cliente": "13816671L",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "43372",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "AUDAX ENERGÍA, S.A.",
+    "cif_comercializadora": "A85258549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "645292800208",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "20/08/1607",
+    "fin_periodo": "20/08/1508",
+    "importe_factura": "160,64",
+    "fecha_cargo": "20 de agosto de 2008",
+    "consumo_periodo": "85951",
+    "potencia_contratada": "4,815"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lamberto Lorio Zelaya",
+    "dni_cliente": "75278287T",
+    "calle_cliente": "Calle del Ter",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "KONERY EFICIENCIA ENERGETICA, SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B73704405",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "21/02/2006",
+    "fin_periodo": "23/03/2006",
+    "importe_factura": "174,49",
+    "fecha_cargo": "28/03/2006",
+    "consumo_periodo": "23/03/2006",
+    "potencia_contratada": "3,338"
+}

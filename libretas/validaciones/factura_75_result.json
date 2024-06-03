@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GAIA TRIGUERO VÁSQUEZ",
+    "dni_cliente": "77267929G",
+    "calle_cliente": "Avenida de los Hermanos Granda",
+    "cp_cliente": "28082018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DE SOT DE CHERA SCV.",
+    "cif_comercializadora": "F46027298",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28-agosto-2018",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-octubre-2018",
+    "importe_factura": "29,48",
+    "fecha_cargo": "",
+    "consumo_periodo": "55805",
+    "potencia_contratada": "4,296"
+}

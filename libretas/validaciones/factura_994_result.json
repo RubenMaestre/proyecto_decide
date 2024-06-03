@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "26727330L",
+    "calle_cliente": "Pasaje San Juan",
+    "cp_cliente": "25737",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "PETRONIO RAMÍREZ",
+    "cif_comercializadora": "B37547619",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "37188",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "109,52",
+    "fecha_cargo": "02 de enero de 1996",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

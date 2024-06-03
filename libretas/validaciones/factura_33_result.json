@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Heliana Quevedo Fábregas",
+    "dni_cliente": "91739291L",
+    "calle_cliente": "Paseo Siete Picos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LORCA ENERGIA, S.L.",
+    "cif_comercializadora": "B73977464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "08/07/2002",
+    "fin_periodo": "06/09/2002",
+    "importe_factura": "103,55",
+    "fecha_cargo": "11/09/2002",
+    "consumo_periodo": "06/09/2002",
+    "potencia_contratada": "3,941"
+}

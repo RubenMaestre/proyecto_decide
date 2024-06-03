@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BIENVENIDO FIGUERAS IGLESIAS",
+    "dni_cliente": "80107888S",
+    "calle_cliente": "Calle Planeta Venus",
+    "cp_cliente": "26211",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ADS ENERGY 8.0 SL",
+    "cif_comercializadora": "B66162421",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "89,18",
+    "fecha_cargo": "12 de abril de 2005",
+    "consumo_periodo": "17768",
+    "potencia_contratada": ""
+}

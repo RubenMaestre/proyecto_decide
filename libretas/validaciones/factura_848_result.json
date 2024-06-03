@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NEFELE IZQUIERDO",
+    "dni_cliente": "55307336H",
+    "calle_cliente": "PLAZA DEL AYUNTAMIENTO",
+    "cp_cliente": "10052017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGIAS DE BENASQUE S.L",
+    "cif_comercializadora": "B22215487",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "4281",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-mayo-2017",
+    "importe_factura": "15,90",
+    "fecha_cargo": "",
+    "consumo_periodo": "36833",
+    "potencia_contratada": "4,549"
+}

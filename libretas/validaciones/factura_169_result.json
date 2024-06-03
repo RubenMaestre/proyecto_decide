@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leonela Jurado Vidal",
+    "dni_cliente": "55761582Z",
+    "calle_cliente": "Calle de los Franciscanos",
+    "cp_cliente": "17111995",
+    "población_cliente": "",
+    "provincia_cliente": "Torrepadre",
+    "nombre_comercializadora": "RESPIRA ENERGÍA ESPAÑA, S.L.",
+    "cif_comercializadora": "B64445224",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "69,82",
+    "fecha_cargo": "21 de enero de 1996",
+    "consumo_periodo": "22260",
+    "potencia_contratada": "2,222"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALEJANDRA REYES HUERTA",
+    "dni_cliente": "50228819Q",
+    "calle_cliente": "CALLE FRANCISCO VITORIA 9 50008 - ZARAGOZA",
+    "cp_cliente": "31192",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MULTIENERGIA VERDE, S.L.",
+    "cif_comercializadora": "B99406944",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-septiembre-2008",
+    "importe_factura": "20/08/0410",
+    "fecha_cargo": "20/08/0409",
+    "consumo_periodo": "85843",
+    "potencia_contratada": "2,345"
+}

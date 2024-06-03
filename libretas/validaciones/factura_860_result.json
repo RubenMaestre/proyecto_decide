@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROSARIO ESTRADA MONTALVO",
+    "dni_cliente": "92580377H",
+    "calle_cliente": "CALLE PORTUGAL 14, 4A",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ATENCO ENERGIA SL",
+    "cif_comercializadora": "B76366723",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "29/06/1995",
+    "fin_periodo": "28/08/1995",
+    "importe_factura": "174,38",
+    "fecha_cargo": "02/09/1995",
+    "consumo_periodo": "28/08/1995",
+    "potencia_contratada": "4,147"
+}

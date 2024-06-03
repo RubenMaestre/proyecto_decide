@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IZASKUM ESTÉVEZ MURILLO",
+    "dni_cliente": "34820702J",
+    "calle_cliente": "Calle Fernán González 49511 Fonfría",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B86986684",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "02/12/1993",
+    "fin_periodo": "31/01/1994",
+    "importe_factura": "155,98",
+    "fecha_cargo": "05/02/1994",
+    "consumo_periodo": "31/01/1994",
+    "potencia_contratada": "2,065"
+}

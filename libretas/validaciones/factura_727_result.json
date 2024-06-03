@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NUNCIO MALDONADO MONZÓN",
+    "dni_cliente": "39645443K",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "04810",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "A-DOS ENERGÍA SL",
+    "cif_comercializadora": "B25687401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09042015",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-abril-2015",
+    "importe_factura": "35,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "08062015",
+    "potencia_contratada": "5,162"
+}

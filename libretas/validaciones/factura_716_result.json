@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Fuensanta Bonilla Campos",
+    "dni_cliente": "11484966P",
+    "calle_cliente": "Glorieta de Antequera",
+    "cp_cliente": "29410",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENARA GESTIÓN Y MEDIACIÓN, S.L.",
+    "cif_comercializadora": "B85778041",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48930",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-junio-2007",
+    "importe_factura": "37,39",
+    "fecha_cargo": "20/07/1306",
+    "consumo_periodo": "20/07/1208",
+    "potencia_contratada": "5,530"
+}

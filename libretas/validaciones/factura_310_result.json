@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Silesio Gavilán Peraza",
+    "dni_cliente": "53256161Y",
+    "calle_cliente": "Calle de Zaragoza",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B90053232",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "12/12/2021",
+    "fin_periodo": "10/02/2022",
+    "importe_factura": "143,99",
+    "fecha_cargo": "15/02/2022",
+    "consumo_periodo": "10/02/2022",
+    "potencia_contratada": "4,276"
+}

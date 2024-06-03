@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MOHAMED TREJOS MONGE",
+    "dni_cliente": "86500704G",
+    "calle_cliente": "PLAZA DEL GAS",
+    "cp_cliente": "36634",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "GEM SUMINISTRO DE GAS 3, S.L.",
+    "cif_comercializadora": "B65569089",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-febrero-2009",
+    "importe_factura": "17,56",
+    "fecha_cargo": "20/09/2103",
+    "consumo_periodo": "92575",
+    "potencia_contratada": "5,218"
+}

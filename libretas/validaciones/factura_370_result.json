@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rómulo Alcázar Garrido",
+    "dni_cliente": "30447607T",
+    "calle_cliente": "Calle el Dehesa",
+    "cp_cliente": "15140",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  PUERTO DE BEJAR 22",
+    "cif_comercializadora": "B01804400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "79,07",
+    "fecha_cargo": "05 de febrero de 2001",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

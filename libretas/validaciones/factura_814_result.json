@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DÉBORA MONGE PEDROZA",
+    "dni_cliente": "33762032X",
+    "calle_cliente": "Calle de los Pajaritos",
+    "cp_cliente": "04122018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AMPERE LIBRE, S.L.",
+    "cif_comercializadora": "B94042892",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-diciembre-2018",
+    "importe_factura": "13,41",
+    "fecha_cargo": "",
+    "consumo_periodo": "70768",
+    "potencia_contratada": "3,875"
+}

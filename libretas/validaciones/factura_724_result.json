@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Alexia Arrollo Cervantes",
+    "dni_cliente": "23504772Z",
+    "calle_cliente": "Camino del Valle Grande",
+    "cp_cliente": "04860",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNIPER GLOBAL COMMODITIES",
+    "cif_comercializadora": "DE192205313",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "40221",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-julio-2008",
+    "importe_factura": "20/08/1607",
+    "fecha_cargo": "20/08/1807",
+    "consumo_periodo": "99070",
+    "potencia_contratada": "2,293"
+}

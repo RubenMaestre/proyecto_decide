@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KARINA GÓMEZ SAGEL",
+    "dni_cliente": "55287983P",
+    "calle_cliente": "PLAZA DE CATALUÑA, 3, 1º 08140 - CALDES",
+    "cp_cliente": "32220",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRA CALDENSE ENERGIA",
+    "cif_comercializadora": "A62420815",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08140",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-abril-2005",
+    "importe_factura": "20/05/1905",
+    "fecha_cargo": "20/05/1904",
+    "consumo_periodo": "55402",
+    "potencia_contratada": "5,693"
+}

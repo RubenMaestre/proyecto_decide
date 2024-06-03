@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ryan Taracena Escamilla",
+    "dni_cliente": "39436973T",
+    "calle_cliente": "Calle Los Carros",
+    "cp_cliente": "15180",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TALARN DISTRIBUCIÓ MUNICIPAL ELÉCTRICA,SL.",
+    "cif_comercializadora": "B25616970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02052000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "17,57",
+    "fecha_cargo": "",
+    "consumo_periodo": "41124",
+    "potencia_contratada": "5,118"
+}

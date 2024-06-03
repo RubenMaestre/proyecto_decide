@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NEREO NAVARO CEVALLOS",
+    "dni_cliente": "33889806L",
+    "calle_cliente": "CARRETERA DE FRIOL 16",
+    "cp_cliente": "04102020",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "BIOWATIO COMERCIALIZADORA ENERGÉTICA SLU",
+    "cif_comercializadora": "B27512417",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27297",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-agosto-2020",
+    "importe_factura": "145,49",
+    "fecha_cargo": "",
+    "consumo_periodo": "11748",
+    "potencia_contratada": "4,450"
+}

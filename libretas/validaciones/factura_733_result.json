@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NAVARRO GENERACIÓN S.A",
+    "dni_cliente": "21667871P",
+    "calle_cliente": "Calle Fuensanta",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "NAVARRO GENERACIÓN S.A",
+    "cif_comercializadora": "A82683434",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "09/06/2019",
+    "fin_periodo": "09/07/2019 30 días  1,000000 meses",
+    "importe_factura": "49,72",
+    "fecha_cargo": "14/07/2019",
+    "consumo_periodo": "60339",
+    "potencia_contratada": "4,232"
+}

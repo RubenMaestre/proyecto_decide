@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEODORICO BECERRIL",
+    "dni_cliente": "34815032R",
+    "calle_cliente": "PLAZA DEL FRESNO  2 33007 -",
+    "cp_cliente": "13072019",
+    "población_cliente": "",
+    "provincia_cliente": "Albacete",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A74251836",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "104,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "4758",
+    "potencia_contratada": "4,427"
+}

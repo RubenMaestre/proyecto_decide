@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GILDA ROJAS VENTURA",
+    "dni_cliente": "57161466A",
+    "calle_cliente": "Cañada de Buitrago a Montejo",
+    "cp_cliente": "24072015",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CAUDALIA SOLUCIONES, S.L.",
+    "cif_comercializadora": "B87113973",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28805",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "22-septiembre-2015",
+    "importe_factura": "20,54",
+    "fecha_cargo": "",
+    "consumo_periodo": "20076",
+    "potencia_contratada": "2,966"
+}

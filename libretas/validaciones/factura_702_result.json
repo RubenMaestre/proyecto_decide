@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OLIMPIA VIVERO PALOMAR",
+    "dni_cliente": "61885028D",
+    "calle_cliente": "Paseo Cantabria, Javier",
+    "cp_cliente": "18031992",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "OLIMPIA VIVERO PALOMAR",
+    "cif_comercializadora": "GB799162671",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-marzo-1992",
+    "importe_factura": "14,66",
+    "fecha_cargo": "22 de mayo de 1992",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,117"
+}

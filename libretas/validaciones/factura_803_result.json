@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GLADIS GALLEGOS",
+    "dni_cliente": "62270192S",
+    "calle_cliente": "Carretera de Barcelona",
+    "cp_cliente": "697762160960",
+    "población_cliente": "",
+    "provincia_cliente": "REAL",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B56131485",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "20/08/1406",
+    "fin_periodo": "20/08/1407",
+    "importe_factura": "95,94",
+    "fecha_cargo": "14 de julio de 2008",
+    "consumo_periodo": "19157",
+    "potencia_contratada": "4,256"
+}

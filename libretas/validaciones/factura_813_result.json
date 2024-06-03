@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MALCO SALAZAR SARDINAS",
+    "dni_cliente": "51690571A",
+    "calle_cliente": "Calle del Jazmín",
+    "cp_cliente": "30071996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DAIMUZ ENERGIA SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B04787024",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29-agosto-1996",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-julio-1996",
+    "importe_factura": "13,50",
+    "fecha_cargo": "03 de septiembre de 1996",
+    "consumo_periodo": "53474",
+    "potencia_contratada": "3,906"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KIRA GAITÁN QUESADA",
+    "dni_cliente": "32433787S",
+    "calle_cliente": "Calle de Briones",
+    "cp_cliente": "06021997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CANARY BIOENERGY, S.L.U.",
+    "cif_comercializadora": "B38920500",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-febrero-1997",
+    "importe_factura": "12,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "26665",
+    "potencia_contratada": "3,813"
+}

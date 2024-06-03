@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MELANIA ESTÉVEZ DUARTE",
+    "dni_cliente": "43947284B",
+    "calle_cliente": "Camino de la Huerta Maseda",
+    "cp_cliente": "27333",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÉTICA MEDITERRÁNEA, S.L.",
+    "cif_comercializadora": "B27728781",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/02/0208",
+    "fecha_cargo": "20/02/0307",
+    "consumo_periodo": "80468",
+    "potencia_contratada": "4,120"
+}

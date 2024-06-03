@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Adán Pedroza Farías",
+    "dni_cliente": "97870730A",
+    "calle_cliente": "Calle del Pozo Marcos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B87113973",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "10/05/2013",
+    "fin_periodo": "09/06/2013",
+    "importe_factura": "77,96",
+    "fecha_cargo": "14/06/2013",
+    "consumo_periodo": "09/06/2013",
+    "potencia_contratada": "3,530"
+}

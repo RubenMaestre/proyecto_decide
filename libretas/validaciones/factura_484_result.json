@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BONA QUINTANA MANZANO",
+    "dni_cliente": "86089266J",
+    "calle_cliente": "Travesia de Sierra Ovejero",
+    "cp_cliente": "49516",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BONA QUINTANA MANZANO",
+    "cif_comercializadora": "B66296401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08760",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-abril-1992",
+    "importe_factura": "30,53",
+    "fecha_cargo": "22 de abril de 1992",
+    "consumo_periodo": "58546",
+    "potencia_contratada": "4,577"
+}

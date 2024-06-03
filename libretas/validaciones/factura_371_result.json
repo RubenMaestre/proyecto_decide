@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CLAUDIO FLORES DÁVILA",
+    "dni_cliente": "81003752Y",
+    "calle_cliente": "CAMINO CUADRA CASAÑA, 1 12005 - CASTELLÓN DE LA PLANA",
+    "cp_cliente": "40295",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Social CAMINO CUADRA CASAÑA, 1",
+    "cif_comercializadora": "B44503407",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-julio-1997",
+    "importe_factura": "26,32",
+    "fecha_cargo": "18 de julio de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,907"
+}

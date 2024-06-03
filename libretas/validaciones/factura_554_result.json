@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Almudena Perdomo Pineda",
+    "dni_cliente": "",
+    "calle_cliente": "Calle de Malgrat de Mar",
+    "cp_cliente": "47300",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ROMA ENERGÍAS S.L.",
+    "cif_comercializadora": "B66420407",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08130",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "123,96",
+    "fecha_cargo": "25 de septiembre de 1992",
+    "consumo_periodo": "49530383",
+    "potencia_contratada": ""
+}

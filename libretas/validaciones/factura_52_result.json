@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Job Parra Guillén",
+    "dni_cliente": "53147138A",
+    "calle_cliente": "Calle del Arroyo Verderó",
+    "cp_cliente": "11082014",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A61293387",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08922",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-agosto-2014",
+    "importe_factura": "135,85",
+    "fecha_cargo": "15 de septiembre de 2014",
+    "consumo_periodo": "55502",
+    "potencia_contratada": "3,632"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sandro Jiménez Casas",
+    "dni_cliente": "76047718N",
+    "calle_cliente": "PLAZA SOLER I CARBONELL, 38, 2ºB",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "PROT ENERGIA COMERCIALIZACION, S.L",
+    "cif_comercializadora": "B66477993",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "29/06/2003",
+    "fin_periodo": "29/07/2003",
+    "importe_factura": "224,58",
+    "fecha_cargo": "03/08/2003",
+    "consumo_periodo": "29/07/2003",
+    "potencia_contratada": "4,390"
+}

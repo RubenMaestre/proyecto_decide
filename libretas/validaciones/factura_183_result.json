@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IDOTA VALENZUELA SOZA",
+    "dni_cliente": "80895598K",
+    "calle_cliente": "Calle Secretario Aguilar",
+    "cp_cliente": "41929",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "VERTSEL ENERGIA S.L.U",
+    "cif_comercializadora": "B98476922",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "20/08/0912",
+    "fin_periodo": "20/09/0702",
+    "importe_factura": "50,55",
+    "fecha_cargo": "12 de febrero de 2009",
+    "consumo_periodo": "59854",
+    "potencia_contratada": "3,861"
+}

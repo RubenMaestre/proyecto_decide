@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IBERRED SOLUTIONS SL  AVDA.",
+    "dni_cliente": "81525448Q",
+    "calle_cliente": "Lugar Diseminado Peña Colorada",
+    "cp_cliente": "39585",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "IBERRED SOLUTIONS SL",
+    "cif_comercializadora": "B55323091",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17310",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Liébana",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "248,51",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

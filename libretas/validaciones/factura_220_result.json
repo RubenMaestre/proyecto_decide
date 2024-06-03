@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PAULO ROMÁN OSPINO",
+    "dni_cliente": "71096583H",
+    "calle_cliente": "Calle del Río Sar",
+    "cp_cliente": "10829",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "OLIVIA COMERCIALIZADORA S.L.U.",
+    "cif_comercializadora": "B72352503",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "11012",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "12,64",
+    "fecha_cargo": "06 de abril de 2001",
+    "consumo_periodo": "",
+    "potencia_contratada": "CÁDIZ"
+}

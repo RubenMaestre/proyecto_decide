@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Idoia Ramírez Duarte",
+    "dni_cliente": "78303982E",
+    "calle_cliente": "CARRETERA DE FRIOL 16",
+    "cp_cliente": "04052017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BIOWATIO COMERCIALIZADORA ENERGÉTICA SLU.",
+    "cif_comercializadora": "B27512417",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27297",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-marzo-2017",
+    "importe_factura": "40,18",
+    "fecha_cargo": "07 de mayo de 2017",
+    "consumo_periodo": "02052017",
+    "potencia_contratada": "5,972"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ODETTE REAL",
+    "dni_cliente": "21108543V",
+    "calle_cliente": "Calle de la Madreselva",
+    "cp_cliente": "36314",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNIELECTRICA ENERGIA",
+    "cif_comercializadora": "A14944276",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3611",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "20/07/1809",
+    "fin_periodo": "18-septiembre-2007",
+    "importe_factura": "28,09",
+    "fecha_cargo": "",
+    "consumo_periodo": "20/07/1711",
+    "potencia_contratada": "4,067"
+}

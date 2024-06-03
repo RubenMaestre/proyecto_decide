@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BELLA PALACIO SALMÓN",
+    "dni_cliente": "41452927G",
+    "calle_cliente": "Avenida de la Huerta de Arriba",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A61893871",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "21/03/1996",
+    "fin_periodo": "21/04/1996",
+    "importe_factura": "226,51",
+    "fecha_cargo": "26/04/1996",
+    "consumo_periodo": "21/04/1996",
+    "potencia_contratada": "3,870"
+}

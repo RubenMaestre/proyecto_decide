@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ÁMBAR PLÁCIDO ÁLVAREZ",
+    "dni_cliente": "47242281M",
+    "calle_cliente": "PLAZA DEL AYUNTAMIENTO, 4",
+    "cp_cliente": "42269",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B25483967",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25173",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "17,65",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

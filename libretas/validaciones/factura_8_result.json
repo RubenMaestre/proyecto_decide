@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Melibea Rosales Samper",
+    "dni_cliente": "45074071M",
+    "calle_cliente": "Camino de Valdehorno",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B01804400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "28/05/1991",
+    "fin_periodo": "27/06/1991 30 días  ",
+    "importe_factura": "67,57",
+    "fecha_cargo": "02/07/1991",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,792"
+}

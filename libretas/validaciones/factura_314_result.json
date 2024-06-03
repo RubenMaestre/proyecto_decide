@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Candela Valle Sandino",
+    "dni_cliente": "52287914J",
+    "calle_cliente": "Plaza de San Francisco de Borja",
+    "cp_cliente": "08292",
+    "población_cliente": "",
+    "provincia_cliente": "Illes Balears",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B65940322",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "20/07/2703",
+    "fin_periodo": "20/07/2605",
+    "importe_factura": "16,74",
+    "fecha_cargo": "31 de mayo de 2007",
+    "consumo_periodo": "97747",
+    "potencia_contratada": "2,510"
+}

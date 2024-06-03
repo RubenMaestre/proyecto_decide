@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vera Plácido Galván",
+    "dni_cliente": "92654577C",
+    "calle_cliente": "Urbanizacion Pryconsa",
+    "cp_cliente": "44111",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "BULB ENERGIA IBERICA SL",
+    "cif_comercializadora": "B88371935",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "20/05/1912",
+    "fin_periodo": "20/06/1702",
+    "importe_factura": "15,89",
+    "fecha_cargo": "22 de febrero de 2006",
+    "consumo_periodo": "95670",
+    "potencia_contratada": "2,408"
+}

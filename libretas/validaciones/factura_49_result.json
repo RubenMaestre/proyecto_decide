@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARBERÁ DEL VALLÉS",
+    "dni_cliente": "59068708Q",
+    "calle_cliente": "Senda del Polvorín",
+    "cp_cliente": "08210",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ENERGY STROM XXI SL",
+    "cif_comercializadora": "B66040312",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "108,05",
+    "fecha_cargo": "09 de octubre de 1992",
+    "consumo_periodo": "76975",
+    "potencia_contratada": ""
+}

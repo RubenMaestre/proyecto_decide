@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LORA BAÑOS SUÁREZ",
+    "dni_cliente": "26505874F",
+    "calle_cliente": "AVENIDA DE AMERICA 18 28028 - Madrid",
+    "cp_cliente": "38202",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "LORA BAÑOS",
+    "cif_comercializadora": "A42785949",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/09/0408",
+    "fin_periodo": "04-agosto-2009",
+    "importe_factura": "27,62",
+    "fecha_cargo": "20/09/0510",
+    "consumo_periodo": "20/09/0310",
+    "potencia_contratada": "3,976"
+}

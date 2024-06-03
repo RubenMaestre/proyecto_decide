@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OZANA URIETA ZABALETA",
+    "dni_cliente": "75097842J",
+    "calle_cliente": "Calle de Mijas",
+    "cp_cliente": "31794",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INTEGRACION EUROPEA DE ENERGIA",
+    "cif_comercializadora": "B95783924",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48910",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-octubre-2007",
+    "importe_factura": "27,71",
+    "fecha_cargo": "20/07/2012",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,016"
+}

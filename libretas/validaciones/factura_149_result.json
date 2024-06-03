@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MILENA GODINES",
+    "dni_cliente": "75709539W",
+    "calle_cliente": "Travesia del Gato",
+    "cp_cliente": "20101995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HANWHA ENERGY RETAIL SPAIN SL",
+    "cif_comercializadora": "B88480330",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20-octubre-1995",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-noviembre-1995",
+    "importe_factura": "0,49",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,075"
+}

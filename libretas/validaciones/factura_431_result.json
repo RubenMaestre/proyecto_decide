@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lautaro Ozuno Puente",
+    "dni_cliente": "88246848B",
+    "calle_cliente": "Calle Argonautas",
+    "cp_cliente": "30628",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "GURBTEC ENERGIA, S.L.",
+    "cif_comercializadora": "B02782563",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08503",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "92,37",
+    "fecha_cargo": "18 de diciembre de 1995",
+    "consumo_periodo": "34575",
+    "potencia_contratada": ""
+}

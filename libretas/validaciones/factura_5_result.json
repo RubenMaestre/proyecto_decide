@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SATURNINO MALTÉS NARANJO",
+    "dni_cliente": "13714122G",
+    "calle_cliente": "CALLE 42",
+    "cp_cliente": "46740",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B24726044",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "13/01/2018",
+    "fin_periodo": "14/03/2018",
+    "importe_factura": "99,81",
+    "fecha_cargo": "",
+    "consumo_periodo": "14/03/2018",
+    "potencia_contratada": "2,668"
+}

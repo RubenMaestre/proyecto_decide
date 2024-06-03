@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "WERTHER PERAZA IBÁÑEZ",
+    "dni_cliente": "39440254S",
+    "calle_cliente": "Calle El Ripio",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "12/05/2021",
+    "fin_periodo": "11/07/2021",
+    "importe_factura": "197,66",
+    "fecha_cargo": "16/07/2021",
+    "consumo_periodo": "11/07/2021",
+    "potencia_contratada": "5,129"
+}

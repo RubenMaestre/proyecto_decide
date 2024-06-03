@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Maia Estrella Oseda",
+    "dni_cliente": "99810997J",
+    "calle_cliente": "Calle de María Reiche",
+    "cp_cliente": "10032016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "WIBERLUZYGAS, S.L.",
+    "cif_comercializadora": "B01625656",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07-febrero-2016",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-marzo-2016",
+    "importe_factura": "15,70",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,551"
+}

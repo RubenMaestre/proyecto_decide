@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ANTONIA BAÑOS",
+    "dni_cliente": "72130853R",
+    "calle_cliente": "Viale Regina Margherita, 125, - Extranjero",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ENEL TRADE S.P.A.",
+    "cif_comercializadora": "5918271007",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "11/02/2001",
+    "fin_periodo": "12/04/2001",
+    "importe_factura": "87,09",
+    "fecha_cargo": "17/04/2001",
+    "consumo_periodo": "12/04/2001",
+    "potencia_contratada": "5,105"
+}

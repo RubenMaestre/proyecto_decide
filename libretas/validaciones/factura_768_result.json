@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EUGENIA COLLADO MATÍAS",
+    "dni_cliente": "30469095Y",
+    "calle_cliente": "PASEO MILICIAS DE GARACHICO 1, EDIF.",
+    "cp_cliente": "43205",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INSIGNIA ENERGIA SL",
+    "cif_comercializadora": "B76615970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "CRUZ DE TENERIFE",
+    "fin_periodo": "30-julio-2006",
+    "importe_factura": "20/06/2908",
+    "fecha_cargo": "20/06/3007",
+    "consumo_periodo": "28246",
+    "potencia_contratada": "6,040"
+}

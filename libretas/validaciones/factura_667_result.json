@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DEMETRI VILLAS",
+    "dni_cliente": "65217184V",
+    "calle_cliente": "Calle de Julio Aguirre",
+    "cp_cliente": "37488",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "MARINA DOR ENERGIA S.A",
+    "cif_comercializadora": "A12783460",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "CASTELLÓN",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "197,87",
+    "fecha_cargo": "12 de agosto de 2005",
+    "consumo_periodo": "",
+    "potencia_contratada": "CASTELLÓN"
+}

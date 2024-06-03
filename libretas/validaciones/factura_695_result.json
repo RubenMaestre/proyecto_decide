@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nicodemo Fábregas Verti",
+    "dni_cliente": "86496551Z",
+    "calle_cliente": "Camino de los Valles",
+    "cp_cliente": "06111997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LUZ SURESTE, S.L.",
+    "cif_comercializadora": "B30929442",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04-noviembre-1997",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "24,31",
+    "fecha_cargo": "",
+    "consumo_periodo": "82195",
+    "potencia_contratada": "3,666"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marisa Escobar Tovar",
+    "dni_cliente": "38484768H",
+    "calle_cliente": "Avenida de la Industria, 4, Edificio 0, Esc2 - Planta 2ª",
+    "cp_cliente": "25100",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "RWE SUPPLY TRADING IBERIA, S.L.U.",
+    "cif_comercializadora": "B85290997",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "342,30",
+    "fecha_cargo": "",
+    "consumo_periodo": "12293",
+    "potencia_contratada": ""
+}

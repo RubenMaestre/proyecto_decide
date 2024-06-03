@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HAYDEÉ AMADOR DE AGUILAR",
+    "dni_cliente": "16544917M",
+    "calle_cliente": "Subida de la Cerca",
+    "cp_cliente": "10329",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ARACAN ENERGIA S.L.",
+    "cif_comercializadora": "B65519647",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08029",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BARCELONA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "60,25",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

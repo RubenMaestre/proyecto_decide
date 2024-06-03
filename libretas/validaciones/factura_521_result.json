@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vicente Rivas Paladino",
+    "dni_cliente": "96814820T",
+    "calle_cliente": "Calle del Puente de Vizcaya",
+    "cp_cliente": "27740",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SHELL ENERGY TRADING LIMITED.",
+    "cif_comercializadora": "GB235763255146",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04-julio-2004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-junio-2004",
+    "importe_factura": "20/04/0407",
+    "fecha_cargo": "20/04/0607",
+    "consumo_periodo": "38804",
+    "potencia_contratada": "3,685"
+}

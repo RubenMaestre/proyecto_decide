@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "56941131P",
+    "calle_cliente": "PLAZA DE LA GESTA, 2",
+    "cp_cliente": "28694",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "CRÍSPULO ÁLVAREZ CEVALLOS",
+    "cif_comercializadora": "A33543547",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "23,09",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

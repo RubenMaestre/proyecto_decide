@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Damián Fábregas Rosales",
+    "dni_cliente": "15473103Z",
+    "calle_cliente": "Calle de la Brisa 41450 Constantina",
+    "cp_cliente": "5486539215112",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LERSA, S.L.",
+    "cif_comercializadora": "B17650995",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "14,43",
+    "fecha_cargo": "02 de julio de 2003",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

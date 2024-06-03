@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nahuel Macedo Dorado",
+    "dni_cliente": "25218424M",
+    "calle_cliente": "Calle del Infante de Lara",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SOLABRIA, S.COOP.",
+    "cif_comercializadora": "F39781794",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "03/04/1996",
+    "fin_periodo": "02/06/1996",
+    "importe_factura": "161,92",
+    "fecha_cargo": "07/06/1996",
+    "consumo_periodo": "02/06/1996",
+    "potencia_contratada": "4,631"
+}

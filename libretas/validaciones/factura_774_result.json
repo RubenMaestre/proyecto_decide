@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jose Antonio Martinez  S.L 058",
+    "dni_cliente": "26999234V",
+    "calle_cliente": "Plaza del Gobernador",
+    "cp_cliente": "24970",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "503504564",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "617666985346",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13, -",
+    "importe_factura": "11,11",
+    "fecha_cargo": "",
+    "consumo_periodo": "61380",
+    "potencia_contratada": ""
+}

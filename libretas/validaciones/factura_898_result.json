@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CIRIACO BARRERA GUZMÁN",
+    "dni_cliente": "10598894B",
+    "calle_cliente": "Calle Vica",
+    "cp_cliente": "04091993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VISALIA ENERGIA S.L.",
+    "cif_comercializadora": "B67302489",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04-septiembre-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "12,78",
+    "fecha_cargo": "09 de octubre de 1993",
+    "consumo_periodo": "44002",
+    "potencia_contratada": "3,795"
+}

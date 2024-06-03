@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KILOWATIOS VERDES SOCIEDAD",
+    "dni_cliente": "24765122X",
+    "calle_cliente": "PASEO DE LA INDEPENDENCIA 22-24, PLANTA 8",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "KILOWATIOS VERDES SOCIEDAD LIMITADA",
+    "cif_comercializadora": "ArabaÁlava",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "20/01/2021",
+    "fin_periodo": "21/03/2021",
+    "importe_factura": "173,52",
+    "fecha_cargo": "26/03/2021",
+    "consumo_periodo": "21/03/2021",
+    "potencia_contratada": "2,215"
+}

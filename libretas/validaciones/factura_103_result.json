@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Clodoveo Mena Paladino",
+    "dni_cliente": "80276656D",
+    "calle_cliente": "Calle del Limonero",
+    "cp_cliente": "08072019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "KNET COMUNICACIONES, S.L.",
+    "cif_comercializadora": "B26266106",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07-mayo-2019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-julio-2019",
+    "importe_factura": "26,33",
+    "fecha_cargo": "",
+    "consumo_periodo": "06072019",
+    "potencia_contratada": "3,868"
+}

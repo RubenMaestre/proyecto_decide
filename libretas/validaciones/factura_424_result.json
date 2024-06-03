@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SALVIANO MONTECINOS SOTOMAYOR",
+    "dni_cliente": "20778380L",
+    "calle_cliente": "PLAZA DE CUENCA, 1 16320 - TALAYUELAS",
+    "cp_cliente": "09102019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA TALAYUELAS S.L.",
+    "cif_comercializadora": "B16322042",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08-diciembre-2019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-octubre-2019",
+    "importe_factura": "32,42",
+    "fecha_cargo": "",
+    "consumo_periodo": "86459",
+    "potencia_contratada": "4,811"
+}

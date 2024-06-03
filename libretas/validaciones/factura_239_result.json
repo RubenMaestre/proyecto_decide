@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Camila Guerrero Saucedo",
+    "dni_cliente": "28524128B",
+    "calle_cliente": "Calle de Kioto",
+    "cp_cliente": "08756",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Social CARRER ORIENT, 3",
+    "cif_comercializadora": "B25445693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25172",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "20/11/2801",
+    "fin_periodo": "20/11/2702",
+    "importe_factura": "11,54",
+    "fecha_cargo": "27 de febrero de 2011",
+    "consumo_periodo": "4082",
+    "potencia_contratada": "2,288"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ISAURA GAMBOA MANTILLA",
+    "dni_cliente": "66567276D",
+    "calle_cliente": "Calle Camino de Cerceda",
+    "cp_cliente": "23720",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "DB ENERGY COMMODITIES",
+    "cif_comercializadora": "GB243609761",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "122,18",
+    "fecha_cargo": "",
+    "consumo_periodo": "27970",
+    "potencia_contratada": ""
+}

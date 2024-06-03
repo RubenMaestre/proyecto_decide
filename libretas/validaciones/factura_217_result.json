@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AGAPITO NAVARRO GALINDO",
+    "dni_cliente": "78410021P",
+    "calle_cliente": "Calle del Poeta Antonio Machado",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A07088206",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Baleares",
+    "número_factura": "",
+    "inicio_periodo": "24/01/1992",
+    "fin_periodo": "23/02/1992 30 días  ",
+    "importe_factura": "101,24",
+    "fecha_cargo": "28/02/1992",
+    "consumo_periodo": "49113",
+    "potencia_contratada": "2,265"
+}

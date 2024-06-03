@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JAMILA ALFARO CORNEJO",
+    "dni_cliente": "47839370Z",
+    "calle_cliente": "C EDUARDO SAAVEDRA, 38",
+    "cp_cliente": "43595",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F42212696",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "42004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "89,26",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

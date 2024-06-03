@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ezequiel Ibáñez Naranjo",
+    "dni_cliente": "33413803R",
+    "calle_cliente": "PASEO DE LA ESTACIÓN MÉDICO MANUEL",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "HIDROELÉCTRICA DE LARACHA, S.L. 185482313043",
+    "cif_comercializadora": "F03013331",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "07/10/2006",
+    "fin_periodo": "SAMPER, 32-BJ",
+    "importe_factura": "48,43",
+    "fecha_cargo": "11/11/2006",
+    "consumo_periodo": "06/11/2006",
+    "potencia_contratada": "3,821"
+}

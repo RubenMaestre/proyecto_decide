@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jezabel Baca Torrente",
+    "dni_cliente": "47976504E",
+    "calle_cliente": "Calle de las Corrientes",
+    "cp_cliente": "26511",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.A.",
+    "cif_comercializadora": "A95000295",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-abril-2007",
+    "importe_factura": "27,42",
+    "fecha_cargo": "20/07/1902",
+    "consumo_periodo": "20/07/2004",
+    "potencia_contratada": "3,989"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Pascual Lorio Camacho",
+    "dni_cliente": "32722543Y",
+    "calle_cliente": "Calle de Bremen",
+    "cp_cliente": "41661",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "BAGES,",
+    "cif_comercializadora": "B87095543",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "27,99",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nazareno Peraza Paz",
+    "dni_cliente": "72532096D",
+    "calle_cliente": "Calle Plazolilla",
+    "cp_cliente": "20860",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "COMPAÑÍA DE ELECTRIFICACION S.L.",
+    "cif_comercializadora": "B36000917",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36600",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "20/05/1201",
+    "fin_periodo": "13-marzo-2005",
+    "importe_factura": "38,91",
+    "fecha_cargo": "20/05/1303",
+    "consumo_periodo": "9424",
+    "potencia_contratada": "5,638"
+}

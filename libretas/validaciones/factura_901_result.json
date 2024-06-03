@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ANTÓN VIVERO",
+    "dni_cliente": "45095454K",
+    "calle_cliente": "Travesia Avellaneda",
+    "cp_cliente": "38840",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "MADRILEÑA SUMINISTRO DE GAS,",
+    "cif_comercializadora": "B65142333",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "28,85",
+    "fecha_cargo": "",
+    "consumo_periodo": "37034",
+    "potencia_contratada": ""
+}

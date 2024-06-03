@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Estrella Báez Busto",
+    "dni_cliente": "35012406N",
+    "calle_cliente": "Plaza de Carlos I",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "MARINA DOR ENERGIA S.A",
+    "cif_comercializadora": "A12783460",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "29/07/2007",
+    "fin_periodo": "27/09/2007",
+    "importe_factura": "58,09",
+    "fecha_cargo": "02/10/2007",
+    "consumo_periodo": "27/09/2007",
+    "potencia_contratada": "5,557"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JORDANA FÁBREGAS",
+    "dni_cliente": "88104113Z",
+    "calle_cliente": "Paseo de José María Oñate",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "istracio.catinfo.0",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "comercialitzadoraelectricaalbatarrec.eadministracio.catinfo.0.mobi",
+    "número_factura": "",
+    "inicio_periodo": "23/04/2010",
+    "fin_periodo": "23/05/2010",
+    "importe_factura": "137,34",
+    "fecha_cargo": "28/05/2010",
+    "consumo_periodo": "23/05/2010",
+    "potencia_contratada": "4,607"
+}

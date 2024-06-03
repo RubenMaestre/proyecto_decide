@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MIMI QUIJADA GAYOSO",
+    "dni_cliente": "33221109R",
+    "calle_cliente": "Avenida de San Juan",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SUNAIR ONE HOME S.L",
+    "cif_comercializadora": "B55641708",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "17/04/2000",
+    "fin_periodo": "16/06/2000",
+    "importe_factura": "123,41",
+    "fecha_cargo": "21/06/2000",
+    "consumo_periodo": "16/06/2000",
+    "potencia_contratada": "4,732"
+}

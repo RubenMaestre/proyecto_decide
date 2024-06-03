@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Petrona Uribe Naranjo",
+    "dni_cliente": "26934250P",
+    "calle_cliente": "Lugar Valhondo y los Velascos",
+    "cp_cliente": "25162",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENDI ENERGY TRADING SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B95960365",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "13-julio-2011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "15,28",
+    "fecha_cargo": "20/11/1507",
+    "consumo_periodo": "20/11/1307",
+    "potencia_contratada": "4,406"
+}

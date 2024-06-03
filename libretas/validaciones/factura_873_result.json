@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Erminia Vales Ahumada",
+    "dni_cliente": "63242336H",
+    "calle_cliente": "Urbanización Santa Margarita E",
+    "cp_cliente": "06101995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADEINNOVA ENERGIA",
+    "cif_comercializadora": "B25794207",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25730",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-septiembre-1995",
+    "importe_factura": "18,30",
+    "fecha_cargo": "09 de octubre de 1995",
+    "consumo_periodo": "42689",
+    "potencia_contratada": "5,320"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Roberto Pastor Rojas",
+    "dni_cliente": "51979629C",
+    "calle_cliente": "Calle Lobera",
+    "cp_cliente": "25218",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ESTABANELL Y PAHISA ENERGÍA, S.A. UNIPERSONAL",
+    "cif_comercializadora": "A61121752",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08400",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "10,49",
+    "fecha_cargo": "27 de febrero de 1992",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

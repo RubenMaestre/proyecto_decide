@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "79466589W",
+    "calle_cliente": "Calle Miralprado 17734 Albanyñ",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EMILIANA LAGOS",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "21/05/1998",
+    "fin_periodo": "20/07/1998",
+    "importe_factura": "324,00",
+    "fecha_cargo": "25/07/1998",
+    "consumo_periodo": "20/07/1998",
+    "potencia_contratada": "4,417"
+}

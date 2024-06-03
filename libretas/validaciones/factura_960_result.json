@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GERALDINE IVAÑEZ VELÁSQUEZ",
+    "dni_cliente": "49911390X",
+    "calle_cliente": "Calle al Santa Isabel",
+    "cp_cliente": "26041994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÈCTRICA SALÀS DE PALLARS, SLU.",
+    "cif_comercializadora": "B25672692",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25693",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-abril-1994",
+    "importe_factura": "11,53",
+    "fecha_cargo": "31 de mayo de 1994",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,455"
+}

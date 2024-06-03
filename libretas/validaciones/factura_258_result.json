@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MARILINA VELA ORTEGA",
+    "dni_cliente": "82378899Y",
+    "calle_cliente": "Calle las Gaviotas",
+    "cp_cliente": "24248",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NABALIA ENERGIA 2000 S.A.",
+    "cif_comercializadora": "A66585191",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "9037",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "19,71",
+    "fecha_cargo": "20/01/0306",
+    "consumo_periodo": "20/01/0208",
+    "potencia_contratada": "2,872"
+}

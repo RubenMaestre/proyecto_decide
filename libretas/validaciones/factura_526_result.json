@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Restituta Trejos Seballos",
+    "dni_cliente": "53606378W",
+    "calle_cliente": "Calle de Francisco Tárrega",
+    "cp_cliente": "13041994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SUNAIR ONE ENERGY EVOLUTION S.L.",
+    "cif_comercializadora": "B55615009",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Coruña",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-abril-1994",
+    "importe_factura": "12,33",
+    "fecha_cargo": "18 de mayo de 1994",
+    "consumo_periodo": "86502",
+    "potencia_contratada": "3,566"
+}

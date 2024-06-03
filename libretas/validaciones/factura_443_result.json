@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LENA OBREGÓN VARGAS",
+    "dni_cliente": "49901446W",
+    "calle_cliente": "CAPITAN HAYA, 1 28020 - MADRID",
+    "cp_cliente": "16415",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOLVAY ENERGY SERVICES IBÉRICA, S.L.",
+    "cif_comercializadora": "B64757602",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-noviembre-2008",
+    "importe_factura": "25,48",
+    "fecha_cargo": "20/08/0111",
+    "consumo_periodo": "20/08/3112",
+    "potencia_contratada": "3,699"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cristóbal Taracena Gillén",
+    "dni_cliente": "39911901R",
+    "calle_cliente": "Calle Verano",
+    "cp_cliente": "03032020",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "GLOBAL BIOSFERA PROTEC S.L",
+    "cif_comercializadora": "B75035592",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20018",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-febrero-2020",
+    "importe_factura": "209,29",
+    "fecha_cargo": "",
+    "consumo_periodo": "66382",
+    "potencia_contratada": "2,771"
+}

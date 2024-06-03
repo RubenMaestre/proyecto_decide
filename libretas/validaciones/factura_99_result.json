@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "92279676L",
+    "calle_cliente": "Plaza de Antonio Blanco",
+    "cp_cliente": "22032017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDF TRADING LIMITED",
+    "cif_comercializadora": "GB735547907",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "22-marzo-2017",
+    "importe_factura": "15,86",
+    "fecha_cargo": "26 de abril de 2017",
+    "consumo_periodo": "99351",
+    "potencia_contratada": "4,652"
+}

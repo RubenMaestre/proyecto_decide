@@ -1,1 +1,15 @@
 decide/
+descripcion_challenge.pdf
+training/
+bert/archivos_bert/model.safetensors
+bert/archivos_roberta/model.safetensors
+bert/archivos_roberta_2/chekpoint-222/model.safetensors
+bert/archivos_roberta_2/chekpoint-222/optimizer.pt
+bert/archivos_roberta_2/chechpoint-60/model.safetensors
+bert/archivos_roberta_2/chekpoint-60/optimizer.pt
+bert/archivos_roberta_2/model.safetensors
+cuadernos/best_model/vocab/vectors
+cuadernos/model/model.safetensors
+cuadernos/modelo_entrenado/vocab/vectors
+cuadernos/results/checkpoint-10230/
+cuadernos/results/checkpoint-8184

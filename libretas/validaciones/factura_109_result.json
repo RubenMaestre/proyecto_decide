@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MERRIL LYNCH COMMODITIES EUROPE LIMITED",
+    "dni_cliente": "61780913S",
+    "calle_cliente": "Calle Albert Boadella",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "GB245122493",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "09/11/2007",
+    "fin_periodo": "08/01/2008",
+    "importe_factura": "78,94",
+    "fecha_cargo": "13/01/2008",
+    "consumo_periodo": "08/01/2008",
+    "potencia_contratada": "3,191"
+}

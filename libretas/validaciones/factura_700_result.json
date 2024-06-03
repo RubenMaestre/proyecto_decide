@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cleo Gámez Marrero",
+    "dni_cliente": "22189507G",
+    "calle_cliente": "Calle Potro 25553 Vilaller",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "N.V., Sucursal en España",
+    "cif_comercializadora": "A51031920",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "15/01/2018",
+    "fin_periodo": "14/02/2018",
+    "importe_factura": "21,57",
+    "fecha_cargo": "",
+    "consumo_periodo": "14/02/2018",
+    "potencia_contratada": "4,048"
+}

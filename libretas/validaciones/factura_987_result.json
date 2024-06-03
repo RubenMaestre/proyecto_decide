@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "REMIGIO CASAS OLMEDO",
+    "dni_cliente": "62555131F",
+    "calle_cliente": "Calle Alejo Carpentier",
+    "cp_cliente": "32787",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDP-ENERGÍAS DE PORTUGAL, S.A.",
+    "cif_comercializadora": "PT500697256",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-enero-2010",
+    "importe_factura": "20/10/2602",
+    "fecha_cargo": "20/10/2802",
+    "consumo_periodo": "72269",
+    "potencia_contratada": "3,531"
+}

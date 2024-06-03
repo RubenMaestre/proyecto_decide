@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Pascasio Cornejo Trejos",
+    "dni_cliente": "71768846Z",
+    "calle_cliente": "Calle de Miguel Soriano",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A62332580",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "10/11/2001",
+    "fin_periodo": "10/12/2001",
+    "importe_factura": "60,97",
+    "fecha_cargo": "15/12/2001",
+    "consumo_periodo": "10/12/2001",
+    "potencia_contratada": "5,129"
+}

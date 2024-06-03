@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GUILLERMO LINARES ANAYA",
+    "dni_cliente": "59766291D",
+    "calle_cliente": "Carretera Villalba - Finca Cercas de Vadoviejo",
+    "cp_cliente": "24763",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ATEL ENERGÍA, S.A.",
+    "cif_comercializadora": "A63952477",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20/06/2907",
+    "importe_factura": "16,29",
+    "fecha_cargo": "20/06/3107",
+    "consumo_periodo": "69117",
+    "potencia_contratada": "4,789"
+}

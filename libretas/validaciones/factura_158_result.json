@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vicente Bonilla Lázaro",
+    "dni_cliente": "13850531T",
+    "calle_cliente": "Camino de las Atalayas",
+    "cp_cliente": "16052019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VOLSLLUM SL",
+    "cif_comercializadora": "B98882111",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16-mayo-2019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-junio-2019",
+    "importe_factura": "13,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "41137",
+    "potencia_contratada": "3,856"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rodrigo Uribe Gallegos",
+    "dni_cliente": "10553428Q",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "09593",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "A-DOS ENERGÍA SL",
+    "cif_comercializadora": "B25687401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-octubre-2011",
+    "importe_factura": "23,39",
+    "fecha_cargo": "20/11/0808",
+    "consumo_periodo": "20/11/0710",
+    "potencia_contratada": "3,382"
+}

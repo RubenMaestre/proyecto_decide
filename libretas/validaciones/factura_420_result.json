@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEODOSIA MOSCOA",
+    "dni_cliente": "53016452A",
+    "calle_cliente": "Parque de San Telmo",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ARACAN ENERGIA S.L.",
+    "cif_comercializadora": "B65519647",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08029",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-noviembre-2006",
+    "importe_factura": "12,78",
+    "fecha_cargo": "20/06/2510",
+    "consumo_periodo": "20/06/2411",
+    "potencia_contratada": "3,773"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PALMA LORIO ROMERO",
+    "dni_cliente": "89019587L",
+    "calle_cliente": "Calle Tetuán",
+    "cp_cliente": "32898",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALDRO ZERO S.L.",
+    "cif_comercializadora": "B39872775",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39313",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-julio-2002",
+    "importe_factura": "26,68",
+    "fecha_cargo": "20/02/0509",
+    "consumo_periodo": "20/02/0309",
+    "potencia_contratada": "3,864"
+}

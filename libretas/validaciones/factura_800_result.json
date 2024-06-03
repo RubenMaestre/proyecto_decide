@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JERÓNIMO URIARTE",
+    "dni_cliente": "94985339P",
+    "calle_cliente": "PEDRO ITURRALDE OCHOA 11 46900 -",
+    "cp_cliente": "28122014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SECOM CENTRAL DE COMPRAS SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B40605925",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "9667",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-octubre-2014",
+    "importe_factura": "22,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "79273",
+    "potencia_contratada": "3,310"
+}

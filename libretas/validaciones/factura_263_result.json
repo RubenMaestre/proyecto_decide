@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LILIANA ZABALETA SALAZAR",
+    "dni_cliente": "24963171Y",
+    "calle_cliente": "Calle de Sajonia",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EUROPA,S.L.",
+    "cif_comercializadora": "B87826269",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "22/12/2015",
+    "fin_periodo": "21/01/2016",
+    "importe_factura": "69,97",
+    "fecha_cargo": "26/01/2016",
+    "consumo_periodo": "21/01/2016",
+    "potencia_contratada": "4,074"
+}

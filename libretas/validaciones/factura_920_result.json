@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Elsa Farías Valle",
+    "dni_cliente": "60330364F",
+    "calle_cliente": "CALLE PABLO FREIRE, 10 BJ 28918 -",
+    "cp_cliente": "31082016",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "LUVON ENERGÍA, S.L.",
+    "cif_comercializadora": "B93400836",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28918",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "31-agosto-2016",
+    "importe_factura": "37,82",
+    "fecha_cargo": "2016",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,598"
+}

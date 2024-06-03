@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mustafá De Aguilar Del Castillo",
+    "dni_cliente": "52416650H",
+    "calle_cliente": "Calle Cabo Lastres",
+    "cp_cliente": "31410",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ARAU 08787",
+    "cif_comercializadora": "A61621843",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08787",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "CLARAMUNT",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "126,69",
+    "fecha_cargo": "POL.INDUSTRIAL PLANS D ARAU",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

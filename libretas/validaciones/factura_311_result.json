@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Celestino Estrada Santiago",
+    "dni_cliente": "36393225A",
+    "calle_cliente": "Calle del Españoleto",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "KONERY EFICIENCIA ENERGETICA, SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B73704405",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "27/02/1994",
+    "fin_periodo": "28/04/1994",
+    "importe_factura": "133,97",
+    "fecha_cargo": "03/05/1994",
+    "consumo_periodo": "28/04/1994",
+    "potencia_contratada": "4,053"
+}

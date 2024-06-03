@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tancredo Villareal Morillo",
+    "dni_cliente": "46786291J",
+    "calle_cliente": "Paraje de Fuente Cardena",
+    "cp_cliente": "40241",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B84196997",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "75,66",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

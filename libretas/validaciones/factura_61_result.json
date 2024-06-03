@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PERSEO MENA",
+    "dni_cliente": "45011075Y",
+    "calle_cliente": "Camino de San Marcos",
+    "cp_cliente": "33827",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "QUASAR ENERGÍA, S.L.",
+    "cif_comercializadora": "B99514374",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50012",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "43,45",
+    "fecha_cargo": "12 de enero de 2003",
+    "consumo_periodo": "6802",
+    "potencia_contratada": ""
+}

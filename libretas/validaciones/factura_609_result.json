@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Luisa Dávila Lández",
+    "dni_cliente": "28634226P",
+    "calle_cliente": "Calle de Malcampo",
+    "cp_cliente": "06476",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B36350361",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36670",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "121,90",
+    "fecha_cargo": "15 de enero de 1994",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

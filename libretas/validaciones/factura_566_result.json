@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GAMALIEL GUARDIOLA CORDERO",
+    "dni_cliente": "36934772S",
+    "calle_cliente": "CALLE PABLO FREIRE, 10 BJ",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LUVON ENERGÍA, S.L.",
+    "cif_comercializadora": "B93400836",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "29/07/2016",
+    "fin_periodo": "28/08/2016 30 días  ",
+    "importe_factura": "159,01",
+    "fecha_cargo": "02/09/2016",
+    "consumo_periodo": "40024",
+    "potencia_contratada": "5,427"
+}

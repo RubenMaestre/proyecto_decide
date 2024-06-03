@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ATALA CÉSPEDES",
+    "dni_cliente": "57875866T",
+    "calle_cliente": "Ronda Sirenas",
+    "cp_cliente": "12022013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ECOEQ ALMERIA S.L.",
+    "cif_comercializadora": "B04827101",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-diciembre-2012",
+    "importe_factura": "32,53",
+    "fecha_cargo": "20/12/1212",
+    "consumo_periodo": "40934",
+    "potencia_contratada": "4,791"
+}

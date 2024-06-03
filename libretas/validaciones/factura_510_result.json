@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Silvio Munera Noriega",
+    "dni_cliente": "25190108W",
+    "calle_cliente": "Calle Quince de Mayo",
+    "cp_cliente": "16710",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NORTELECTRICA ENERGIA SL",
+    "cif_comercializadora": "B25829904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "25,79",
+    "fecha_cargo": "20/01/2801",
+    "consumo_periodo": "87318",
+    "potencia_contratada": "3,786"
+}

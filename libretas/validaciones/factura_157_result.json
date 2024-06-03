@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ODILA FRÍAS GÓMEZ",
+    "dni_cliente": "95874674W",
+    "calle_cliente": "Camino de Cabalillos",
+    "cp_cliente": "42124",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ENELUZ 2025, S.L.",
+    "cif_comercializadora": "B19505049",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "128,12",
+    "fecha_cargo": "02 de septiembre de 2003",
+    "consumo_periodo": "30232",
+    "potencia_contratada": ""
+}

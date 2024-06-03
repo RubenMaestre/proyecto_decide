@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JULIANA RANGEL BUSTAMANTE",
+    "dni_cliente": "71528304Y",
+    "calle_cliente": "CAMINO DE LAGESA, 1 30892 -",
+    "cp_cliente": "12560",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SUMINISTROS LYG MURCIA, S.L.",
+    "cif_comercializadora": "B73935645",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "2776",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-diciembre-2005",
+    "importe_factura": "39,56",
+    "fecha_cargo": "20/05/0912",
+    "consumo_periodo": "20/06/0702",
+    "potencia_contratada": "5,779"
+}

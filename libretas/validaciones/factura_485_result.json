@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Uriel Paniagua Llano",
+    "dni_cliente": "86098076Z",
+    "calle_cliente": "Carretera de M-623",
+    "cp_cliente": "25102017",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "SUNAIR ONE ENERGY S.L",
+    "cif_comercializadora": "B55567986",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "25-octubre-2017",
+    "importe_factura": "126,85",
+    "fecha_cargo": "",
+    "consumo_periodo": "65562",
+    "potencia_contratada": "4,220"
+}

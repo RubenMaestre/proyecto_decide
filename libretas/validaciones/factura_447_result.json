@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEANDRO PATIÑO ROSAS",
+    "dni_cliente": "73924309D",
+    "calle_cliente": "Calle de la Costanilla del Altillo",
+    "cp_cliente": "31101993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "QUASAR ENERGÍA, S.L.",
+    "cif_comercializadora": "B99514374",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30-noviembre-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "31-octubre-1993",
+    "importe_factura": "21,43",
+    "fecha_cargo": "05 de diciembre de 1993",
+    "consumo_periodo": "64174",
+    "potencia_contratada": "6,059"
+}

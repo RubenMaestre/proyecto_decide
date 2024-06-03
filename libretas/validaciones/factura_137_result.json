@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LILIAN RESTREPO MORILLO",
+    "dni_cliente": "90764148F",
+    "calle_cliente": "Calle de Fernando Lázaro Carreter",
+    "cp_cliente": "30878",
+    "población_cliente": "",
+    "provincia_cliente": "Lorca",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B98729486",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "20/07/1804",
+    "fin_periodo": "20/07/1805",
+    "importe_factura": "8,99",
+    "fecha_cargo": "23 de mayo de 2007",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,674"
+}

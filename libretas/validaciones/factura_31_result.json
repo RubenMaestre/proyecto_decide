@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MACEDONIO DE LA CRUZ JERANO",
+    "dni_cliente": "98684139V",
+    "calle_cliente": "Camino de Pozuelo del Rey a Valverde",
+    "cp_cliente": "03032016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOLABRIA, S.COOP.",
+    "cif_comercializadora": "F39781794",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-enero-2016",
+    "importe_factura": "15,33",
+    "fecha_cargo": "",
+    "consumo_periodo": "34258",
+    "potencia_contratada": "2,255"
+}

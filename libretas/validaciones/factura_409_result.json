@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leoncio Ibarra Lagunal",
+    "dni_cliente": "",
+    "calle_cliente": "Calle de Lyon",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B64376395",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "20/10/2015",
+    "fin_periodo": "19/11/2015",
+    "importe_factura": "156,22",
+    "fecha_cargo": "24/11/2015",
+    "consumo_periodo": "51658136",
+    "potencia_contratada": "4,581"
+}

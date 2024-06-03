@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Adulfo Ramos Zelaya",
+    "dni_cliente": "91550338B",
+    "calle_cliente": "Calle de los Torneros",
+    "cp_cliente": "33208",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VALENCIANA DE ELECTRICIDAD, S.L.",
+    "cif_comercializadora": "B98190051",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-octubre-2008",
+    "importe_factura": "20/08/1111",
+    "fecha_cargo": "20/08/1311",
+    "consumo_periodo": "22135",
+    "potencia_contratada": "2,771"
+}

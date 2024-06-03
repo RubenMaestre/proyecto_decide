@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SALUD MONTALVO",
+    "dni_cliente": "",
+    "calle_cliente": "Camino P.P.O. 38005 Santa Cruz de Tenerife",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "SALUD MONTALVO",
+    "cif_comercializadora": "B25745696",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "25/01/1997",
+    "fin_periodo": "24/02/1997 30 días  ",
+    "importe_factura": "165,96",
+    "fecha_cargo": "01/03/1997",
+    "consumo_periodo": "17693783",
+    "potencia_contratada": "6,512"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FLOR MALDONADO UVEDA",
+    "dni_cliente": "62823310Y",
+    "calle_cliente": "Calle Castellón",
+    "cp_cliente": "15102018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNION FENOSA COMERCIAL, S.L.",
+    "cif_comercializadora": "B82207275",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-octubre-2018",
+    "importe_factura": "17,57",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "5,259"
+}

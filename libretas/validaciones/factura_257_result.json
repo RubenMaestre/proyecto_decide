@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jaime Campos Valenzuela",
+    "dni_cliente": "67151609G",
+    "calle_cliente": "PEDRO ITURRALDE OCHOA 11 46900 -",
+    "cp_cliente": "31260",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SECOM CENTRAL DE COMPRAS SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B40605925",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46900",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-septiembre-2007",
+    "importe_factura": "20/07/1510",
+    "fecha_cargo": "20/07/1710",
+    "consumo_periodo": "",
+    "potencia_contratada": "5,256"
+}

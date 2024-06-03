@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CIRIACO SALAZAR PADILLA",
+    "dni_cliente": "75395527D",
+    "calle_cliente": "Calle Acacia",
+    "cp_cliente": "15625",
+    "población_cliente": "",
+    "provincia_cliente": "HENARES",
+    "nombre_comercializadora": "Sucursal en España",
+    "cif_comercializadora": "B19300334",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "19200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "HENARES",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "60,17",
+    "fecha_cargo": "02 de diciembre de 2001",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

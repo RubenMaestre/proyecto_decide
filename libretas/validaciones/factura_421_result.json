@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cordelia Agustín Verti",
+    "dni_cliente": "89757659K",
+    "calle_cliente": "Calle Cárabo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "Cordelia Agustín Verti",
+    "cif_comercializadora": "A62338827",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "14/08/2016",
+    "fin_periodo": "13/10/2016",
+    "importe_factura": "32,14",
+    "fecha_cargo": "18/10/2016",
+    "consumo_periodo": "13/10/2016",
+    "potencia_contratada": "4,112"
+}

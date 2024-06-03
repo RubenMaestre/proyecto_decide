@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Artemisa Guardado Chávez",
+    "dni_cliente": "39632790H",
+    "calle_cliente": "Paseo de Juan XXIII",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A94071727",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "25/07/1990",
+    "fin_periodo": "23/09/1990",
+    "importe_factura": "238,65",
+    "fecha_cargo": "28/09/1990",
+    "consumo_periodo": "23/09/1990",
+    "potencia_contratada": "3,884"
+}

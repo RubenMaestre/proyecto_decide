@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ana Aguilar Palomino",
+    "dni_cliente": "67586984N",
+    "calle_cliente": "Calle de Polonia",
+    "cp_cliente": "27533",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "PETRO NAVARRA SL",
+    "cif_comercializadora": "B31595523",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "31195",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "60,89",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

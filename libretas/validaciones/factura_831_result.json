@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Edison Sánchez Ocampo",
+    "dni_cliente": "13022008Y",
+    "calle_cliente": "Calle de los Escribanos",
+    "cp_cliente": "11031995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "IBERDESA COMERCIALIZADORA",
+    "cif_comercializadora": "B90393497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41410",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-marzo-1995",
+    "importe_factura": "13,83",
+    "fecha_cargo": "15 de abril de 1995",
+    "consumo_periodo": "36011",
+    "potencia_contratada": "3,989"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tessa Peraza Sala",
+    "dni_cliente": "73380544X",
+    "calle_cliente": "Calle Peña Huevera",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EUROPA,S.L.",
+    "cif_comercializadora": "B87826269",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "23/06/2010",
+    "fin_periodo": "23/07/2010 30 días  ",
+    "importe_factura": "64,03",
+    "fecha_cargo": "28/07/2010",
+    "consumo_periodo": "30990",
+    "potencia_contratada": "5,637"
+}

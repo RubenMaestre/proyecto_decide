@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IVO CÁRDENAS JUÁREZ",
+    "dni_cliente": "53021451B",
+    "calle_cliente": "Calle Rodeo de las Cercas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECTRICA PENINSULAR S.L.",
+    "cif_comercializadora": "B67065441",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BARCELONA",
+    "número_factura": "",
+    "inicio_periodo": "10/01/2021",
+    "fin_periodo": "11/03/2021",
+    "importe_factura": "196,95",
+    "fecha_cargo": "16/03/2021",
+    "consumo_periodo": "11/03/2021",
+    "potencia_contratada": "5,399"
+}

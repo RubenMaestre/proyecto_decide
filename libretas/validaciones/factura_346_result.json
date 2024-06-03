@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ARIADNA LASTRETO SEBALLOS",
+    "dni_cliente": "34375720N",
+    "calle_cliente": "Calle Siderita 33119 Grado",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ARIADNA LASTRETO SEBALLOS",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "13/10/2015",
+    "fin_periodo": "12/12/2015",
+    "importe_factura": "185,28",
+    "fecha_cargo": "17/12/2015",
+    "consumo_periodo": "12/12/2015",
+    "potencia_contratada": "1,493"
+}

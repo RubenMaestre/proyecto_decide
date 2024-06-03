@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Concepción Salazar Gámez",
+    "dni_cliente": "59439611K",
+    "calle_cliente": "Calle de las Petunias",
+    "cp_cliente": "42240",
+    "población_cliente": "",
+    "provincia_cliente": "Soria",
+    "nombre_comercializadora": "LUCI MUNDI ENERGÍA, SL",
+    "cif_comercializadora": "B98618614",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46780",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "20/02/2501",
+    "fin_periodo": "20/02/2402",
+    "importe_factura": "95,07",
+    "fecha_cargo": "24 de febrero de 2002",
+    "consumo_periodo": "76133",
+    "potencia_contratada": "4,562"
+}

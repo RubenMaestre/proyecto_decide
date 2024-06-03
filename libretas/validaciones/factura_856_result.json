@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Telmo Bonilla Cárdenas",
+    "dni_cliente": "76473644R",
+    "calle_cliente": "Calle Marc Gené",
+    "cp_cliente": "44440",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B24614430",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24393",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "168,40",
+    "fecha_cargo": "03 de agosto de 1990",
+    "consumo_periodo": "18287",
+    "potencia_contratada": ""
+}

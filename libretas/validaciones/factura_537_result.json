@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SÓCRATES PERAZA NAVARRO",
+    "dni_cliente": "95006636F",
+    "calle_cliente": "Calle de Italia",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B24698359",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ANTONIO",
+    "número_factura": "",
+    "inicio_periodo": "08/07/2003",
+    "fin_periodo": "07/08/2003",
+    "importe_factura": "190,29",
+    "fecha_cargo": "12/08/2003",
+    "consumo_periodo": "07/08/2003",
+    "potencia_contratada": "4,814"
+}

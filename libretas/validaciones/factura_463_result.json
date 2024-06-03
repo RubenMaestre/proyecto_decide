@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELÉCTRICAS COLLADO BLANCO, S L",
+    "dni_cliente": "72449854S",
+    "calle_cliente": "PLAZA MAYOR, 18 12231 - CIRAT",
+    "cp_cliente": "01112014",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B12571360",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12231",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-noviembre-2014",
+    "importe_factura": "38,56",
+    "fecha_cargo": "05 de enero de 2015",
+    "consumo_periodo": "57515",
+    "potencia_contratada": "5,623"
+}

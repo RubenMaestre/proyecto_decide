@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GERMANO ROSALES BONILLA",
+    "dni_cliente": "80256802G",
+    "calle_cliente": "Plaza del Convento",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SUNAIR ONE HOME S.L",
+    "cif_comercializadora": "B55641708",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "06/11/2018",
+    "fin_periodo": "05/01/2019",
+    "importe_factura": "40,21",
+    "fecha_cargo": "10/01/2019",
+    "consumo_periodo": "05/01/2019",
+    "potencia_contratada": "4,399"
+}

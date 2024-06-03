@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KENDRA RAMÍREZ RAMÓN",
+    "dni_cliente": "16260925V",
+    "calle_cliente": "Avenida de la Paloma",
+    "cp_cliente": "09052016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICIDAD Y GAS, S.L.U.",
+    "cif_comercializadora": "B39540760",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-mayo-2016",
+    "importe_factura": "36,57",
+    "fecha_cargo": "13 de julio de 2016",
+    "consumo_periodo": "",
+    "potencia_contratada": "5,558"
+}

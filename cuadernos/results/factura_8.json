@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "",
+    "calle_cliente": "",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "término de potencia 3,792 3,792 3,792 3,792 3,792 kw período período período período período de 28.05.1991 28.05.1991 28.05.1991 a 27.06.1991 173",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

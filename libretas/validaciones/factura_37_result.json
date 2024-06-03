@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Benedicta Zaldívar Noble",
+    "dni_cliente": "75424392D",
+    "calle_cliente": "Calle Rascafría",
+    "cp_cliente": "25193",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGYA VM GESTION DE ENERGÍA, S.L",
+    "cif_comercializadora": "B83393066",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "20/05/1707",
+    "fin_periodo": "15-septiembre-2005",
+    "importe_factura": "15,01",
+    "fecha_cargo": "20 de septiembre de 2005",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,141"
+}

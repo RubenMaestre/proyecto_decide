@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nicasio Guardiola Becerra",
+    "dni_cliente": "27836698M",
+    "calle_cliente": "Calle Santa Rosalía",
+    "cp_cliente": "46838",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGEST DE LA CV, S.L.",
+    "cif_comercializadora": "B98437882",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46183",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-noviembre-2002",
+    "importe_factura": "19,71",
+    "fecha_cargo": "20/02/1009",
+    "consumo_periodo": "20/02/0911",
+    "potencia_contratada": "2,894"
+}

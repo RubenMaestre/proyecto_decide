@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marco Milanés Ordóñez",
+    "dni_cliente": "15533764R",
+    "calle_cliente": "Calle Fuencisla",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECTRICA DE CADIZ, S.A.U",
+    "cif_comercializadora": "A11507357",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cádiz",
+    "número_factura": "",
+    "inicio_periodo": "19/05/1997",
+    "fin_periodo": "18/06/1997 30 días  ",
+    "importe_factura": "118,14",
+    "fecha_cargo": "23/06/1997",
+    "consumo_periodo": "59369",
+    "potencia_contratada": "5,815"
+}

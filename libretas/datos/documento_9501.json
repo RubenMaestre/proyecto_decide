@@ -1,0 +1,40 @@
+{
+    "text": "Detalles Financieros Los conceptos de potencia, energía y otros impuestos incluyen: IGIC reducido: 30,14 € Otros importes: 145,08 € Cargos adicionales: 0,93 €, 8,96 €, y 3,68 € El IBAN asociado es ES02428904669985815 y el código de mandato es E54810353236552592122329393. La versión es 8275 y el IGIC normal aplicado es del 7% con un importe de 0,07 €. El pago se justifica con el correspondiente apunte bancario. Para más detalles, puede consultar el reverso de la factura. Consumo de Energía Durante el periodo de facturación, el consumo en los periodos punta y valle se detalla a continuación: Evolución del consumo: placeholder_18 kWh de 12h a 22h y de 22h a 12h. Lectura anterior: 660 y 550, reales a 16056 kWh Lectura actual: 440 y 330, reales a 16572 kWh Consumo del periodo: 110 y 0 kWh La lectura se realizó el 02 de octubre de 2021 y el 01 de diciembre de 2021. El consumo acumulado durante el último año es de x.xxx kWh en el valle y xx kWh en otros periodos. El reparto del consumo muestra que la mayor parte se ha realizado en el periodo valle. La empresa está inscrita en el Registro Mercantil de Gerona, tomo 10180, folio 53, sección 7, hoja número M260537, inscripción 163. El domicilio social está en Gerona. Datos del Contrato Número de contador: 827038937 Comercializadora: placeholder_07 Distribuidora: Dielesur, SL Referencia del contrato de acceso: 678102542088 Peaje de acceso: 2.0A Fin de contrato de suministro: placeholder_15 Renovación anual automática CUPS: ES4654590383004623BUJO Datos de la Factura El cliente liceo escamilla olivar, con DNI 80363962F, ha recibido la factura número placeholder_13 con referencia 8690891963501248. La fecha de emisión de la factura es placeholder_17. El periodo de facturación abarca desde placeholder_14 hasta el mes siguiente, cubriendo un total de 60 días. La fecha de cargo es el 06 de diciembre de 2021. La empresa comercializadora responsable es placeholder_07, con CIF placeholder_08. Su dirección es placeholder_09, placeholder_10, placeholder_11, placeholder_12. El cliente reside en calle peaje, 36853, Navamorcuende, valencia. La forma de pago es domiciliada. Desglose del Importe El importe total de importe euros se desglosa de la siguiente manera: Potencia contratada: placeholder_19 kW x 0,113146 €/kW x 60 días, totalizando 30,14 € Facturación por peaje de acceso: Potencia kW x 38,073671 €/kW y año x 60/365 días, totalizando 27,79 € Consumo P1: 516 kWh x 0,164236 €/kWh Incentivos y costes adicionales: Costes de redes de transporte y distribución, otros costes regulados incluida la anualidad del déficit El subtotal es de 175,22 €. Además, se debe añadir el importe del alquiler de los equipos de medida y control, así como los conceptos no energéticos: Descuento por e-factura: 145,08 € Impuesto de electricidad: 175,22 x 5,1127 = 8,96 € Alquiler de equipos de medida y control: 0,015452 €/día, totalizando 0,93 € El importe total con IGIC reducido del 2% es 184,18 + 9,89 = 185,11 €. El IGIC normal del 7% aplica un importe adicional de 0,07 €. El total de la factura es de 108,66 euros. Precios y Tarifas Los precios de los términos del peaje de acceso están publicados en la orden TEC/1366/2018. El precio del alquiler de los equipos de medida y control está en la orden IET/1491/2013 de 3 de agosto. Los precios de la energía se han actualizado el 01/01/20XX, trasladando las variaciones reguladas en la orden TEC/1366/2018 de 20 de diciembre, la orden IET/2013/2013 de 31 de octubre y la resolución de 6 de noviembre de 2018 de la Secretaría de Estado de Energía. Con esta tarifa, usted se beneficia de un descuento permanente. Si más del 50% del consumo lo realiza en horas valle (22-12h en invierno y 23-13h en verano), tendrá un descuento adicional y contribuirá a proteger el medio ambiente. Para más información, puede llamar al servicio de atención al cliente o consultar nuestra web. Contacto y Reclamaciones Teléfono gratuito reclamaciones: 900 373 408 Dirección: Gerona Urgencias: 900 818 947 Para reclamaciones sobre el contrato de suministro o facturaciones, puede dirigirse a la Consejería de Empleo, Industria y Comercio de la Comunidad Autónoma de Canarias en el teléfono 928 XXX XXX o a través de su página web. Atención al Cliente Atención al cliente, consultas, gestiones y reclamaciones 24 horas. Información de su producto, costes regulados, coste de producción de electricidad, impuestos aplicados, y destino del importe de la factura se detallan a continuación. Producto Contratado Producto contratado: PVPC sin discriminación horaria Potencia contratada: potencia kW Referencia del contrato: 3895545563464 Información sobre su Electricidad Fuente: CNMC Comisión Nacional de los Mercados y Competencia. El impacto ambiental de su electricidad depende de las fuentes energéticas utilizadas para su generación. En una escala de A a G, donde A indica el mínimo impacto ambiental y G el máximo, y donde el valor medio nacional corresponde al nivel D tiene los siguientes valores de impacto medioambiental. Aunque la energía eléctrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros consumidores conectados al mismo sistema eléctrico, ahora es posible garantizar el origen de la producción de energía eléctrica que usted consume. A estos efectos, se proporciona el desglose de la mezcla de tecnologías de producción nacional para comparar los porcentajes del promedio nacional con los correspondientes a la energía vendida por su comercializadora.",
+    "entities": [
+        [
+            1540,
+            1562,
+            "nombre_cliente"
+        ],
+        [
+            1572,
+            1581,
+            "dni_cliente"
+        ],
+        [
+            2056,
+            2067,
+            "calle_cliente"
+        ],
+        [
+            2069,
+            2074,
+            "cp_cliente"
+        ],
+        [
+            2076,
+            2089,
+            "poblacion_cliente"
+        ],
+        [
+            2091,
+            2099,
+            "provincia_cliente"
+        ],
+        [
+            3059,
+            3065,
+            "importe_factura"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NAZARENA LLANO SANDOVAL",
+    "dni_cliente": "53494528R",
+    "calle_cliente": "MARQUÉS DEL TURIA, 49 8º -",
+    "cp_cliente": "48530",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Barranco Media Luna",
+    "cif_comercializadora": "B98190051",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Bizkaia",
+    "número_factura": "",
+    "inicio_periodo": "20/10/1912",
+    "fin_periodo": "19-diciembre-2010",
+    "importe_factura": "36,58",
+    "fecha_cargo": "22 de febrero de 2011",
+    "consumo_periodo": "20/11/1702",
+    "potencia_contratada": "5,407"
+}

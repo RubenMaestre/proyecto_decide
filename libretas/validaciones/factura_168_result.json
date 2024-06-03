@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TECLA CAMARENO",
+    "dni_cliente": "11587764L",
+    "calle_cliente": "AVENIDA SEXTA",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TUCAN ENERGIA, S.L.",
+    "cif_comercializadora": "B01775212",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ALBACETE",
+    "número_factura": "",
+    "inicio_periodo": "29/03/2008",
+    "fin_periodo": "28/05/2008",
+    "importe_factura": "131,45",
+    "fecha_cargo": "02/06/2008",
+    "consumo_periodo": "28/05/2008",
+    "potencia_contratada": "2,930"
+}

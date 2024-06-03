@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Silvana Parra Llano",
+    "dni_cliente": "78756554T",
+    "calle_cliente": "Avenida del Montepríncipe",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ENERGÍA, SLU",
+    "cif_comercializadora": "B36878510",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "POLÍGONO",
+    "número_factura": "",
+    "inicio_periodo": "30/11/2008",
+    "fin_periodo": "atencionalclienteeamsalvaterra.com",
+    "importe_factura": "349,10",
+    "fecha_cargo": "03/02/2009",
+    "consumo_periodo": "29/01/2009",
+    "potencia_contratada": "2,536"
+}

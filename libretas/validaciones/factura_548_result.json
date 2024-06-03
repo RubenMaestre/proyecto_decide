@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "32741548J",
+    "calle_cliente": "Calle de Galileo",
+    "cp_cliente": "29718",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B71398531",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "31592",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-mayo-2020",
+    "importe_factura": "26,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "71715",
+    "potencia_contratada": "3,808"
+}

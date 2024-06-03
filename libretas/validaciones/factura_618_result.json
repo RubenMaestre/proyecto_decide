@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Persefone Cordero Iglesias",
+    "dni_cliente": "20576477X",
+    "calle_cliente": "Calle Castillo",
+    "cp_cliente": "09011997",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B24374647",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "C",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-enero-1997",
+    "importe_factura": "80,55",
+    "fecha_cargo": "13 de febrero de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,762"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEANDRA MEDINA OLIVARES",
+    "dni_cliente": "83238613A",
+    "calle_cliente": "Calle de Miguel Delibes",
+    "cp_cliente": "08091993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.A.",
+    "cif_comercializadora": "A82808007",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-agosto-1993",
+    "importe_factura": "15,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "57870",
+    "potencia_contratada": "4,666"
+}

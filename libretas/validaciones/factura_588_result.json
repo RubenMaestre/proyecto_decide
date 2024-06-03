@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lino Sotomayor Gamboa",
+    "dni_cliente": "93327232V",
+    "calle_cliente": "Senda del Ardal 46970 Alaquñs",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "IBEROELECTRA 3000, S.L",
+    "cif_comercializadora": "B12899589",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "28/11/1995",
+    "fin_periodo": "27/01/1996",
+    "importe_factura": "274,52",
+    "fecha_cargo": "01/02/1996",
+    "consumo_periodo": "27/01/1996",
+    "potencia_contratada": "3,487"
+}

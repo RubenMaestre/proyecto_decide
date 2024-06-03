@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Talía Aguilar Carranza",
+    "dni_cliente": "87131183F",
+    "calle_cliente": "Plaza San Ignacio de Loyola",
+    "cp_cliente": "24101996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MEGARA ENERGIA SOC.",
+    "cif_comercializadora": "F42212696",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "42004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-octubre-1996",
+    "importe_factura": "11,13",
+    "fecha_cargo": "",
+    "consumo_periodo": "6002",
+    "potencia_contratada": "3,270"
+}

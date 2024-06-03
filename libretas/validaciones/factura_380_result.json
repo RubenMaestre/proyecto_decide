@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROSARIO PASTOR MINAS",
+    "dni_cliente": "82580008A",
+    "calle_cliente": "Calle González de Rueda",
+    "cp_cliente": "11031996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ANTUKO ENERGIA SL.",
+    "cif_comercializadora": "B86267630",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-enero-1996",
+    "importe_factura": "29,88",
+    "fecha_cargo": "",
+    "consumo_periodo": "88629",
+    "potencia_contratada": "4,423"
+}

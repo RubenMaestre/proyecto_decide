@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LISA SOLER GÓMEZ",
+    "dni_cliente": "12146828E",
+    "calle_cliente": "Calle Tres Palmas",
+    "cp_cliente": "21500",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41920",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "95,32",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

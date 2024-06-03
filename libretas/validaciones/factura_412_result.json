@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Igor Espino Aguilar",
+    "dni_cliente": "19940257Q",
+    "calle_cliente": "Calle Silvia Munt",
+    "cp_cliente": "12092021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INER EUSKADI, S.L.",
+    "cif_comercializadora": "B01801778",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20018",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-septiembre-2021",
+    "importe_factura": "17,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "58462",
+    "potencia_contratada": "5,140"
+}

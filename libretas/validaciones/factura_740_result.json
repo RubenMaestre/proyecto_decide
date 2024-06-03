@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Samuel Sánchez Osorio",
+    "dni_cliente": "89340548S",
+    "calle_cliente": "Travesia Juego de Pelota",
+    "cp_cliente": "30592",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SOLVAY ENERGY SERVICES IBÉRICA, S.L.",
+    "cif_comercializadora": "B64757602",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "16,95",
+    "fecha_cargo": "03 de enero de 2007",
+    "consumo_periodo": "51692",
+    "potencia_contratada": ""
+}

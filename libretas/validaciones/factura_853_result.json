@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Romualdo Solé Izquierdo",
+    "dni_cliente": "58485064C",
+    "calle_cliente": "Calle Saleguillas",
+    "cp_cliente": "39718",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ENERGIA, SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B27861715",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36202",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "PONTEVEDRA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "80,55",
+    "fecha_cargo": "18 de abril de 1995",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

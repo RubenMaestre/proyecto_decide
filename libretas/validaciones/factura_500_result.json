@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MANON MONTES",
+    "dni_cliente": "35127220X",
+    "calle_cliente": "CALLE GÓMEZ NÚÑEZ Nº 2 PLANTA",
+    "cp_cliente": "29071990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "PREMIUM NUEVA ENERGIA SL",
+    "cif_comercializadora": "B66527201",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24402",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-julio-1990",
+    "importe_factura": "15,64",
+    "fecha_cargo": "02 de septiembre de 1990",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,504"
+}

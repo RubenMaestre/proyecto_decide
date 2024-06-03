@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEONARDA JARAMILLO BÁEZ",
+    "dni_cliente": "90237166R",
+    "calle_cliente": "Camino de los Pelendengues",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "INPECUARIAS VILLARALTO S.L",
+    "cif_comercializadora": "B88446406",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "12/05/2020",
+    "fin_periodo": "11/06/2020 30 días  ",
+    "importe_factura": "104,74",
+    "fecha_cargo": "16/06/2020",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,524"
+}

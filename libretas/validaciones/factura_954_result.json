@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Herminia Barriga Murillo",
+    "dni_cliente": "17454043X",
+    "calle_cliente": "Calle Manuel Cobo Calleja",
+    "cp_cliente": "31422",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "FACTOR ENERGÍA ESPAÑA, S.A.",
+    "cif_comercializadora": "A62943600",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-febrero-2008",
+    "importe_factura": "20/08/0403",
+    "fecha_cargo": "20/08/0603",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,027"
+}

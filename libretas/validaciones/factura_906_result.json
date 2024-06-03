@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nahuel Quijano Gutiérrez",
+    "dni_cliente": "71832154A",
+    "calle_cliente": "Calle Mirador de Cuenca",
+    "cp_cliente": "26290",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA Y COMERCIALIZACIÓN",
+    "cif_comercializadora": "B47770656",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "47015",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "DOMINGO DE SILOS, 11 1ºB,",
+    "fin_periodo": "20 de",
+    "importe_factura": "26,50",
+    "fecha_cargo": "20/06/0808",
+    "consumo_periodo": "20/06/0710",
+    "potencia_contratada": "3,956"
+}

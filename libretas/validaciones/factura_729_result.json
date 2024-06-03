@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RUPERTO GAVILÁN",
+    "dni_cliente": "13738763N",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": "19129",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "SUCA SDAD COOP ANDALUZA",
+    "cif_comercializadora": "F04030672",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27042021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-marzo-2021",
+    "importe_factura": "138,74",
+    "fecha_cargo": "04700",
+    "consumo_periodo": "51390",
+    "potencia_contratada": "4,324"
+}

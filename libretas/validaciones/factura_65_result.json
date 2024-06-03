@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GERALDINE FRÍAS",
+    "dni_cliente": "19863450Y",
+    "calle_cliente": "CALLE MARQUÉS DE VILLAMAGNA Nº 3- 5ª PLANTA TORRE SERRANO 28001 -",
+    "cp_cliente": "01015",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.U.",
+    "cif_comercializadora": "B88575063",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "MADRID",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-agosto-2009",
+    "importe_factura": "20,42",
+    "fecha_cargo": "20/09/2008",
+    "consumo_periodo": "20/09/1910",
+    "potencia_contratada": "3,012"
+}

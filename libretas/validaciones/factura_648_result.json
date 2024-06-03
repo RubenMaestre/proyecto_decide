@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ENCARNA MENA",
+    "dni_cliente": "45285803E",
+    "calle_cliente": "Calle Canarios",
+    "cp_cliente": "17534",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA POPULAR, S. COOP.",
+    "cif_comercializadora": "F28201374",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04-junio-2003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-julio-2003",
+    "importe_factura": "20/03/0407",
+    "fecha_cargo": "20/03/0406",
+    "consumo_periodo": "48218",
+    "potencia_contratada": "4,692"
+}

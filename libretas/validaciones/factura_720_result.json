@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELÉCTRICAS COLLADO BLANCO, S L.",
+    "dni_cliente": "89871626T",
+    "calle_cliente": "PLAZA MAYOR, 18 12231 - CIRAT",
+    "cp_cliente": "30101999",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÉCTRICAS COLLADO BLANCO, S L",
+    "cif_comercializadora": "B12571360",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12231",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-octubre-1999",
+    "importe_factura": "23,33",
+    "fecha_cargo": "03 de enero de 2000",
+    "consumo_periodo": "19413",
+    "potencia_contratada": "3,357"
+}

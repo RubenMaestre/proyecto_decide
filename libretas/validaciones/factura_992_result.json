@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TELGA SALVADO IVAÑEZ",
+    "dni_cliente": "81135385X",
+    "calle_cliente": "Calle de Hartzenbusch",
+    "cp_cliente": "32450",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B90472028",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "SEVILLA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "60,82",
+    "fecha_cargo": "01 de octubre de 1994",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

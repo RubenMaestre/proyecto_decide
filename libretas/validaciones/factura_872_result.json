@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SILVERIO BAUTISTA GILLÉN",
+    "dni_cliente": "54878210A",
+    "calle_cliente": "Camino de los Perdigones",
+    "cp_cliente": "07112013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "IE2 INNOVACION, S.L.U.",
+    "cif_comercializadora": "B39829197",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-noviembre-2013",
+    "importe_factura": "14,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "63766",
+    "potencia_contratada": "4,193"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELVIRA MOLINA ZALDÍVAR",
+    "dni_cliente": "28334676X",
+    "calle_cliente": "Camino del Barral",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELÉCTRICA CATRALENSE, SLU",
+    "cif_comercializadora": "B53485140",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "28/11/2007",
+    "fin_periodo": "28/12/2007",
+    "importe_factura": "201,87",
+    "fecha_cargo": "02/01/2008",
+    "consumo_periodo": "28/12/2007",
+    "potencia_contratada": "3,313"
+}

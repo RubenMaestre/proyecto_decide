@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Felicitas Macías Pantoja",
+    "dni_cliente": "80622333L",
+    "calle_cliente": "CARRETERA DE FRANCIA, 10 22660 -",
+    "cp_cliente": "09246",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRO ESCARRILLA, S.L",
+    "cif_comercializadora": "B22216733",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "9474",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "19,53",
+    "fecha_cargo": "20/06/2908",
+    "consumo_periodo": "42357",
+    "potencia_contratada": "5,706"
+}

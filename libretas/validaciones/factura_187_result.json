@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "24-7 UTILITIES, S.L.U.",
+    "dni_cliente": "91121620J",
+    "calle_cliente": "Calle de las Alpujarras",
+    "cp_cliente": "26032014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "24-7 UTILITIES, S.L.U.",
+    "cif_comercializadora": "B87086989",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "22-febrero-2014",
+    "importe_factura": "10,72",
+    "fecha_cargo": "",
+    "consumo_periodo": "32351",
+    "potencia_contratada": "3,213"
+}

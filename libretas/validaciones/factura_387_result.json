@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leonarda Solana Trejos",
+    "dni_cliente": "65411601S",
+    "calle_cliente": "Carretera Velilla",
+    "cp_cliente": "10317",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A81948077",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "20/11/1406",
+    "fin_periodo": "20/11/1407",
+    "importe_factura": "16,01",
+    "fecha_cargo": "14 de julio de 2011",
+    "consumo_periodo": "57722",
+    "potencia_contratada": "4,636"
+}

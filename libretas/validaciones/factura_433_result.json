@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Yocasta Gillén Pastrana",
+    "dni_cliente": "79413784M",
+    "calle_cliente": "Travesia Barranquillo",
+    "cp_cliente": "18004",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Yocasta Gillén Pastrana",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-diciembre-2012",
+    "importe_factura": "11,96",
+    "fecha_cargo": "20/12/2012",
+    "consumo_periodo": "26223",
+    "potencia_contratada": "3,430"
+}

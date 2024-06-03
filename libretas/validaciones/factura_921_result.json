@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ágata Barriga Lacayo",
+    "dni_cliente": "12906551D",
+    "calle_cliente": "LOPEZ DE NEIRA 3 OFICINA",
+    "cp_cliente": "05021994",
+    "población_cliente": "",
+    "provincia_cliente": "TORRES",
+    "nombre_comercializadora": "ENERGIA, SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B27861715",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07031994",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-febrero-1994",
+    "importe_factura": "66,05",
+    "fecha_cargo": "",
+    "consumo_periodo": "66846",
+    "potencia_contratada": "3,142"
+}

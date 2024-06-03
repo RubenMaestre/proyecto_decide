@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Madelaine Bautista Daniel",
+    "dni_cliente": "16258755D",
+    "calle_cliente": "Avenida de las Morcilleras",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B25829904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "05/10/1991",
+    "fin_periodo": "04/11/1991",
+    "importe_factura": "196,76",
+    "fecha_cargo": "09/11/1991",
+    "consumo_periodo": "04/11/1991",
+    "potencia_contratada": "4,429"
+}

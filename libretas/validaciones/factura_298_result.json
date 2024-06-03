@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Soraya Izquierdo Batalla",
+    "dni_cliente": "53628247K",
+    "calle_cliente": "CALLE TEMPLE, 25",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B67580100",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "26/10/2011",
+    "fin_periodo": "25/12/2011",
+    "importe_factura": "356,47",
+    "fecha_cargo": "30/12/2011",
+    "consumo_periodo": "25/12/2011",
+    "potencia_contratada": "2,921"
+}

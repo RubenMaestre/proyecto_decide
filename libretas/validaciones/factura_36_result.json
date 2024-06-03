@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Violeta Fábregas Venegas",
+    "dni_cliente": "72153362Q",
+    "calle_cliente": "Calle de Farinelli",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ALPEX IBERICA DE ENERGIA, S.L.U",
+    "cif_comercializadora": "B87910352",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "02/11/2005",
+    "fin_periodo": "01/01/2006",
+    "importe_factura": "32,90",
+    "fecha_cargo": "06/01/2006",
+    "consumo_periodo": "01/01/2006",
+    "potencia_contratada": "4,098"
+}

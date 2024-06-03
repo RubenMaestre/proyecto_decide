@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JUDIT MONTALVO VILLEDA",
+    "dni_cliente": "11082719P",
+    "calle_cliente": "CAMINO DE LAGESA, 1 30892 -",
+    "cp_cliente": "12062019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SUMINISTROS LYG MURCIA, S.L.",
+    "cif_comercializadora": "B73935645",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30892",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-junio-2019",
+    "importe_factura": "13,68",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,946"
+}

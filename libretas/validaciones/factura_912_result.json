@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rosario Argüelles Ozuno",
+    "dni_cliente": "23927550Y",
+    "calle_cliente": "CMNO DE LA ZARZUELA, NUM.",
+    "cp_cliente": "02530",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNNA GREENENERGY SERVICES, S.L.",
+    "cif_comercializadora": "B42753376",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-marzo-2012",
+    "importe_factura": "14,17",
+    "fecha_cargo": "20/12/0403",
+    "consumo_periodo": "20/12/0203",
+    "potencia_contratada": "2,067"
+}

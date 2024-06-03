@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "",
+    "calle_cliente": "",
+    "cp_cliente": "",
+    "poblacion_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "",
+    "direccion_comercializadora": "",
+    "cp_comercializadora": "",
+    "poblacion_comercializadora": "",
+    "provincia_comercializadora": "",
+    "numero_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

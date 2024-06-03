@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CAÍN MIJARES VALES",
+    "dni_cliente": "89761126S",
+    "calle_cliente": "Calle de San Daniel",
+    "cp_cliente": "07052016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "IBERRED SOLUTIONS SL",
+    "cif_comercializadora": "B55323091",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17 17310",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-marzo-2016",
+    "importe_factura": "23,20",
+    "fecha_cargo": "10 de mayo de 2016",
+    "consumo_periodo": "30736",
+    "potencia_contratada": "3,304"
+}

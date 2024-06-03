@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Isabela Ordóñez Fraga",
+    "dni_cliente": "11080573R",
+    "calle_cliente": "Calle de Amurrio",
+    "cp_cliente": "13738",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B36350361",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36670",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "197,62",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

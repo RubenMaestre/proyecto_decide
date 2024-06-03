@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BEGONIA NÚÑEZ ROSALES",
+    "dni_cliente": "43522223J",
+    "calle_cliente": "Paseo San Benito",
+    "cp_cliente": "50335",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ESTABANELL IMPULSA",
+    "cif_comercializadora": "A62422720",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08400",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "37,43",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

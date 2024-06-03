@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marita Alcázar Martínez",
+    "dni_cliente": "41641588L",
+    "calle_cliente": "Calle del Enebro",
+    "cp_cliente": "18121997",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B87382644",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16021998",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-febrero-1998",
+    "importe_factura": "66,15",
+    "fecha_cargo": "21 de febrero de 1998",
+    "consumo_periodo": "33652",
+    "potencia_contratada": "1,703"
+}

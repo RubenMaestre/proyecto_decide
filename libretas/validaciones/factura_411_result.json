@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Daiana Macedo Estrella",
+    "dni_cliente": "47720496G",
+    "calle_cliente": "Calle del Santo",
+    "cp_cliente": "17483",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "HIDROELECTRICA LUMYMEY SL UNIPERSONAL",
+    "cif_comercializadora": "B15552060",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "15800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "La Coruña",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "78,19",
+    "fecha_cargo": "",
+    "consumo_periodo": "25981",
+    "potencia_contratada": ""
+}

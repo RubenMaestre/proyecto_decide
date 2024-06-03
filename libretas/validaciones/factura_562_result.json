@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ganímedes Galván Caballero",
+    "dni_cliente": "27696256R",
+    "calle_cliente": "Camino de Vallelaza",
+    "cp_cliente": "39592",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Social CARRER ORIENT, 3",
+    "cif_comercializadora": "B25445693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25172",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "20/05/0111",
+    "fin_periodo": "20/05/3112",
+    "importe_factura": "315,03",
+    "fecha_cargo": "05 de enero de 2006",
+    "consumo_periodo": "43737",
+    "potencia_contratada": "4,908"
+}

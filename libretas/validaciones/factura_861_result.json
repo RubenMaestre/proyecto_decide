@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sófocles Infante Benítez",
+    "dni_cliente": "22611383Z",
+    "calle_cliente": "Calle de Fuengirola",
+    "cp_cliente": "24170",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TRAILSTONE RENEWABLES GMBH.",
+    "cif_comercializadora": "DE815824732",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "4053",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-octubre-2002",
+    "importe_factura": "20/02/1411",
+    "fecha_cargo": "20/02/1611",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,308"
+}

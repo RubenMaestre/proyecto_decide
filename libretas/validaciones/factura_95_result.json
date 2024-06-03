@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FLORIDA CERDA CUESTA",
+    "dni_cliente": "63753017F",
+    "calle_cliente": "Carretera al M-533",
+    "cp_cliente": "23711",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENELUZ 2025, S.L.",
+    "cif_comercializadora": "B19505049",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "25-abril-2005",
+    "importe_factura": "12,85",
+    "fecha_cargo": "20/05/2504",
+    "consumo_periodo": "49802",
+    "potencia_contratada": "3,704"
+}

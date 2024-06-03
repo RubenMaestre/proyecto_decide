@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HOMERO FIGUERAS",
+    "dni_cliente": "30123287A",
+    "calle_cliente": "Parque del Cerro Tío Pío",
+    "cp_cliente": "18082015",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TRAILSTONE RENEWABLES GMBH.",
+    "cif_comercializadora": "DE815824732",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "202,76",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-agosto-2015",
+    "importe_factura": "35,72",
+    "fecha_cargo": "",
+    "consumo_periodo": "16082015",
+    "potencia_contratada": "5,240"
+}

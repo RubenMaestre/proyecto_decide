@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROCÍO BAZÁN CALDERA",
+    "dni_cliente": "74551080F",
+    "calle_cliente": "Calle de María Moliner",
+    "cp_cliente": "21032021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RÉGSITI COMERCIALIZADORA REGULADA, S.L.U.",
+    "cif_comercializadora": "B39702436",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "10,86",
+    "fecha_cargo": "20-abril-2021",
+    "consumo_periodo": "58395",
+    "potencia_contratada": "3,147"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sandro Funez Obregón",
+    "dni_cliente": "39560877A",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ROMERO CANDAU SL",
+    "cif_comercializadora": "B22410708",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "30/06/2009",
+    "fin_periodo": "30/07/2009",
+    "importe_factura": "76,89",
+    "fecha_cargo": "04/08/2009",
+    "consumo_periodo": "30/07/2009",
+    "potencia_contratada": "3,462"
+}

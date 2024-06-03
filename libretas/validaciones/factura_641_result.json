@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DANIEL ANAYA",
+    "dni_cliente": "98836672Z",
+    "calle_cliente": "Camino de la Lobera-Finca Villanueva",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LABOIL ENERGIA, S. L.",
+    "cif_comercializadora": "B22373948",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "30/03/2008",
+    "fin_periodo": "29/04/2008 30 días  ",
+    "importe_factura": "34,25",
+    "fecha_cargo": "04/05/2008",
+    "consumo_periodo": "98157",
+    "potencia_contratada": "3,746"
+}

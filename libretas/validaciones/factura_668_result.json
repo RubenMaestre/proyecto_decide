@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sinforoso Calles Leyva",
+    "dni_cliente": "38785386A",
+    "calle_cliente": "Plaza de Abogados de Atocha",
+    "cp_cliente": "43371",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CATRALENSE COOP ELECTRICA BENEFICA.",
+    "cif_comercializadora": "F03013349",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07-enero-2002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/02/0602",
+    "fecha_cargo": "20/02/0701",
+    "consumo_periodo": "14701",
+    "potencia_contratada": "5,664"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELVIS VÍVEZ DUARTE",
+    "dni_cliente": "32264297N",
+    "calle_cliente": "CORREDERA DE SAN FERNANDO 19, 2ºB",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELVIS VÍVEZ DUARTE",
+    "cif_comercializadora": "B02815546",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "JAÉN",
+    "número_factura": "",
+    "inicio_periodo": "03/08/2006",
+    "fin_periodo": "02/10/2006",
+    "importe_factura": "269,10",
+    "fecha_cargo": "07/10/2006",
+    "consumo_periodo": "02/10/2006",
+    "potencia_contratada": "4,772"
+}

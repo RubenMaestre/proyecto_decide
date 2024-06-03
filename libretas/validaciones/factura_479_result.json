@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELENA MANZANAL RUEDA",
+    "dni_cliente": "57831901B",
+    "calle_cliente": "Calle Glaser",
+    "cp_cliente": "38111",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "REGULADA, GAS POWER, S.A.",
+    "cif_comercializadora": "A65067332",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "Cruz de Tenerife",
+    "fin_periodo": "20-octubre-2003",
+    "importe_factura": "20/03/1911",
+    "fecha_cargo": "20/03/2111",
+    "consumo_periodo": "43066",
+    "potencia_contratada": "3,435"
+}

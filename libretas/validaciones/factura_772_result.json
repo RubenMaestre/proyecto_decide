@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Isolina Rangel Paredes",
+    "dni_cliente": "76569448X",
+    "calle_cliente": "Camino de la Pañera",
+    "cp_cliente": "39538",
+    "población_cliente": "",
+    "provincia_cliente": "Barcelona",
+    "nombre_comercializadora": "NATURGY IBERIA,",
+    "cif_comercializadora": "A08431090",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "64,76",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

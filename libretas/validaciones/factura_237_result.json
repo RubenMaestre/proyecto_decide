@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ARANTXA ROVIRA",
+    "dni_cliente": "93619948N",
+    "calle_cliente": "Avenida de la Industria, 4, Edificio 0, Esc2 - Planta 2ª 28108 - ALCOBENDAS",
+    "cp_cliente": "05141",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RWE SUPPLY TRADING IBERIA, S.L.U.",
+    "cif_comercializadora": "B85290997",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-mayo-2011",
+    "importe_factura": "20/11/0706",
+    "fecha_cargo": "20/11/0805",
+    "consumo_periodo": "59577",
+    "potencia_contratada": "3,112"
+}

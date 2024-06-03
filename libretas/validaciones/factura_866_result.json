@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CENTRICA ENERGY TRADING",
+    "dni_cliente": "10400275C",
+    "calle_cliente": "Calle de José Silva",
+    "cp_cliente": "22807",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "CENTRICA ENERGY TRADING, S.A.",
+    "cif_comercializadora": "DK20293195",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "27,06",
+    "fecha_cargo": "2007",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

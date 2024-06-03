@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Latona Borges Quiroz",
+    "dni_cliente": "70247752W",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "27592",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AUDAX ENERGÍA, S.A.",
+    "cif_comercializadora": "A85258549",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-junio-2007",
+    "importe_factura": "20/07/1707",
+    "fecha_cargo": "20/07/1706",
+    "consumo_periodo": "51217",
+    "potencia_contratada": "4,120"
+}

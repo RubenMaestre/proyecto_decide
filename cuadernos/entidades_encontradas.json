@@ -1,0 +1,14 @@
+[
+    {
+        "texto": "Calle la Solana. Su DNI es 73635161V.\nLa factura de la empresa IBERDESA COMERCIALIZADORA SOCIEDAD LIMITADA con CIF B90393497 tiene un importe de",
+        "label": "CALLE_CLIENTE"
+    },
+    {
+        "texto": "19,78",
+        "label": "IMPORTE_FACTURA"
+    },
+    {
+        "texto": "euros.\n",
+        "label": "NOMBRE_COMERCIALIZADORA"
+    }
+]

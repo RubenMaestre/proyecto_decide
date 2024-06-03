@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GIANNINA GARRIDO USAGA",
+    "dni_cliente": "39952759B",
+    "calle_cliente": "Calle María Blanchard",
+    "cp_cliente": "46178",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  PUERTO DE BEJAR 22",
+    "cif_comercializadora": "B01804400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "528,50",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HONORATO CASTELLANOS",
+    "dni_cliente": "21486680B",
+    "calle_cliente": "Calle Garza Real",
+    "cp_cliente": "45780",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HONORATO CASTELLANOS",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41920",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "20/02/2606",
+    "fin_periodo": "26-junio-2002",
+    "importe_factura": "16,29",
+    "fecha_cargo": "20/02/2807",
+    "consumo_periodo": "20/02/2607",
+    "potencia_contratada": "4,932"
+}

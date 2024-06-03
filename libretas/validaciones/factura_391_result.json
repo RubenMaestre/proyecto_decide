@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mario Quiroz Noriega",
+    "dni_cliente": "68545874D",
+    "calle_cliente": "Calle Hermanamiento",
+    "cp_cliente": "03062013",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "CEUTA, S.A.",
+    "cif_comercializadora": "A11900057",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03-junio-2013",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ceuta",
+    "número_factura": "",
+    "inicio_periodo": "Cruz de Tenerife",
+    "fin_periodo": "02-agosto-2013",
+    "importe_factura": "24,45",
+    "fecha_cargo": "07 de agosto de 2013",
+    "consumo_periodo": "53014",
+    "potencia_contratada": "3,599"
+}

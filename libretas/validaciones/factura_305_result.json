@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RAMOS SANTIAGO TRUJILLO",
+    "dni_cliente": "13559903T",
+    "calle_cliente": "Avenida María Moliner",
+    "cp_cliente": "27031997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INGENIERÍA Y COMERCIALIZACIÓN",
+    "cif_comercializadora": "A73137788",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "23-febrero-1997",
+    "importe_factura": "13,40",
+    "fecha_cargo": "",
+    "consumo_periodo": "39636",
+    "potencia_contratada": "3,930"
+}

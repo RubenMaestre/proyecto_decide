@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ADULFO ALANIS UVEDA",
+    "dni_cliente": "51515740H",
+    "calle_cliente": "Calle Paquita Gallego",
+    "cp_cliente": "15106",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LEDESMA ENERGIA S.L",
+    "cif_comercializadora": "B86855962",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28221",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-noviembre-2004",
+    "importe_factura": "20,20",
+    "fecha_cargo": "20/05/2001",
+    "consumo_periodo": "20/05/1801",
+    "potencia_contratada": "2,867"
+}

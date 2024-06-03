@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Serafín Martí Alanis",
+    "dni_cliente": "25947143S",
+    "calle_cliente": "PLAZA DE LA GESTA",
+    "cp_cliente": "32578",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDP ESPAÑA, S.A.",
+    "cif_comercializadora": "A33473752",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-octubre-2009",
+    "importe_factura": "34,84",
+    "fecha_cargo": "20/09/0412",
+    "consumo_periodo": "20/09/0212",
+    "potencia_contratada": "5,149"
+}

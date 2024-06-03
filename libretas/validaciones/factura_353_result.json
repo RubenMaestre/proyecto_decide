@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Febe Velarde Zamudio",
+    "dni_cliente": "95816629D",
+    "calle_cliente": "Calle de Antonio Vicent",
+    "cp_cliente": "38632",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F46027298",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46168",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "111,99",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

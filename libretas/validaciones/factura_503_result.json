@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HILDA LACAYO PERAZA",
+    "dni_cliente": "78823924A",
+    "calle_cliente": "Avenida de Talamanca",
+    "cp_cliente": "23041992",
+    "población_cliente": "",
+    "provincia_cliente": "Valñncia",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B39793294",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "723030430513",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "PALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "23-abril-1992",
+    "importe_factura": "103,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "62569",
+    "potencia_contratada": "4,134"
+}

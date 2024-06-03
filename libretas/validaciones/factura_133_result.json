@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VICENTA CALLES LEYVA",
+    "dni_cliente": "77432649K",
+    "calle_cliente": "Carretera de los Hoyos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ENERGONOSTRUM S.A.",
+    "cif_comercializadora": "A98493125",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "17/12/2002",
+    "fin_periodo": "15/02/2003",
+    "importe_factura": "241,32",
+    "fecha_cargo": "20/02/2003",
+    "consumo_periodo": "15/02/2003",
+    "potencia_contratada": "5,289"
+}

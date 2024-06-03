@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KNET COMUNICACIONES, S.L.",
+    "dni_cliente": "46005957T",
+    "calle_cliente": "Travesia de los Suspiros del Moro",
+    "cp_cliente": "40494",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "JUAN BAUTISTA GAYOSO RANGEL",
+    "cif_comercializadora": "B26266106",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "La Rioja",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "97,35",
+    "fecha_cargo": "03 de abril de 2011",
+    "consumo_periodo": "",
+    "potencia_contratada": "LOGROÑO"
+}

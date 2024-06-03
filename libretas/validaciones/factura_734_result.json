@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Valentín Bastida Villareal",
+    "dni_cliente": "75210238P",
+    "calle_cliente": "MARQUES DE LA AHUMADA, 5 28028 - MADRID",
+    "cp_cliente": "17403",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "URANOSCOPIDAE II ENERGIA, S.L.",
+    "cif_comercializadora": "B88628581",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-diciembre-2002",
+    "importe_factura": "29,65",
+    "fecha_cargo": "20/02/0112",
+    "consumo_periodo": "20/03/3001",
+    "potencia_contratada": "4,435"
+}

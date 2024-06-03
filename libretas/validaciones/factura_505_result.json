@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Job De la Cuesta Romero",
+    "dni_cliente": "42672462X",
+    "calle_cliente": "Extraradio Finca Povedilla",
+    "cp_cliente": "07620",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B40657405",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "20/10/2409",
+    "fin_periodo": "20/10/2410",
+    "importe_factura": "51,73",
+    "fecha_cargo": "",
+    "consumo_periodo": "56011",
+    "potencia_contratada": "3,452"
+}

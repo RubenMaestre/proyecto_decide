@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EUSTAQUIO ARROLLO NIETO",
+    "dni_cliente": "12981927Z",
+    "calle_cliente": "Camino de El Berrueco",
+    "cp_cliente": "14546",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MORGAN STANLEY CAPITAL GROUP ESPAÑA, S.L.",
+    "cif_comercializadora": "B84710292",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26-junio-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Córdoba",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-julio-2006",
+    "importe_factura": "10,90",
+    "fecha_cargo": "20/06/2807",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,722"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Soraya Hidalgo Sol",
+    "dni_cliente": "19365600Z",
+    "calle_cliente": "PLAZA EUSKADI Nº5",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "IBERDROLA GENERACION S.A.U",
+    "cif_comercializadora": "A95075586",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "11/10/1993",
+    "fin_periodo": "10/12/1993",
+    "importe_factura": "90,76",
+    "fecha_cargo": "15/12/1993",
+    "consumo_periodo": "10/12/1993",
+    "potencia_contratada": "3,744"
+}

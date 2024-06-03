@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Segundo Cuesta Ocampo",
+    "dni_cliente": "24069185F",
+    "calle_cliente": "Calle de Viñuelas",
+    "cp_cliente": "26122014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RELAX ENERGIA SL",
+    "cif_comercializadora": "B37572617",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25-enero-2015",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-diciembre-2014",
+    "importe_factura": "18,53",
+    "fecha_cargo": "",
+    "consumo_periodo": "81868",
+    "potencia_contratada": "5,550"
+}

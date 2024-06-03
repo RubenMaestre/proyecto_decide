@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PANTALEÓN RIVAS ESPINO",
+    "dni_cliente": "68077135X",
+    "calle_cliente": "PLAZA DE LA GESTA",
+    "cp_cliente": "04121997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDP ESPAÑA, S.A.",
+    "cif_comercializadora": "A33473752",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-noviembre-1997",
+    "importe_factura": "15,57",
+    "fecha_cargo": "07 de diciembre de 1997",
+    "consumo_periodo": "46052",
+    "potencia_contratada": "4,584"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Petunia Céspedes Vivero",
+    "dni_cliente": "94005317Q",
+    "calle_cliente": "Calle Juan de la Cueva",
+    "cp_cliente": "232101341796",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ELÉCTRICA SUDANELL, S.L.U.",
+    "cif_comercializadora": "B25818733",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20018",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "20/03/1107",
+    "fin_periodo": "20/03/1008",
+    "importe_factura": "16,12",
+    "fecha_cargo": "15 de agosto de 2003",
+    "consumo_periodo": "85844",
+    "potencia_contratada": "4,699"
+}

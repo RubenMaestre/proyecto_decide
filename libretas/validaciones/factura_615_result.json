@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rosalía Rovira Perdomo",
+    "dni_cliente": "71437782N",
+    "calle_cliente": "Camino Sur",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELEK COMERCIALIZADORA ELECTRICA S.L.",
+    "cif_comercializadora": "B98825680",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Raspeig",
+    "número_factura": "",
+    "inicio_periodo": "22/11/2021",
+    "fin_periodo": "21/01/2022",
+    "importe_factura": "182,82",
+    "fecha_cargo": "26/01/2022",
+    "consumo_periodo": "21/01/2022",
+    "potencia_contratada": "4,328"
+}

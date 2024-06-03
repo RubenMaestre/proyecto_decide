@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "",
+    "calle_cliente": "",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "16.05.2012 término de potencia potencia potencia potencia potencia 4,087 kw kw kw kw kw",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

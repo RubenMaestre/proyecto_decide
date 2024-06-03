@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARCLAYS BANK PLC.",
+    "dni_cliente": "77752881R",
+    "calle_cliente": "Travesia la Venta",
+    "cp_cliente": "20102016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SILVERIO BATALLA REAL",
+    "cif_comercializadora": "A0061418J.",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-agosto-2016",
+    "importe_factura": "28,42",
+    "fecha_cargo": "23 de octubre de 2016",
+    "consumo_periodo": "5318",
+    "potencia_contratada": "4,192"
+}

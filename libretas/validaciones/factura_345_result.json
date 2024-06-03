@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Luz Juárez Garrido",
+    "dni_cliente": "55124464L",
+    "calle_cliente": "PLAZA DE LA VILA, 10 25126 - ALMENAR",
+    "cp_cliente": "05072017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICITAT DALMENAR, S.L.",
+    "cif_comercializadora": "B25819749",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25126",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lérida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-julio-2017",
+    "importe_factura": "29,39",
+    "fecha_cargo": "",
+    "consumo_periodo": "42926",
+    "potencia_contratada": "4,335"
+}

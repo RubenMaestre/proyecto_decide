@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Flor Barriga Otero",
+    "dni_cliente": "61612220G",
+    "calle_cliente": "AVENIDA PAÍSOS CATALANS NÚM 29-LOCAL 1 08500 -",
+    "cp_cliente": "38627",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "AAYUM COMPANYIA CATALANA SUBMINISTRADORA DENERGIA S.L",
+    "cif_comercializadora": "B65509887",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/05/0107",
+    "fin_periodo": "20/05/3107",
+    "importe_factura": "72,06",
+    "fecha_cargo": "05 de agosto de 2005",
+    "consumo_periodo": "48675",
+    "potencia_contratada": "3,867"
+}

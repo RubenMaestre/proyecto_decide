@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Estíbaliz Parra Galván",
+    "dni_cliente": "72326445R",
+    "calle_cliente": "Calle Alejandro Sureda",
+    "cp_cliente": "08112019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EXEN, S.R.O.",
+    "cif_comercializadora": "C227767191",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "70200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "1,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "20106",
+    "potencia_contratada": "2,551"
+}

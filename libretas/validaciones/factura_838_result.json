@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NEREO VILLEDA",
+    "dni_cliente": "59013941N",
+    "calle_cliente": "Calle Peñota",
+    "cp_cliente": "35418",
+    "población_cliente": "",
+    "provincia_cliente": "Las Palmas",
+    "nombre_comercializadora": "S.L",
+    "cif_comercializadora": "B98670763",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28050",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "20/10/1504",
+    "fin_periodo": "20/10/1505",
+    "importe_factura": "134,37",
+    "fecha_cargo": "",
+    "consumo_periodo": "98395",
+    "potencia_contratada": "4,253"
+}

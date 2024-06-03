@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DIANA SABÍN VALENTÍN",
+    "dni_cliente": "32383446K",
+    "calle_cliente": "Calle de Bahía",
+    "cp_cliente": "17249",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "RÉGSITI COMERCIALIZADORA REGULADA, S.L.U",
+    "cif_comercializadora": "B39702436",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "93,92",
+    "fecha_cargo": "16 de enero de 2003",
+    "consumo_periodo": "",
+    "potencia_contratada": "Alcudia"
+}

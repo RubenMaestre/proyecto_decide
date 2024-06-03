@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Homero Olivares Montes",
+    "dni_cliente": "73512961Q",
+    "calle_cliente": "Calle Cruz del Velayo",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRA ENERGIA, S.A.",
+    "cif_comercializadora": "A12542296",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "22-abril-2020",
+    "importe_factura": "13,78",
+    "fecha_cargo": "",
+    "consumo_periodo": "79541",
+    "potencia_contratada": "3,961"
+}

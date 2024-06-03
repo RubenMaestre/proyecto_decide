@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GIULIANA CABEZA",
+    "dni_cliente": "62798546J",
+    "calle_cliente": "CALLE DEL SILENCIO, 10-3ºB 28039 -",
+    "cp_cliente": "06679",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ANILLACO ENERGIA, S.L.",
+    "cif_comercializadora": "B88635289",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28039",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-enero-2002",
+    "importe_factura": "29,55",
+    "fecha_cargo": "20/02/0301",
+    "consumo_periodo": "20/02/0403",
+    "potencia_contratada": "4,443"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Moira Ponce Quiroz",
+    "dni_cliente": "55168244F",
+    "calle_cliente": "Calle Aúriga",
+    "cp_cliente": "25617",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ATLAS ENERGIA COMERCIAL, S.L.",
+    "cif_comercializadora": "B25732314",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "92,88",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "25001"
+}

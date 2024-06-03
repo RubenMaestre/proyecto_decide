@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BETHSABE OLMO MONTALVO",
+    "dni_cliente": "29429526Z",
+    "calle_cliente": "Calle de Benito Pérez Galdós",
+    "cp_cliente": "32434",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LA UNIÓN ELECTRO INDUSTRIAL, S.L.U.",
+    "cif_comercializadora": "B30001770",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "7449",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-marzo-2008",
+    "importe_factura": "30,83",
+    "fecha_cargo": "20/08/3105",
+    "consumo_periodo": "20/08/2905",
+    "potencia_contratada": "4,626"
+}

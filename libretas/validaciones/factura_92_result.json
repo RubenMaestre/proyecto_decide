@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BENEDICTO FLORES GALLEGOS",
+    "dni_cliente": "61019767P",
+    "calle_cliente": "Calle del Solar 25170 Torres de Segre",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B73817033",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "07/05/2009",
+    "fin_periodo": "06/07/2009",
+    "importe_factura": "207,42",
+    "fecha_cargo": "11/07/2009",
+    "consumo_periodo": "06/07/2009",
+    "potencia_contratada": "4,161"
+}

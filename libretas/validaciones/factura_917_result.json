@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leandro Cevedo Páez",
+    "dni_cliente": "15043680R",
+    "calle_cliente": "Calle Julián Villacieros",
+    "cp_cliente": "07081994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDF TRADING LIMITED",
+    "cif_comercializadora": "GB735547907",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06-septiembre-1994",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-agosto-1994",
+    "importe_factura": "16,10",
+    "fecha_cargo": "",
+    "consumo_periodo": "36771",
+    "potencia_contratada": "4,640"
+}

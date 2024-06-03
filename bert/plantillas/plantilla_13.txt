@@ -1,0 +1,68 @@
+¿Cuáles son los componentes de la factura de la luz?
+
+La factura del suministro de electricidad se compone de varios conceptos:
+
+El coste de la energía
+Los costes regulados, que incluyen entre otros:
+El coste de las redes de transporte y distribución
+El fomento de las energías renovables
+El mayor coste de producción en los sistemas no peninsulares
+Las anualidades para recuperar el déficit de tarifas
+Estos costes se incorporan en lo que actualmente se denomina tarifa de acceso.
+
+El margen para la comercializadora por los servicios prestados
+El alquiler del equipo de medida
+Los impuestos
+¿Qué es lo que se modifica?
+
+En cumplimiento de la normativa europea, se introduce la separación de la tarifa de acceso en dos componentes: peajes y cargos.
+
+Los peajes son precios regulados destinados a recuperar los costes de las redes de transporte y distribución y son determinados por la CNMC.
+Los cargos son los precios regulados destinados a cubrir el resto de costes regulados y son determinados por el Ministerio para la Transición Ecológica y el Reto Demográfico.
+¿Cuándo aplicará la nueva estructura?
+
+A partir del 1 de junio de 2021.
+
+¿A qué consumidores afecta?
+
+Afecta a todos los consumidores de electricidad.
+
+¿Cuáles son los cambios principales?
+
+Todos los consumidores pasan a tener un peaje con discriminación horaria en los términos de potencia y energía.
+Aumenta la diferencia de precios entre los periodos de punta y valle.
+Se facilita la recarga nocturna del vehículo eléctrico.
+¿Qué tiene que hacer el consumidor?
+
+El consumidor no tiene que hacer nada. El nuevo peaje se asigna de manera automática.
+
+Novedades principales
+
+Todos los consumidores tendrán precios diferenciados por tramos horarios, tanto para la potencia como para el consumo.
+Datos de Factura:
+
+Importe factura: placeholder_16
+Número de factura: placeholder_13
+Periodo de consumo: placeholder_14 a placeholder_15
+Fecha de cargo: placeholder_17
+Información de la Comercializadora:
+
+Nombre: placeholder_07
+CIF: placeholder_08
+Dirección: placeholder_09, placeholder_10, placeholder_11, provincia placeholder_12.
+Datos del Cliente:
+
+Nombre: placeholder_01
+DNI: placeholder_02
+Dirección: placeholder_03, CP placeholder_04, Población placeholder_05, Provincia placeholder_06.
+Evolución del Consumo:
+
+Consumo en el periodo: placeholder_18 kWh
+Datos del Contrato:
+
+Potencia contratada: placeholder_19 kW
+
+
+
+
+

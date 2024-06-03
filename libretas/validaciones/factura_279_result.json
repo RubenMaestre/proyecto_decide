@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MORFEO CASAS AMADOR",
+    "dni_cliente": "51009499F",
+    "calle_cliente": "Camino Monte Nuevo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B25829904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "18/12/2016",
+    "fin_periodo": "16/02/2017",
+    "importe_factura": "238,10",
+    "fecha_cargo": "16/02/2017",
+    "consumo_periodo": "16/02/2017",
+    "potencia_contratada": "3,862"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HIPACIO LEYVA PATIÑO",
+    "dni_cliente": "64978682W",
+    "calle_cliente": "Plazuela de Don Carlitos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CJUSTINIANO RODRÍGUEZ, 4, BJ",
+    "cif_comercializadora": "B24509481",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "20/10/1996",
+    "fin_periodo": "19/12/1996",
+    "importe_factura": "214,16",
+    "fecha_cargo": "24/12/1996",
+    "consumo_periodo": "19/12/1996",
+    "potencia_contratada": "1,742"
+}

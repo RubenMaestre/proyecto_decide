@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nora Gámez Restrepo",
+    "dni_cliente": "36360030C",
+    "calle_cliente": "Calle Río Ebro",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ENERGETICA SL",
+    "cif_comercializadora": "B66552068",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "26/01/2010",
+    "fin_periodo": "27/03/2010",
+    "importe_factura": "131,71",
+    "fecha_cargo": "01/04/2010",
+    "consumo_periodo": "27/03/2010",
+    "potencia_contratada": "3,332"
+}

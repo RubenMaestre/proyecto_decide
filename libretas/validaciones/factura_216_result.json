@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KALI SAGEL AGUIRRE",
+    "dni_cliente": "69086544H",
+    "calle_cliente": "CALLE TEMPLE, 25",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LOVE ENERGY, S.L.",
+    "cif_comercializadora": "B67604157",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "27/11/1996",
+    "fin_periodo": "26/01/1997",
+    "importe_factura": "33,75",
+    "fecha_cargo": "31/01/1997",
+    "consumo_periodo": "26/01/1997",
+    "potencia_contratada": "4,313"
+}

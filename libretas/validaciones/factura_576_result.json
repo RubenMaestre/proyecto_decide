@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Encarnación Soza Sol",
+    "dni_cliente": "88200305C",
+    "calle_cliente": "Avenida de Gregorio Sánchez",
+    "cp_cliente": "30041996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MUNICIPAL DE SERVICIOS",
+    "cif_comercializadora": "B12820155",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "25,46",
+    "fecha_cargo": "04 de julio de 1996",
+    "consumo_periodo": "36016",
+    "potencia_contratada": "3,722"
+}

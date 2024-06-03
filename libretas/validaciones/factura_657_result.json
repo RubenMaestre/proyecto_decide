@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VALLIVANA BECERRIL",
+    "dni_cliente": "64004050H",
+    "calle_cliente": "Av Marítima del Sur",
+    "cp_cliente": "24111992",
+    "población_cliente": "",
+    "provincia_cliente": "Málaga",
+    "nombre_comercializadora": "REPSOL LNG HOLDING, S.A",
+    "cif_comercializadora": "A79787420",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24-noviembre-1992",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "23-enero-1993",
+    "importe_factura": "169,35",
+    "fecha_cargo": "28 de enero de 1993",
+    "consumo_periodo": "15661",
+    "potencia_contratada": "5,492"
+}

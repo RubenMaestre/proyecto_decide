@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mandisa Varga Quiroz",
+    "dni_cliente": "20715100N",
+    "calle_cliente": "Camino de la Capellanía",
+    "cp_cliente": "49740",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "STIN S.A.",
+    "cif_comercializadora": "A02022366",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-diciembre-2011",
+    "importe_factura": "20/12/1401",
+    "fecha_cargo": "20/12/1601",
+    "consumo_periodo": "25369",
+    "potencia_contratada": "3,639"
+}

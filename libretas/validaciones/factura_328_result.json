@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Renán Rangel Manuel",
+    "dni_cliente": "83787506R",
+    "calle_cliente": "Calle del Carril de las Eras",
+    "cp_cliente": "32134",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VITA CAPITAL TRADING SL",
+    "cif_comercializadora": "B87205977",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-junio-2020",
+    "importe_factura": "17,95",
+    "fecha_cargo": "",
+    "consumo_periodo": "40023",
+    "potencia_contratada": "5,391"
+}

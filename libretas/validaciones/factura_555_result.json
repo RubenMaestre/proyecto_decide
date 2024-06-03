@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NIEVES FRÍAS SARDINAS",
+    "dni_cliente": "68623415V",
+    "calle_cliente": "Calle los Jabalíes",
+    "cp_cliente": "43595",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "BE0835490593",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "92400",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "90,70",
+    "fecha_cargo": "10 de abril de 2014",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

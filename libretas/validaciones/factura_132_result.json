@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mila Daniel Salas",
+    "dni_cliente": "88846004V",
+    "calle_cliente": "Calle de la Carpintería",
+    "cp_cliente": "47494",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CONTALLUM ENERGIA, S.L.",
+    "cif_comercializadora": "B98898240",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22-julio-2000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-septiembre-2000",
+    "importe_factura": "22072000",
+    "fecha_cargo": "25 de septiembre de 2000",
+    "consumo_periodo": "20092000",
+    "potencia_contratada": "3,778"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MALCOLM ROMÁN MONTALVO",
+    "dni_cliente": "45949985X",
+    "calle_cliente": "Camino del Arca",
+    "cp_cliente": "24374",
+    "población_cliente": "",
+    "provincia_cliente": "ELECTIAPLUS",
+    "nombre_comercializadora": "ENERGIA S.L.U.",
+    "cif_comercializadora": "B19556299",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "20/03/2512",
+    "fin_periodo": "20 de",
+    "importe_factura": "23,58",
+    "fecha_cargo": "20/04/2502",
+    "consumo_periodo": "20/04/2302",
+    "potencia_contratada": "3,519"
+}

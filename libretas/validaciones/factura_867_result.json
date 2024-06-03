@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ABRIL CHAVIRA GALENO",
+    "dni_cliente": "68461299M",
+    "calle_cliente": "Callejón del Molino",
+    "cp_cliente": "06072019",
+    "población_cliente": "",
+    "provincia_cliente": "Ourense",
+    "nombre_comercializadora": "LABOIL ENERGIA, S. L.",
+    "cif_comercializadora": "B22373948",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "05082019",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "1ºIZDA",
+    "importe_factura": "15,19",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,561"
+}

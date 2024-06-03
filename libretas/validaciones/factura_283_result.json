@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARCLAYS BANK PLC",
+    "dni_cliente": "90850232W",
+    "calle_cliente": "Calle Siena",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "BARCLAYS BANK PLC.",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "06/11/2013",
+    "fin_periodo": "05/01/2014",
+    "importe_factura": "65,81",
+    "fecha_cargo": "10/01/2014",
+    "consumo_periodo": "05/01/2014",
+    "potencia_contratada": "3,843"
+}

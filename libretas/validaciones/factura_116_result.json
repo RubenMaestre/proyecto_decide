@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEODOMIRO NOVOA CARRANZA",
+    "dni_cliente": "64427822S",
+    "calle_cliente": "Senda de Carlanchos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "RESPIRA ENERGÍA ESPAÑA, S.L.",
+    "cif_comercializadora": "B64445224",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "27/07/1993",
+    "fin_periodo": "26/08/1993 30 días  1,000000 meses",
+    "importe_factura": "92,81",
+    "fecha_cargo": "31/08/1993",
+    "consumo_periodo": "88638",
+    "potencia_contratada": "5,407"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TRISTÁN PANTOJA TORRENTE",
+    "dni_cliente": "11286245F",
+    "calle_cliente": "Puente Pasarela de Valderribas 30876 Lorca",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "Gloria Mariscal, S.L. 383660725654",
+    "cif_comercializadora": "M-24946",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Islas Baleares",
+    "número_factura": "",
+    "inicio_periodo": "24/10/2004",
+    "fin_periodo": "23/11/2004 30 días  ",
+    "importe_factura": "153,21",
+    "fecha_cargo": "28/11/2004",
+    "consumo_periodo": "94140",
+    "potencia_contratada": "5,318"
+}

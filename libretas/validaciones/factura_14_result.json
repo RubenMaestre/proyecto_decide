@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Visitación Frías Salgado",
+    "dni_cliente": "35216999C",
+    "calle_cliente": "Calle Buril",
+    "cp_cliente": "47130",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "GODAY ENERGIA SL.",
+    "cif_comercializadora": "B36026375",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36600",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-enero-2006",
+    "importe_factura": "136,84",
+    "fecha_cargo": "20/06/1902",
+    "consumo_periodo": "10250",
+    "potencia_contratada": "2,449"
+}

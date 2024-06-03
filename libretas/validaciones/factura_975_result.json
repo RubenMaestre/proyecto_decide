@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jesús Funez Zaldívar",
+    "dni_cliente": "94307194H",
+    "calle_cliente": "Senda Tinados del Pizarro",
+    "cp_cliente": "05211",
+    "población_cliente": "",
+    "provincia_cliente": "Ávila",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B66101171",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "490605417012",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "20/02/1010",
+    "fin_periodo": "20/02/0912",
+    "importe_factura": "270,81",
+    "fecha_cargo": "14 de diciembre de 2002",
+    "consumo_periodo": "64269",
+    "potencia_contratada": "4,038"
+}

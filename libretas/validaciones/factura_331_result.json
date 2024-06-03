@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Irineo Huerta Uribe",
+    "dni_cliente": "40059412J",
+    "calle_cliente": "Calle del Cerrojo",
+    "cp_cliente": "42320",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "A73444242",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28034",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "200,32",
+    "fecha_cargo": "02 de octubre de 2009",
+    "consumo_periodo": "36791",
+    "potencia_contratada": ""
+}

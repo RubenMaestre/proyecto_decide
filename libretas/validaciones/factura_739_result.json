@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Celestina Ulloa Enríquez",
+    "dni_cliente": "15029881W",
+    "calle_cliente": "Camino de Navalvillar",
+    "cp_cliente": "26322",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B25745696",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25230",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "112,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "35790",
+    "potencia_contratada": ""
+}

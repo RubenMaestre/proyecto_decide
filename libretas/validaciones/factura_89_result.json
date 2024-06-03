@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Clarisa Parado Gayoso",
+    "dni_cliente": "86937671V",
+    "calle_cliente": "Calle Jesús",
+    "cp_cliente": "49624",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B24291833",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "13072013",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-julio-2013",
+    "importe_factura": "24,05",
+    "fecha_cargo": "",
+    "consumo_periodo": "69054",
+    "potencia_contratada": "3,070"
+}

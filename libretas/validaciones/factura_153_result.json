@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tura Bolaños De Alba",
+    "dni_cliente": "65775413J",
+    "calle_cliente": "Calle del Hachero",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "S.L.U.",
+    "cif_comercializadora": "B22414296",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "02/05/2018",
+    "fin_periodo": "01/06/2018 30 días  ",
+    "importe_factura": "103,39",
+    "fecha_cargo": "",
+    "consumo_periodo": "71187",
+    "potencia_contratada": "4,606"
+}

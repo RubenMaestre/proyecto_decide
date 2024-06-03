@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ataúlfo Moscoa Mijares",
+    "dni_cliente": "42322294V",
+    "calle_cliente": "Camino de Vilches",
+    "cp_cliente": "15316",
+    "población_cliente": "",
+    "provincia_cliente": "Coirós",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A73987646",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/05/0506",
+    "fin_periodo": "20/05/0507",
+    "importe_factura": "174,40",
+    "fecha_cargo": "10 de julio de 2005",
+    "consumo_periodo": "13952",
+    "potencia_contratada": "2,864"
+}

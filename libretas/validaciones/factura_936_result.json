@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NADIA QUINTANA VILLAREAL",
+    "dni_cliente": "41575192R",
+    "calle_cliente": "Calle del Río Adaja",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CONTALLUM ENERGIA, S.L.",
+    "cif_comercializadora": "B98898240",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "01/08/1998",
+    "fin_periodo": "31/08/1998",
+    "importe_factura": "63,29",
+    "fecha_cargo": "05/09/1998",
+    "consumo_periodo": "31/08/1998",
+    "potencia_contratada": "3,814"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Remo Villareal Zavaleta",
+    "dni_cliente": "76251506C",
+    "calle_cliente": "Calle de las Cuadras",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A22004675",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "27/05/2001",
+    "fin_periodo": "26/06/2001 30 días  ",
+    "importe_factura": "74,36",
+    "fecha_cargo": "01/07/2001",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,751"
+}

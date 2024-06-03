@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GRACIELA HUERTA HERNÁNDEZ",
+    "dni_cliente": "75543146Z",
+    "calle_cliente": "Calle de Rivas-Vaciamadrid",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B67302489",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "30/10/2010",
+    "fin_periodo": "29/11/2010",
+    "importe_factura": "165,42",
+    "fecha_cargo": "04/12/2010",
+    "consumo_periodo": "29/11/2010",
+    "potencia_contratada": "5,378"
+}

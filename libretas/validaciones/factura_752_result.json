@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CESAR ACOSTA SÁENZ",
+    "dni_cliente": "97529822R",
+    "calle_cliente": "Calle Canal",
+    "cp_cliente": "04111998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ZENCER, S. COOP.",
+    "cif_comercializadora": "F93157717",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29640",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-septiembre-1998",
+    "importe_factura": "35,46",
+    "fecha_cargo": "",
+    "consumo_periodo": "78005",
+    "potencia_contratada": "5,197"
+}

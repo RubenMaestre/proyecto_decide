@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Toby Funez Zapata",
+    "dni_cliente": "65448783Y",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B25687401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "15/02/1994",
+    "fin_periodo": "17/03/1994",
+    "importe_factura": "62,66",
+    "fecha_cargo": "22/03/1994",
+    "consumo_periodo": "17/03/1994",
+    "potencia_contratada": "3,489"
+}

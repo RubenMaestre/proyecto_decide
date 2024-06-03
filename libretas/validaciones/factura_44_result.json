@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ANABEL PUENTE VANEGAS",
+    "dni_cliente": "37725963Y",
+    "calle_cliente": "Calle de Inocencia Sánchez",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B98194780",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "22/12/2005",
+    "fin_periodo": "21/01/2006 30 días  1,000000 meses",
+    "importe_factura": "112,20",
+    "fecha_cargo": "26/01/2006",
+    "consumo_periodo": "93200",
+    "potencia_contratada": "2,162"
+}

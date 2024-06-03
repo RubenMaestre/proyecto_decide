@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEOFANÍA VENEGAS ZETINA",
+    "dni_cliente": "19518786C",
+    "calle_cliente": "Plaza de Costa Rica",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "Sucursal en España",
+    "cif_comercializadora": "B55639637",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "07/12/2010",
+    "fin_periodo": "06/01/2011",
+    "importe_factura": "22,33",
+    "fecha_cargo": "11/01/2011",
+    "consumo_periodo": "06/01/2011",
+    "potencia_contratada": "4,122"
+}

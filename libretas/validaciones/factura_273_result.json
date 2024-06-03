@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mar Román Mendoza",
+    "dni_cliente": "65233889R",
+    "calle_cliente": "PLAZA AVIADOR RUIZ DE ALDA, 11",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "NODEX CONNECTING S.L",
+    "cif_comercializadora": "B90206566",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "14/01/1992",
+    "fin_periodo": "13/02/1992",
+    "importe_factura": "25,53",
+    "fecha_cargo": "18/02/1992",
+    "consumo_periodo": "13/02/1992",
+    "potencia_contratada": "3,935"
+}

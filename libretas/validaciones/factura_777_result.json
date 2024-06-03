@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Clarita Gavilán Izquierdo",
+    "dni_cliente": "BULEVAR",
+    "calle_cliente": "Diseminado de la Almenara",
+    "cp_cliente": "03101991",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NOVALUZ ENERGÍA, S.L.",
+    "cif_comercializadora": "B93661726",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29602",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-octubre-1991",
+    "importe_factura": "13,89",
+    "fecha_cargo": "1991",
+    "consumo_periodo": "44589",
+    "potencia_contratada": "4,186"
+}

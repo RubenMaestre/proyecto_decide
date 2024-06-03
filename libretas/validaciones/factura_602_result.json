@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rocco Ventura Villaseñor",
+    "dni_cliente": "30937328M",
+    "calle_cliente": "Calle Jesús Guridi",
+    "cp_cliente": "16431",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "INSERIMOS ENERGÍA, S.L",
+    "cif_comercializadora": "B27779818",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "20/09/2509",
+    "fin_periodo": "20/09/2411",
+    "importe_factura": "341,28",
+    "fecha_cargo": "",
+    "consumo_periodo": "58202",
+    "potencia_contratada": "4,150"
+}

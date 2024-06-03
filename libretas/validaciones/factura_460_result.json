@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LUCAS OLMO ORTEGA",
+    "dni_cliente": "97753251P",
+    "calle_cliente": "Calle del Poeta",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "UNIELECTRICA ENERGIA, S.A",
+    "cif_comercializadora": "A14944276",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "09/10/1990",
+    "fin_periodo": "08/12/1990",
+    "importe_factura": "297,95",
+    "fecha_cargo": "13/12/1990",
+    "consumo_periodo": "08/12/1990",
+    "potencia_contratada": "3,634"
+}

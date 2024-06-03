@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Greta Roldán Olmedo",
+    "dni_cliente": "15858617W",
+    "calle_cliente": "CALLE TEMPLE, 25 08911 - Badalona",
+    "cp_cliente": "22192",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA ECOLÓGICA ECONÓMICA, S.L.",
+    "cif_comercializadora": "B01620160",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-julio-2002",
+    "importe_factura": "14,27",
+    "fecha_cargo": "20/02/2908",
+    "consumo_periodo": "82193",
+    "potencia_contratada": "4,230"
+}

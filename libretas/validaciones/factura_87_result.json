@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JOHANNA DEL CASTILLO LARIOS",
+    "dni_cliente": "91538504E",
+    "calle_cliente": "Plaza de Santa Paula Montal",
+    "cp_cliente": "4602259553819",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B65960551",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08025",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BARCELONA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "28,28",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

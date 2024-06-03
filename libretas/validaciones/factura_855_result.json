@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GREGORIO DONATO ALFARO",
+    "dni_cliente": "59384555G",
+    "calle_cliente": "Calle Nervión",
+    "cp_cliente": "08254",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "MERCURIA ENERGY TRADING, S.A.",
+    "cif_comercializadora": "CHE116348521",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "1204",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "163,13",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

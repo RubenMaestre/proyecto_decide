@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Gunter Moscoa",
+    "dni_cliente": "81132979L",
+    "calle_cliente": "Calle La Rábida",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CARVISA ENERGIA SL",
+    "cif_comercializadora": "B85969491",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "22/08/1999",
+    "fin_periodo": "21/09/1999",
+    "importe_factura": "51,96",
+    "fecha_cargo": "26/09/1999",
+    "consumo_periodo": "21/09/1999",
+    "potencia_contratada": "5,235"
+}

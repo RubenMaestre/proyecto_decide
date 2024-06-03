@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Valentín Mijares Escalante",
+    "dni_cliente": "60104940Y",
+    "calle_cliente": "AVENIDA A RUA 2",
+    "cp_cliente": "20072017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ASAL DE ENERGIA, S.L",
+    "cif_comercializadora": "B06688568",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-julio-2017",
+    "importe_factura": "14,87",
+    "fecha_cargo": "",
+    "consumo_periodo": "14368",
+    "potencia_contratada": "4,435"
+}

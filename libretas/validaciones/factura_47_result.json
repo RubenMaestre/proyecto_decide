@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JERJES LEYVA VIDAL",
+    "dni_cliente": "36368114P",
+    "calle_cliente": "Calle Sonsa",
+    "cp_cliente": "28911",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "INER ENERGIA CASTILLA LA MANCHA SL",
+    "cif_comercializadora": "B02494375",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ALBACETE Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "31,85",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

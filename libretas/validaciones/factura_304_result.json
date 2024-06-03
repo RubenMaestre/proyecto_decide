@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HIDROELECTRICA DE SILLEDA",
+    "dni_cliente": "89485715Y",
+    "calle_cliente": "Calle Pavía",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "S.L",
+    "cif_comercializadora": "B87579769",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "11/03/2015",
+    "fin_periodo": "10/05/2015",
+    "importe_factura": "139,79",
+    "fecha_cargo": "15/05/2015",
+    "consumo_periodo": "10/05/2015",
+    "potencia_contratada": "3,758"
+}

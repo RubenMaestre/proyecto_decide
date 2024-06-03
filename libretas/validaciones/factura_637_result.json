@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HELIENA VÍVEZ MONGE",
+    "dni_cliente": "91892867R",
+    "calle_cliente": "PLAZA EUSKADI Nº5",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "IBERDROLA CLIENTES ESPAÑA, S.A.U.",
+    "cif_comercializadora": "A95758371",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "20/11/1991",
+    "fin_periodo": "20/12/1991",
+    "importe_factura": "108,28",
+    "fecha_cargo": "25/12/1991",
+    "consumo_periodo": "20/12/1991",
+    "potencia_contratada": "5,617"
+}

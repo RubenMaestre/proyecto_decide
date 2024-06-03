@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "82156650Y",
+    "calle_cliente": "Calle de Oruro",
+    "cp_cliente": "13730",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "Deméter Urrutia Elizondo",
+    "cif_comercializadora": "B23770977",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "23009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "JAÉN",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "37,31",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "JAÉN"
+}

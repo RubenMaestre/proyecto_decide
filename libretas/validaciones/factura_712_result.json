@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KIONA TRIGUERO",
+    "dni_cliente": "56936797K",
+    "calle_cliente": "Calle Playa de Comillas",
+    "cp_cliente": "01213",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LUCI MUNDI ENERGÍA, SL",
+    "cif_comercializadora": "B98618614",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46780",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "94,09",
+    "fecha_cargo": "15 de septiembre de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

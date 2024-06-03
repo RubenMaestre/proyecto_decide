@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jezabel Núñez Pino",
+    "dni_cliente": "50631844N",
+    "calle_cliente": "Calle de Miguel Servet",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B57688731",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Islas Baleares",
+    "número_factura": "",
+    "inicio_periodo": "07/03/1996",
+    "fin_periodo": "06/05/1996",
+    "importe_factura": "179,46",
+    "fecha_cargo": "11/05/1996",
+    "consumo_periodo": "06/05/1996",
+    "potencia_contratada": "6,116"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MAURICIO SALGADO",
+    "dni_cliente": "89260765L",
+    "calle_cliente": "Avenida de la Felicidad",
+    "cp_cliente": "10041993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERKORE S COOP PEQUEÑA",
+    "cif_comercializadora": "F95936282",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-abril-1993",
+    "importe_factura": "33,25",
+    "fecha_cargo": "14 de junio de 1993",
+    "consumo_periodo": "35876",
+    "potencia_contratada": "4,799"
+}

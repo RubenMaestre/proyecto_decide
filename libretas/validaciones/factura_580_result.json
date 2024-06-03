@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sergio Solana Robles",
+    "dni_cliente": "94208575T",
+    "calle_cliente": "Plaza de Tarifa",
+    "cp_cliente": "18012019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ANOTHER ENERGY OPTION, S.L.",
+    "cif_comercializadora": "B93267300",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-enero-2019",
+    "importe_factura": "16,13",
+    "fecha_cargo": "",
+    "consumo_periodo": "32569",
+    "potencia_contratada": "4,515"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DANIEL SALDIVAR VARGA",
+    "dni_cliente": "40686498G",
+    "calle_cliente": "Camino de Pardeal",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LERSA ELECTRICITAT, S.L 166781207011",
+    "cif_comercializadora": "B98516693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "13/06/2016",
+    "fin_periodo": "12/08/2016",
+    "importe_factura": "406,85",
+    "fecha_cargo": "12/08/2016",
+    "consumo_periodo": "12/08/2016",
+    "potencia_contratada": "3,851"
+}

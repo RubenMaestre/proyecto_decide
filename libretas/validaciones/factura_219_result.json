@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Epifanía Guerrero Jerano",
+    "dni_cliente": "17338178L",
+    "calle_cliente": "Calle de Tenerife",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "VOLTIEN COMERCIALIZADORA ELECTRICA, S.L.",
+    "cif_comercializadora": "B98846363",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "27/04/1994",
+    "fin_periodo": "27/05/1994",
+    "importe_factura": "185,45",
+    "fecha_cargo": "01/06/1994",
+    "consumo_periodo": "27/05/1994",
+    "potencia_contratada": "5,036"
+}

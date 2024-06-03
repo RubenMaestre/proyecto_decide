@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AE3000 AGENT COMERCIALITZADOR, S.L.",
+    "dni_cliente": "99984366P",
+    "calle_cliente": "Glorieta del General San Martín",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B25680083",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cádiz",
+    "número_factura": "",
+    "inicio_periodo": "23/12/2014",
+    "fin_periodo": "22/01/2015",
+    "importe_factura": "128,02",
+    "fecha_cargo": "27/01/2015",
+    "consumo_periodo": "22/01/2015",
+    "potencia_contratada": "3,642"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Natalie Salmón Montecinos",
+    "dni_cliente": "19251197J",
+    "calle_cliente": "Calle de las Américas 19142 Valdeavellano",
+    "cp_cliente": "19142",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B25703968",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25600",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "241,03",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

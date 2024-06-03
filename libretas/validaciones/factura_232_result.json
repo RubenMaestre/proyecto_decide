@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MARCIA LÁZARO MALTÉS",
+    "dni_cliente": "51624980P",
+    "calle_cliente": "Senda de Valdecañas",
+    "cp_cliente": "26211",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VERTSEL ENERGIA S.L.U.",
+    "cif_comercializadora": "B98476922",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/06/0205",
+    "fecha_cargo": "20/06/0204",
+    "consumo_periodo": "84495",
+    "potencia_contratada": "4,349"
+}

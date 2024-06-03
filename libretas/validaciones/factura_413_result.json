@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARCLAYS BANK PLC",
+    "dni_cliente": "76962471D",
+    "calle_cliente": "Calle de Padre Arrupe",
+    "cp_cliente": "33696",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "A0061418J",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "680422027663",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "- Extranjero",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "140,96",
+    "fecha_cargo": "18 de enero de 1996",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

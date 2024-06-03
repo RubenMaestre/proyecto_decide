@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEANDRO VALDÉS MARROQUÍ",
+    "dni_cliente": "61111943T",
+    "calle_cliente": "AVENIDA JARDIN BOTÁNICO, 1345 EDIFICIO",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "BETA RENOWABLE GROUP SA",
+    "cif_comercializadora": "A33985540",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "08/10/2021",
+    "fin_periodo": "07/12/2021",
+    "importe_factura": "118,26",
+    "fecha_cargo": "12/12/2021",
+    "consumo_periodo": "07/12/2021",
+    "potencia_contratada": "3,964"
+}

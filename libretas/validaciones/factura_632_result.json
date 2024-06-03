@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dalila Loredo Salmón",
+    "dni_cliente": "61161525V",
+    "calle_cliente": "CALLE ALMAJARRA, NUM.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GRUPO ADI ENERGIA, S.L.",
+    "cif_comercializadora": "B01724673",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "SEVILLA",
+    "número_factura": "",
+    "inicio_periodo": "10/05/1993",
+    "fin_periodo": "09/07/1993",
+    "importe_factura": "101,90",
+    "fecha_cargo": "14/07/1993",
+    "consumo_periodo": "09/07/1993",
+    "potencia_contratada": "2,818"
+}

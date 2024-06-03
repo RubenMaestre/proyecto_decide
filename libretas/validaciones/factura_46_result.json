@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Kenzo Estrada Salazar",
+    "dni_cliente": "36814158J",
+    "calle_cliente": "Calle Carlos Arniches",
+    "cp_cliente": "27117",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "TRAILSTONE GMBH",
+    "cif_comercializadora": "DE289523572",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "10623",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "107,89",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

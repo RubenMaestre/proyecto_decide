@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ZITA PAZ SAUCEDO",
+    "dni_cliente": "66156045H",
+    "calle_cliente": "PLAZA DEL GAS",
+    "cp_cliente": "21042014",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "NATURGY ENERGY GROUP, S.A.",
+    "cif_comercializadora": "A08015497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-junio-2014",
+    "importe_factura": "92,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "63006",
+    "potencia_contratada": "4,239"
+}

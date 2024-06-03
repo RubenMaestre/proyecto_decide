@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FELICIA GALEANO ICAZA",
+    "dni_cliente": "54696879G",
+    "calle_cliente": "PLAZA DE CATALUÑA, 3, 1º 08140 - CALDES",
+    "cp_cliente": "33684",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRA CALDENSE ENERGIA",
+    "cif_comercializadora": "A62420815",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08140",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-febrero-2002",
+    "importe_factura": "34,41",
+    "fecha_cargo": "20/02/1604",
+    "consumo_periodo": "",
+    "potencia_contratada": "5,176"
+}

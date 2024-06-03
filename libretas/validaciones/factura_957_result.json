@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SALOMÉ DORADO VALLEJO",
+    "dni_cliente": "76973607J",
+    "calle_cliente": "Calle Rubi",
+    "cp_cliente": "19196",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NAVARRO GENERACIÓN S.A.",
+    "cif_comercializadora": "A82683434",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16-diciembre-2000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "16122000",
+    "fecha_cargo": "20/01/1701",
+    "consumo_periodo": "20/01/1501",
+    "potencia_contratada": "4,364"
+}

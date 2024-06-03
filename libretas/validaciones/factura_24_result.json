@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OSIAN PASTRANA DONATO",
+    "dni_cliente": "55528574L",
+    "calle_cliente": "PASEO DE LA CASTELLANA, 295A TORRE CEPSA 28046 - MADRID",
+    "cp_cliente": "18530",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CEPSA COMERCIAL PETROLEO",
+    "cif_comercializadora": "A80298896",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28046",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "20/06/2312",
+    "fin_periodo": "20 de",
+    "importe_factura": "27,89",
+    "fecha_cargo": "26 de febrero de 2007",
+    "consumo_periodo": "20/07/2102",
+    "potencia_contratada": "4,037"
+}

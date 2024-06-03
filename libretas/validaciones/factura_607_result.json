@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Iris Guardado Vidal",
+    "dni_cliente": "12098005M",
+    "calle_cliente": "Calle de Chimichagua",
+    "cp_cliente": "08470",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRO SOPORTE COMERCIAL Y GESTIÓN S.L.U.",
+    "cif_comercializadora": "B65932360",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28-junio-2012",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-mayo-2012",
+    "importe_factura": "20/12/2806",
+    "fecha_cargo": "20/12/3006",
+    "consumo_periodo": "4552",
+    "potencia_contratada": "4,869"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Bautista Minas Salazar",
+    "dni_cliente": "85262895D",
+    "calle_cliente": "CAMINO VALERIANO PEREZ, 4",
+    "cp_cliente": "28042013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HELIOSFERA SL",
+    "cif_comercializadora": "B76741016",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38330",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-abril-2013",
+    "importe_factura": "20,32",
+    "fecha_cargo": "02 de julio de 2013",
+    "consumo_periodo": "79530",
+    "potencia_contratada": ""
+}

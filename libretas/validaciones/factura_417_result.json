@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Margarita Pacheco Elizondo",
+    "dni_cliente": "70869227V",
+    "calle_cliente": "Calle Solafraguas",
+    "cp_cliente": "28695",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "LARRAÑAGA, S.L. 478829945291",
+    "cif_comercializadora": "GB799162671",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3406765092102",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "85,70",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NICETO CALDERA RIVERA",
+    "dni_cliente": "51124972C",
+    "calle_cliente": "Túnel Adolfo Cañas",
+    "cp_cliente": "24343",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ACCORD ENERGY LIMITED",
+    "cif_comercializadora": "SN0067517C.",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "22-junio-2012",
+    "importe_factura": "21,43",
+    "fecha_cargo": "20/12/2308",
+    "consumo_periodo": "20/12/2108",
+    "potencia_contratada": "NICETO"
+}

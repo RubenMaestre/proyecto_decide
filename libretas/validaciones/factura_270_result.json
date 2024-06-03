@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ELÍAS ALAYÓN PERDOMO",
+    "dni_cliente": "43209711W",
+    "calle_cliente": "Calle de Santa Florentina",
+    "cp_cliente": "30593",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "PROTEMPUS WORLD S.L",
+    "cif_comercializadora": "B66571290",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "241,88",
+    "fecha_cargo": "18 de mayo de 2001",
+    "consumo_periodo": "",
+    "potencia_contratada": "SANTANDER"
+}

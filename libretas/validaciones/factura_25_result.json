@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ana Paniagua Gayoso",
+    "dni_cliente": "62188915C",
+    "calle_cliente": "Carretera de Rodajos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A74472911",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "16/11/1990",
+    "fin_periodo": "15/01/1991",
+    "importe_factura": "118,22",
+    "fecha_cargo": "20/01/1991",
+    "consumo_periodo": "15/01/1991",
+    "potencia_contratada": "3,498"
+}

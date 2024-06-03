@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Malcolm Cuéllar Soto",
+    "dni_cliente": "22687353S",
+    "calle_cliente": "Camino de la Casilla",
+    "cp_cliente": "20102018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGIAS DE LA VILLA DE CAMPO, S.L",
+    "cif_comercializadora": "B22280259",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22450",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-octubre-2018",
+    "importe_factura": "11,93",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,424"
+}

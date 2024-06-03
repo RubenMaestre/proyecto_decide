@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FRIDA OLMEDO ESTRELLA",
+    "dni_cliente": "56374095Z",
+    "calle_cliente": "AVENIDA DE PORTUGAL, 27 PLANTA 4, PUERTA",
+    "cp_cliente": "46814",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CIMA ENERGIA COMERCIALIZADORA SL",
+    "cif_comercializadora": "B26558056",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-diciembre-2011",
+    "importe_factura": "20/12/2801",
+    "fecha_cargo": "20/11/2912",
+    "consumo_periodo": "96102",
+    "potencia_contratada": "2,697"
+}

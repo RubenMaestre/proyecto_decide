@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PAMELA PERDOMO CALDERA",
+    "dni_cliente": "35295979H",
+    "calle_cliente": "Calle Párroco José R. Fernández Baldor",
+    "cp_cliente": "07360",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B64376395",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08221",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "92,71",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Helen Sotelo Funez",
+    "dni_cliente": "55115103L",
+    "calle_cliente": "Calle Doctor Víctor e Isaías Sancha",
+    "cp_cliente": "05072016",
+    "población_cliente": "",
+    "provincia_cliente": "Navarra",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A11900057",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03-septiembre-2016",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-julio-2016",
+    "importe_factura": "75,79",
+    "fecha_cargo": "03 de septiembre de 2016",
+    "consumo_periodo": "79694",
+    "potencia_contratada": "4,588"
+}

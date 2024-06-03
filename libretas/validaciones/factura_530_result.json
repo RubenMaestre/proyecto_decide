@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Américo De la Cruz Uriarte",
+    "dni_cliente": "45792617P",
+    "calle_cliente": "Manso Avellana",
+    "cp_cliente": "29081995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRA AVELLANA COMERCIAL, S.L",
+    "cif_comercializadora": "B17659111",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17844",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gerona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-agosto-1995",
+    "importe_factura": "15,06",
+    "fecha_cargo": "",
+    "consumo_periodo": "35187",
+    "potencia_contratada": "2,191"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Benedicta Naranjo Martínez",
+    "dni_cliente": "86088801P",
+    "calle_cliente": "EDIFICIO REY DE BAEZA, 5ºA 50003 - ZARAGOZA",
+    "cp_cliente": "27081995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SYDER COMERCIALIZADORA VERDE",
+    "cif_comercializadora": "B99275851",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-agosto-1995",
+    "importe_factura": "13,96",
+    "fecha_cargo": "",
+    "consumo_periodo": "27446",
+    "potencia_contratada": "4,162"
+}

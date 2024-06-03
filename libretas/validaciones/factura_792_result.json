@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALBANO GRANADA CUEVAS",
+    "dni_cliente": "33191606F",
+    "calle_cliente": "Callejon del Capón",
+    "cp_cliente": "13499",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ECOLUZ ENERGIA, SL",
+    "cif_comercializadora": "B67572644",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08812",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "34,69",
+    "fecha_cargo": "",
+    "consumo_periodo": "29268",
+    "potencia_contratada": "5,101"
+}

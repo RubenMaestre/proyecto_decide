@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROGELIO SUÁREZ MEDINA",
+    "dni_cliente": "94113940X",
+    "calle_cliente": "Plaza de Sierra de Somosierra",
+    "cp_cliente": "27439",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "GLOBAL3 ENERGIA COMERCIALIZADORA, S.L.U.",
+    "cif_comercializadora": "B25378779",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "57,50",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CICERÓN ICAZA CORREA",
+    "dni_cliente": "38525994M",
+    "calle_cliente": "",
+    "cp_cliente": "28990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EKILUZ ENERGÍA COMERCIALIZADORA, S.L.",
+    "cif_comercializadora": "B75229369",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-agosto-2005",
+    "importe_factura": "13,16",
+    "fecha_cargo": "20/05/2709",
+    "consumo_periodo": "6574",
+    "potencia_contratada": "3,903"
+}

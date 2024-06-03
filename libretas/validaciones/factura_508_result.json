@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DÁNAE ZETINA BENÍTEZ",
+    "dni_cliente": "62288873C",
+    "calle_cliente": "Calle del Cares",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELURENERGIA VERDE SL",
+    "cif_comercializadora": "B02571909",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "06/08/1990",
+    "fin_periodo": "05/10/1990",
+    "importe_factura": "159,89",
+    "fecha_cargo": "10/10/1990",
+    "consumo_periodo": "05/10/1990",
+    "potencia_contratada": "4,311"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nunila Ponce Magallón",
+    "dni_cliente": "56355685G",
+    "calle_cliente": "Calle Torrejón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TALARN DISTRIBUCIÓ MUNICIPAL ELÉCTRICA",
+    "cif_comercializadora": "B25616970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "27/05/1995",
+    "fin_periodo": "26/06/1995 30 días  ",
+    "importe_factura": "29,37",
+    "fecha_cargo": "01/07/1995",
+    "consumo_periodo": "50769",
+    "potencia_contratada": "1,854"
+}

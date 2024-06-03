@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RODRIGO VALENTÍN VALES",
+    "dni_cliente": "60073637Y",
+    "calle_cliente": "Calle del Molino de Viento",
+    "cp_cliente": "01260",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AMPERE LIBRE, S.L.",
+    "cif_comercializadora": "B94042892",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-octubre-2007",
+    "importe_factura": "20/07/0411",
+    "fecha_cargo": "20/07/0611",
+    "consumo_periodo": "78599",
+    "potencia_contratada": "4,725"
+}

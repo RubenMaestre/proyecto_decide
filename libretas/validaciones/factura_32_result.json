@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IRIS BENÍTEZ BACA",
+    "dni_cliente": "98171042G",
+    "calle_cliente": "Poligono Conmar",
+    "cp_cliente": "18014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B87579769",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08-enero-2001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "18,76",
+    "fecha_cargo": "20/01/0801",
+    "consumo_periodo": "20/01/0702",
+    "potencia_contratada": "5,605"
+}

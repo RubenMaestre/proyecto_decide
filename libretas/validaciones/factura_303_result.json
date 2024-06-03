@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PLUTÓN BENÍTEZ ESTÉVEZ",
+    "dni_cliente": "53736826V",
+    "calle_cliente": "Calle de Pedro Yagüe",
+    "cp_cliente": "24500",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B90486572",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41089",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "PARIS",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "68,70",
+    "fecha_cargo": "17 de diciembre de 2007",
+    "consumo_periodo": "23331",
+    "potencia_contratada": ""
+}

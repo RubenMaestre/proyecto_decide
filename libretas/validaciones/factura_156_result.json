@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SATURIO LEYVA TAMES",
+    "dni_cliente": "35969206N",
+    "calle_cliente": "Extraradio Finca Suerte del Enebrillo",
+    "cp_cliente": "35002",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ROMA ENERGÍAS S.L.",
+    "cif_comercializadora": "B66420407",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08130",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "127,72",
+    "fecha_cargo": "15 de agosto de 2016",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

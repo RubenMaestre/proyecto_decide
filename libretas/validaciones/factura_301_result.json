@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "85779558T",
+    "calle_cliente": "Calle Eleuterio Sánchez",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B73817033",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "16/12/2003",
+    "fin_periodo": "15/01/2004",
+    "importe_factura": "61,50",
+    "fecha_cargo": "20/01/2004",
+    "consumo_periodo": "15/01/2004",
+    "potencia_contratada": "3,923"
+}

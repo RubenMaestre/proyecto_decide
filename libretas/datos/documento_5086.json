@@ -1,0 +1,45 @@
+{
+    "text": "cuales son los componentes de la factura de la luz? la factura del suministro de electricidad se compone de varios conceptos: el coste de la energia, los costes regulados, que incluyen entre otros el coste de las redes de transporte y distribucion, al fomento de las energias renovables, al mayor coste de produccion en los sistemas no peninsulares, las anualidades para recuperar el deficit de tarifas. estos costes se incorporan en lo que actualmente se denomina tarifa de acceso. el margen para la comercializadora por los servicios prestados, el alquiler del equipo de medida, y los impuestos. que es lo que se modifica? en cumplimiento de la normativa europea, se introduce la separacion de la tarifa de acceso en dos componentes: peajes y cargos. los peajes son precios regulados destinados a recuperar los costes de las redes de transporte y distribucion y son determinados por la cnmc. los cargos son los precios regulados destinados a cubrir el resto de costes regulados y son determinados por el ministerio para la transicion ecologica y el reto demografico. cuando aplicara la nueva estructura? a partir del 1 de junio de 2021. a que consumidores afecta? afecta a todos los consumidores de electricidad. cuales son los cambios principales? todos los consumidores pasan a tener un peaje con discriminacion horaria en los terminos de potencia y energia. aumenta la diferencia de precios entre los periodos de punta y valle. se facilita la recarga nocturna del vehiculo electrico. que tiene que hacer el consumidor? el consumidor no tiene que hacer nada. el nuevo peaje se asigna de manera automatica. novedades principales todos los consumidores tendran precios diferenciados por tramos horarios, tanto para la potencia como para el consumo. datos de factura: importe factura: placeholder_16 numero de factura: placeholder_13 periodo de consumo: placeholder_14 a placeholder_15 fecha de cargo: placeholder_17 informacion de la comercializadora: nombre: placeholder_07 cif: placeholder_08 direccion: placeholder_09, placeholder_10 placeholder_11, provincia placeholder_12. datos del cliente: nombre: juan perez sanchez dni: 84629375B direccion: calle glaser, cp 22197, poblacion torres de albarracin, provincia Málaga. evolucion del consumo: consumo en el periodo: 356 kwh. datos del contrato: potencia contratada: 2,771 kw.",
+    "entities": [
+        [
+            2108,
+            2126,
+            "nombre_cliente"
+        ],
+        [
+            2132,
+            2141,
+            "dni_cliente"
+        ],
+        [
+            2153,
+            2165,
+            "calle_cliente"
+        ],
+        [
+            2170,
+            2175,
+            "cp_cliente"
+        ],
+        [
+            2187,
+            2207,
+            "poblacion_cliente"
+        ],
+        [
+            2219,
+            2225,
+            "provincia_cliente"
+        ],
+        [
+            2273,
+            2276,
+            "consumo_periodo"
+        ],
+        [
+            2323,
+            2328,
+            "potencia_contratada"
+        ]
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HIPODAMIA FRAGA BECERRA",
+    "dni_cliente": "98194777A",
+    "calle_cliente": "Plaza del Castillo de la Luz",
+    "cp_cliente": "19111992",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA MUNICIPAL DE SANTA",
+    "cif_comercializadora": "B43986918",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43420",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "QUERALT",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-octubre-1992",
+    "importe_factura": "15,37",
+    "fecha_cargo": "",
+    "consumo_periodo": "19744",
+    "potencia_contratada": "4,512"
+}

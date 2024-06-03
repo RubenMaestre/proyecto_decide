@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cleo Navarro Montes",
+    "dni_cliente": "51620456S",
+    "calle_cliente": "Calle Río de la Luz",
+    "cp_cliente": "08092016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BASSOLS ENERGIA COMERCIAL, S.L",
+    "cif_comercializadora": "B17653213",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-agosto-2016",
+    "importe_factura": "10,95",
+    "fecha_cargo": "",
+    "consumo_periodo": "77402",
+    "potencia_contratada": "3,204"
+}

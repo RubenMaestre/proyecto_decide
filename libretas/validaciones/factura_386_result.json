@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "José Manuel Solé Castañeda",
+    "dni_cliente": "21350990K",
+    "calle_cliente": "Calle Antonio Díaz Miguel 03816 Benifallim",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "503264032",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "18/02/2017",
+    "fin_periodo": "20/03/2017",
+    "importe_factura": "102,15",
+    "fecha_cargo": "25/03/2017",
+    "consumo_periodo": "20/03/2017",
+    "potencia_contratada": "4,092"
+}

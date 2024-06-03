@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Licomedes Álvarez Castellanos",
+    "dni_cliente": "39512257M",
+    "calle_cliente": "Avenida de Santa Catalina",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ALILUZ MEDITERRANEA, S.L.",
+    "cif_comercializadora": "B42504084",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "20/10/1996",
+    "fin_periodo": "19/11/1996",
+    "importe_factura": "55,49",
+    "fecha_cargo": "24/11/1996",
+    "consumo_periodo": "19/11/1996",
+    "potencia_contratada": "4,032"
+}

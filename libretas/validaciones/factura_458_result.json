@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Shakira Vallejo Lacayo",
+    "dni_cliente": "42274006Y",
+    "calle_cliente": "Viale Regina Margherita, 125",
+    "cp_cliente": "15031998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENEL TRADE S.P.A.",
+    "cif_comercializadora": "5918271007",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "00198",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-marzo-1998",
+    "importe_factura": "38,16",
+    "fecha_cargo": "14-mayo-1998",
+    "consumo_periodo": "66520",
+    "potencia_contratada": "5,602"
+}

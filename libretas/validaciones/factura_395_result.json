@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MADELAINE JURADO DE LA FUENTE",
+    "dni_cliente": "76935051M",
+    "calle_cliente": "Calle de Lele del Pozo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CONECTA2 ENERGIA, S.L.",
+    "cif_comercializadora": "B66024464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "05/01/2017",
+    "fin_periodo": "04/02/2017",
+    "importe_factura": "103,21",
+    "fecha_cargo": "09/02/2017",
+    "consumo_periodo": "04/02/2017",
+    "potencia_contratada": "5,057"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Michelle Hidalgo Martí",
+    "dni_cliente": "81247813Z",
+    "calle_cliente": "Calle Vistillas",
+    "cp_cliente": "13092000",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA COSTA DORADA SL",
+    "cif_comercializadora": "B55691018",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43850",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "15,07",
+    "fecha_cargo": "",
+    "consumo_periodo": "72971",
+    "potencia_contratada": "2,226"
+}

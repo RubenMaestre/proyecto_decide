@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sonia Troncoso Macedo",
+    "dni_cliente": "29537464J",
+    "calle_cliente": "Paraje Masía Fuentecillas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B96599006",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "23/09/2000",
+    "fin_periodo": "23/10/2000",
+    "importe_factura": "109,35",
+    "fecha_cargo": "28/10/2000",
+    "consumo_periodo": "23/10/2000",
+    "potencia_contratada": "5,349"
+}

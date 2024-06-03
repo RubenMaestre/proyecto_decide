@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HERMENEGILDO OSORIO AGUILAR",
+    "dni_cliente": "83931654P",
+    "calle_cliente": "Calle Vista Hespérides",
+    "cp_cliente": "06101997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ACCIONA GREEN ENERGY DEVELOPMENTS SL.",
+    "cif_comercializadora": "B31737422",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-octubre-1997",
+    "importe_factura": "34,13",
+    "fecha_cargo": "",
+    "consumo_periodo": "96979",
+    "potencia_contratada": "5,011"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROSMARY SÁENZ MATEO",
+    "dni_cliente": "15728183R",
+    "calle_cliente": "Calle del Tibidabo",
+    "cp_cliente": "11081992",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AVANGREEN ENERGY SOLUTIONS",
+    "cif_comercializadora": "A19240621",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28703",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-julio-1992",
+    "importe_factura": "15,25",
+    "fecha_cargo": "14 de agosto de 1992",
+    "consumo_periodo": "30807",
+    "potencia_contratada": "4,436"
+}

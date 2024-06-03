@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Myrian Junco Peña",
+    "dni_cliente": "26008863A",
+    "calle_cliente": "Calle Félix Serrano del Real",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TELECOR, S.A.",
+    "cif_comercializadora": "A80028731",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "05/02/2002",
+    "fin_periodo": "07/03/2002",
+    "importe_factura": "13,65",
+    "fecha_cargo": "12/03/2002",
+    "consumo_periodo": "07/03/2002",
+    "potencia_contratada": "3,651"
+}

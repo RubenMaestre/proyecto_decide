@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Platón Vanegas Alcázar",
+    "dni_cliente": "80358231A",
+    "calle_cliente": "AVDA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A61797536",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "21/05/2004",
+    "fin_periodo": "20/07/2004",
+    "importe_factura": "142,85",
+    "fecha_cargo": "25/07/2004",
+    "consumo_periodo": "20/07/2004",
+    "potencia_contratada": "3,932"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Immanuel De la Cruz Usaga",
+    "dni_cliente": "66392162V",
+    "calle_cliente": "Camino de Bayona",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GODAY ENERGIA SL",
+    "cif_comercializadora": "B36026375",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "18/06/2006",
+    "fin_periodo": "18/07/2006",
+    "importe_factura": "66,94",
+    "fecha_cargo": "23/07/2006",
+    "consumo_periodo": "18/07/2006",
+    "potencia_contratada": "4,904"
+}

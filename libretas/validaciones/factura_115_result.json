@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Diego Caballero Marcías",
+    "dni_cliente": "73904992N",
+    "calle_cliente": "RONDA DE LA COMUNICACIÓN",
+    "cp_cliente": "42230",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Social RONDA DE LA",
+    "cif_comercializadora": "A78053147",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28050",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "20/06/0610",
+    "fin_periodo": "05-diciembre-2006",
+    "importe_factura": "26,87",
+    "fecha_cargo": "20/06/0712",
+    "consumo_periodo": "20/06/0512",
+    "potencia_contratada": "4,047"
+}

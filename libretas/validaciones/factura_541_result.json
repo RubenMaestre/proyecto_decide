@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AFRODITA ZAVALA CAMPOS",
+    "dni_cliente": "82470128V",
+    "calle_cliente": "PLAZA EUSKADI",
+    "cp_cliente": "22071996",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "IBERDROLA CLIENTES, S.A.U.",
+    "cif_comercializadora": "A95758389",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "53,17",
+    "fecha_cargo": "25 de septiembre de 1996",
+    "consumo_periodo": "32687",
+    "potencia_contratada": "5,992"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Inma Fierro Calleja",
+    "dni_cliente": "19397690L",
+    "calle_cliente": "Calle de Siracusa",
+    "cp_cliente": "26144",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NEMON INTELLIGENCE IN BUSINESS, S.L.",
+    "cif_comercializadora": "B55522023",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43791",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-mayo-2008",
+    "importe_factura": "20/08/1005",
+    "fecha_cargo": "20/08/1205",
+    "consumo_periodo": "71032",
+    "potencia_contratada": "3,713"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PRISCILA HEREDIA OSORIO",
+    "dni_cliente": "79001471J",
+    "calle_cliente": "Camino Mazacorta",
+    "cp_cliente": "18418",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  CFRANCISCO VILA Nº 7 1",
+    "cif_comercializadora": "B56131485",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "14500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "CÓRDOBA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "172,70",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

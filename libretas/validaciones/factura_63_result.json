@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Candida Lorio Quijano",
+    "dni_cliente": "77425632L",
+    "calle_cliente": "Plaza de Chabuca Granda",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CEMOI ELECTRICITE S.L",
+    "cif_comercializadora": "B66319138",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "25/04/2017",
+    "fin_periodo": "24/06/2017",
+    "importe_factura": "250,11",
+    "fecha_cargo": "29/06/2017",
+    "consumo_periodo": "24/06/2017",
+    "potencia_contratada": "3,710"
+}

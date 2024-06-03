@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "97323357F",
+    "calle_cliente": "Calle Francisco Díaz",
+    "cp_cliente": "17112020",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "REA DANIEL LEMUS",
+    "cif_comercializadora": "B64906431",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16012021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-noviembre-2020",
+    "importe_factura": "299,80",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,634"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "THE YELLOW ENERGY, S.L",
+    "dni_cliente": "51746993Y",
+    "calle_cliente": "Calle del Petróleo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "THE YELLOW ENERGY, S.L",
+    "cif_comercializadora": "B66027731",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "28/07/2015",
+    "fin_periodo": "27/08/2015 30 días  ",
+    "importe_factura": "85,12",
+    "fecha_cargo": "01/09/2015",
+    "consumo_periodo": "24004",
+    "potencia_contratada": "4,554"
+}

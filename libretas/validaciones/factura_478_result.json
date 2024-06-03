@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MONA SALAS OSPINO",
+    "dni_cliente": "90730686X",
+    "calle_cliente": "Lugar Valdesquí",
+    "cp_cliente": "08520",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INGEBAU SOLUCIONES DE MEDIDA SL",
+    "cif_comercializadora": "B90031063",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "2000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "13,47",
+    "fecha_cargo": "",
+    "consumo_periodo": "69231",
+    "potencia_contratada": ""
+}

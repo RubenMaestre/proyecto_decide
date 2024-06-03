@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DEMÉTER VELÁSQUEZ GUZMÁN",
+    "dni_cliente": "69309778Z",
+    "calle_cliente": "Calle de las Pasas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "COMERCIALIZAÇAO DE ENERGÍA S.A.",
+    "cif_comercializadora": "503504564",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "01/01/2021",
+    "fin_periodo": "31/01/2021",
+    "importe_factura": "90,49",
+    "fecha_cargo": "05/02/2021",
+    "consumo_periodo": "31/01/2021",
+    "potencia_contratada": "5,392"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Patricio Jiménez Hurtado",
+    "dni_cliente": "59125709T",
+    "calle_cliente": "Callejon Linajes 25337",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELÉCTRICA SUDANELL, S.L.U.",
+    "cif_comercializadora": "B25818733",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "20/06/2014",
+    "fin_periodo": "19/08/2014",
+    "importe_factura": "254,72",
+    "fecha_cargo": "24/08/2014",
+    "consumo_periodo": "19/08/2014",
+    "potencia_contratada": "3,005"
+}

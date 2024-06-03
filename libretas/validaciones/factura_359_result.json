@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ILUMINADO TRUJILLO CUESTA",
+    "dni_cliente": "52282576B",
+    "calle_cliente": "CALLE RIBERA DEL LOIRA, 60 28042 - MADRID",
+    "cp_cliente": "05021995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENDESA ENERGÍA RENOVABLE, S.L.",
+    "cif_comercializadora": "B88298864",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-febrero-1995",
+    "importe_factura": "32,20",
+    "fecha_cargo": "",
+    "consumo_periodo": "68561",
+    "potencia_contratada": "4,619"
+}

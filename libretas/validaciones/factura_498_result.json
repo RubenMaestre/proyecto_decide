@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LICEO ESCAMILLA OLIVAR",
+    "dni_cliente": "28891898B",
+    "calle_cliente": "Calle Esmeralda",
+    "cp_cliente": "21112017",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ECOEQ ENERGÉTICA",
+    "cif_comercializadora": "B04738209",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "04005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-noviembre-2017",
+    "importe_factura": "183,52",
+    "fecha_cargo": "",
+    "consumo_periodo": "58426",
+    "potencia_contratada": "3,833"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "INSIGNIA ENERGIA SL",
+    "dni_cliente": "82652180R",
+    "calle_cliente": "PASEO MILICIAS DE GARACHICO 1, EDIF",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EMANUEL ALARCÓN RESTREPO",
+    "cif_comercializadora": "B76615970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "18/10/2012",
+    "fin_periodo": "17/11/2012",
+    "importe_factura": "57,13",
+    "fecha_cargo": "22/11/2012",
+    "consumo_periodo": "17/11/2012",
+    "potencia_contratada": "3,042"
+}

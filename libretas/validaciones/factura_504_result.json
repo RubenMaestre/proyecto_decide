@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tatiana Quintanilla Galindo",
+    "dni_cliente": "85233025Q",
+    "calle_cliente": "Calle de la Cooperativa Eléctrica",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B96599006",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "11/01/2010",
+    "fin_periodo": "12/03/2010",
+    "importe_factura": "33,23",
+    "fecha_cargo": "17/03/2010",
+    "consumo_periodo": "12/03/2010",
+    "potencia_contratada": "4,468"
+}

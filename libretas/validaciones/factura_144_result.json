@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VICTORIA RAMÓN SEGURA",
+    "dni_cliente": "80290929E",
+    "calle_cliente": "Plaza de Abogados de Atocha",
+    "cp_cliente": "15627",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LUZDEAQUI,",
+    "cif_comercializadora": "A09516717",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Coruña",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-agosto-2009",
+    "importe_factura": "20/09/0109",
+    "fecha_cargo": "20/09/0208",
+    "consumo_periodo": "18604",
+    "potencia_contratada": "5,610"
+}

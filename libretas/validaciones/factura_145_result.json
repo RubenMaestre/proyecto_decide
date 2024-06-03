@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Learco Páramo Uveda",
+    "dni_cliente": "43777298H",
+    "calle_cliente": "Calle de Calatayud",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "INGENIO CORE, S.L.",
+    "cif_comercializadora": "B87828679",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "27/06/2009",
+    "fin_periodo": "27/07/2009",
+    "importe_factura": "16,54",
+    "fecha_cargo": "01/08/2009",
+    "consumo_periodo": "27/07/2009",
+    "potencia_contratada": "3,879"
+}

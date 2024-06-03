@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "YANET MUNERA SOTELO",
+    "dni_cliente": "76917579J",
+    "calle_cliente": "Calle Saiz Romillo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B71321707",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "02/01/2002",
+    "fin_periodo": "01/02/2002",
+    "importe_factura": "30,89",
+    "fecha_cargo": "06/02/2002",
+    "consumo_periodo": "01/02/2002",
+    "potencia_contratada": "4,523"
+}

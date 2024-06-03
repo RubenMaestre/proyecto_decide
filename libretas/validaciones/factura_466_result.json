@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tabita Bazán Gaytán",
+    "dni_cliente": "18051301G",
+    "calle_cliente": "Plaza de Pau Casals",
+    "cp_cliente": "36216",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "RENOVAE CONSULTING, S.L.",
+    "cif_comercializadora": "B12960423",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12005",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "CASTELLÓN",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "206,25",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "CASTELLÓN"
+}

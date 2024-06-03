@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LAURENTINO CABALLERO HERRERA",
+    "dni_cliente": "27456420D",
+    "calle_cliente": "Calle Carrera de los Caballos",
+    "cp_cliente": "37684",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B87382644",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28014",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "56,16",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

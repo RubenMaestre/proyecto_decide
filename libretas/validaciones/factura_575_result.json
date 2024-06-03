@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cesar Ramírez Gayoso",
+    "dni_cliente": "41814602G",
+    "calle_cliente": "Calle de Turín",
+    "cp_cliente": "19184",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SA  AVDA.",
+    "cif_comercializadora": "A61797536",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "122,09",
+    "fecha_cargo": "06 de febrero de 2012",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

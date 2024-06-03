@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Emilia Cerda Ramírez",
+    "dni_cliente": "38365847F",
+    "calle_cliente": "CAPITAN HAYA, 1 28020 - MADRID",
+    "cp_cliente": "31590",
+    "población_cliente": "",
+    "provincia_cliente": "Castejón",
+    "nombre_comercializadora": "SOLVAY ENERGY SERVICES IBÉRICA, S.L.",
+    "cif_comercializadora": "B64757602",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "20/07/0104",
+    "fin_periodo": "20/07/0105",
+    "importe_factura": "123,63",
+    "fecha_cargo": "06 de mayo de 2007",
+    "consumo_periodo": "8967",
+    "potencia_contratada": "3,995"
+}

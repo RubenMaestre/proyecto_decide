@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Indira Solís Alayón",
+    "dni_cliente": "36121748H",
+    "calle_cliente": "PASEO DE LA CASTELLANA 259-A 28046 - MADRID",
+    "cp_cliente": "08062000",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CEPSA GAS Y ELECTRICIDAD, S.A.U.",
+    "cif_comercializadora": "A28142552",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3039",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-junio-2000",
+    "importe_factura": "28,30",
+    "fecha_cargo": "12 de agosto de 2000",
+    "consumo_periodo": "59273",
+    "potencia_contratada": "4,115"
+}

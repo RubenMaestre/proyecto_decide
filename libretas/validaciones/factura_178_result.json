@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MAGIA CEPEDA VENEGAS",
+    "dni_cliente": "56048682M",
+    "calle_cliente": "Calle Cabozo",
+    "cp_cliente": "05011991",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AHORRELUZ SERVICIOS ONLINE S.L",
+    "cif_comercializadora": "B66868902",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-diciembre-1990",
+    "importe_factura": "13,33",
+    "fecha_cargo": "",
+    "consumo_periodo": "58706",
+    "potencia_contratada": "MAGIA"
+}

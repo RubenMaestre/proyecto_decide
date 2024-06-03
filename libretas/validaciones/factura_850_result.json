@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Efrén Ruiz Cisneros",
+    "dni_cliente": "39905264B",
+    "calle_cliente": "Calle Ronda Oeste 17451 Sant Feliu de Buixalleu",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "NABALIA ENERGIA 2000 S.A",
+    "cif_comercializadora": "A66585191",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "23/10/2013",
+    "fin_periodo": "22/11/2013",
+    "importe_factura": "51,21",
+    "fecha_cargo": "27/11/2013",
+    "consumo_periodo": "22/11/2013",
+    "potencia_contratada": "4,147"
+}

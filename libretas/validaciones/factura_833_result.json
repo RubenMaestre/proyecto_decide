@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Priscila Ospino Treminio",
+    "dni_cliente": "52999117X",
+    "calle_cliente": "Pasaje de Tuy",
+    "cp_cliente": "06660",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HIDROELECTRICA EL CARMEN SL",
+    "cif_comercializadora": "B80765951",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30-septiembre-2020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "29,08",
+    "fecha_cargo": "",
+    "consumo_periodo": "13376",
+    "potencia_contratada": "2,829"
+}

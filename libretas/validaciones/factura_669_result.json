@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "IVÁN PARRA CUEVAS",
+    "dni_cliente": "64906951P",
+    "calle_cliente": "Calle de San Pelegrín",
+    "cp_cliente": "22700",
+    "población_cliente": "",
+    "provincia_cliente": "Jaca",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B54691589",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "637114185903",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "20/09/2702",
+    "fin_periodo": "20/09/2903",
+    "importe_factura": "121,92",
+    "fecha_cargo": "03 de abril de 2009",
+    "consumo_periodo": "81742",
+    "potencia_contratada": "2,626"
+}

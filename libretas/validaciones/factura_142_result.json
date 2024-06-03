@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEONILDA MENESES SOZA",
+    "dni_cliente": "71398288D",
+    "calle_cliente": "Viale Regina Margherita, 125",
+    "cp_cliente": "16411",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENEL PRODUZIONE S.P.A. IT",
+    "cif_comercializadora": "5617841001",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "00198",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "14-noviembre-2015",
+    "importe_factura": "21,55",
+    "fecha_cargo": "",
+    "consumo_periodo": "35065",
+    "potencia_contratada": "2,790"
+}

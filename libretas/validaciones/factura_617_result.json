@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Bibiana Acosta Quesada",
+    "dni_cliente": "54060933P",
+    "calle_cliente": "Calle Antonio Martín Ramos Rapsoda",
+    "cp_cliente": "44213",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALPAPAT SL",
+    "cif_comercializadora": "B65163818",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-octubre-2007",
+    "importe_factura": "24,21",
+    "fecha_cargo": "20/07/2012",
+    "consumo_periodo": "7474",
+    "potencia_contratada": "3,574"
+}

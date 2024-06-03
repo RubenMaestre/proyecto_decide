@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marilu De la Cuesta Daniel",
+    "dni_cliente": "59289635M",
+    "calle_cliente": "Calle Salvador Almela Navarro",
+    "cp_cliente": "15051995",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "VOLTIEN COMERCIALIZADORA ELECTRICA, S.L.",
+    "cif_comercializadora": "B98846363",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-marzo-1995",
+    "importe_factura": "160,42",
+    "fecha_cargo": "20 de mayo de 1995",
+    "consumo_periodo": "61960",
+    "potencia_contratada": "5,574"
+}

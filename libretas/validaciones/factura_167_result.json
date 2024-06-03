@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEONORA JUNCO",
+    "dni_cliente": "56675039A",
+    "calle_cliente": "Calle Pico del Nevero",
+    "cp_cliente": "16072017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Social CARRER ORIENT, 3",
+    "cif_comercializadora": "B25445693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25172",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lérida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "14-junio-2017",
+    "importe_factura": "14,91",
+    "fecha_cargo": "",
+    "consumo_periodo": "62476",
+    "potencia_contratada": "4,352"
+}

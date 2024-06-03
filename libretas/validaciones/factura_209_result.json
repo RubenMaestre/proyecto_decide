@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Basilio Cevallos Echeverría",
+    "dni_cliente": "45460304E",
+    "calle_cliente": "Calle de la Cordillera de Cuera",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B22280259",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "06/08/2008",
+    "fin_periodo": "05/09/2008 30 días  ",
+    "importe_factura": "52,00",
+    "fecha_cargo": "10/09/2008",
+    "consumo_periodo": "51274",
+    "potencia_contratada": "2,751"
+}

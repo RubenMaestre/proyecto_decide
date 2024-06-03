@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EVARISTO ZAVALETA",
+    "dni_cliente": "71198500E",
+    "calle_cliente": "Calle de José Tamayo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "C227767191",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "16/05/1993",
+    "fin_periodo": "15/06/1993",
+    "importe_factura": "198,29",
+    "fecha_cargo": "20/06/1993",
+    "consumo_periodo": "15/06/1993",
+    "potencia_contratada": "2,482"
+}

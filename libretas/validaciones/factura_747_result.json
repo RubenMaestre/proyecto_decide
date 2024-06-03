@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HERMÓGENES ZARCO ESCOBAR",
+    "dni_cliente": "38212391F",
+    "calle_cliente": "Plaza Alameda de Colón",
+    "cp_cliente": "45109",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HERMÓGENES ZARCO ESCOBAR",
+    "cif_comercializadora": "B95783924",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "9978",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-octubre-2003",
+    "importe_factura": "33,32",
+    "fecha_cargo": "20/03/0810",
+    "consumo_periodo": "20/03/0612",
+    "potencia_contratada": "5,007"
+}

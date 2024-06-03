@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Oda Cordero Cuesta",
+    "dni_cliente": "32977179D",
+    "calle_cliente": "Calle Yolanda Palacios",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B552081317",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "25/05/2012",
+    "fin_periodo": "24/06/2012",
+    "importe_factura": "70,55",
+    "fecha_cargo": "29/06/2012",
+    "consumo_periodo": "24/06/2012",
+    "potencia_contratada": "2,846"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Manrique Pino Ferreira",
+    "dni_cliente": "44565398T",
+    "calle_cliente": "Calle del Doce de Octubre",
+    "cp_cliente": "07828",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MUNICIPAL DE SERVICIOS",
+    "cif_comercializadora": "B12820155",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20-febrero-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Illes Balears",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "29,52",
+    "fecha_cargo": "20/06/2002",
+    "consumo_periodo": "20/06/2104",
+    "potencia_contratada": "4,307"
+}

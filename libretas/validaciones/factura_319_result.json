@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Oliverio Peraza Juárez",
+    "dni_cliente": "37949960Y",
+    "calle_cliente": "Paseo de la Bardera",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A22004675",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "10/12/1992",
+    "fin_periodo": "09/01/1993",
+    "importe_factura": "43,46",
+    "fecha_cargo": "14/01/1993",
+    "consumo_periodo": "09/01/1993",
+    "potencia_contratada": "3,655"
+}

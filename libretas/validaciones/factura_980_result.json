@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PIERA GALÁN MONTALVO",
+    "dni_cliente": "92987479C",
+    "calle_cliente": "Calle de Molina",
+    "cp_cliente": "09227",
+    "población_cliente": "",
+    "provincia_cliente": "Burgos",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B87095543",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "20/12/0205",
+    "fin_periodo": "20/12/0106",
+    "importe_factura": "84,77",
+    "fecha_cargo": "",
+    "consumo_periodo": "76645",
+    "potencia_contratada": "4,228"
+}

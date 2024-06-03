@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HIPÓLITA ZELAYA QUIJADA",
+    "dni_cliente": "63000844A",
+    "calle_cliente": "Plaza de José Moñino Conde de Floridablanca",
+    "cp_cliente": "28042013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADETEC INGENIERÍA S.L",
+    "cif_comercializadora": "B02553311",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-abril-2013",
+    "importe_factura": "29,08",
+    "fecha_cargo": "02 de julio de 2013",
+    "consumo_periodo": "40934",
+    "potencia_contratada": "HIPÓLITA"
+}

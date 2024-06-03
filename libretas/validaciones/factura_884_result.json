@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dani Escoto Cervantes",
+    "dni_cliente": "49933697F",
+    "calle_cliente": "Lugar Finca El Salobral",
+    "cp_cliente": "36853",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNIPER GLOBAL COMMODITIES",
+    "cif_comercializadora": "DE192205313",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "40221",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "20/11/1402",
+    "fin_periodo": "15-abril-2011",
+    "importe_factura": "39,84",
+    "fecha_cargo": "20/11/1704",
+    "consumo_periodo": "59796",
+    "potencia_contratada": "5,961"
+}

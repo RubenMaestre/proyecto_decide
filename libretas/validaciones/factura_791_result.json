@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Carola Vivas Palomar",
+    "dni_cliente": "83713943S",
+    "calle_cliente": "PASEO DEL CLUB DEPORTIVO, 1 BL.11 BAJO IZQ",
+    "cp_cliente": "05213",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INTERNATIONAL MARINA TARRAGONA, S.L.",
+    "cif_comercializadora": "B83682245",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28223",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ALARCON",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-mayo-2003",
+    "importe_factura": "20/03/3105",
+    "fecha_cargo": "20/03/0105",
+    "consumo_periodo": "36342",
+    "potencia_contratada": "4,828"
+}

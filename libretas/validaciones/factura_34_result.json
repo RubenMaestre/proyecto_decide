@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ORANGEL SUÁREZ CAMARENO",
+    "dni_cliente": "55306497F",
+    "calle_cliente": "Calle del Valle de Tena",
+    "cp_cliente": "16091997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "KALIBRA XE FRANCE SAS.",
+    "cif_comercializadora": "B08280061",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "75017",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Francia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "16-septiembre-1997",
+    "importe_factura": "41,59",
+    "fecha_cargo": "",
+    "consumo_periodo": "11843",
+    "potencia_contratada": "6,042"
+}

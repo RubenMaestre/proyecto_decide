@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Juvencio Marroquí Alzate",
+    "dni_cliente": "99324716K",
+    "calle_cliente": "Calle Río",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B87574463",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "05/03/2017",
+    "fin_periodo": "04/05/2017",
+    "importe_factura": "276,16",
+    "fecha_cargo": "09/05/2017",
+    "consumo_periodo": "04/05/2017",
+    "potencia_contratada": "4,872"
+}

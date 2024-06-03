@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ERMINIA CUESTA MACHADO",
+    "dni_cliente": "75723815H",
+    "calle_cliente": "Calle Camelia",
+    "cp_cliente": "26061991",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ENERGYA VM GENERACIÓN, S.L",
+    "cif_comercializadora": "B84070036",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26071991",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-junio-1991",
+    "importe_factura": "12,29",
+    "fecha_cargo": "31 de julio de 1991",
+    "consumo_periodo": "89093",
+    "potencia_contratada": "3,552"
+}

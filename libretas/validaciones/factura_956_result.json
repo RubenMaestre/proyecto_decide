@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Simona Echeverría Osorio",
+    "dni_cliente": "70607883E",
+    "calle_cliente": "PLAZA MAYOR, 5 25691 -",
+    "cp_cliente": "47317",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DEL MONTSEC SL",
+    "cif_comercializadora": "B25267220",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28-enero-2004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "20/03/2912",
+    "fin_periodo": "29-diciembre-2003",
+    "importe_factura": "13,91",
+    "fecha_cargo": "20/04/3001",
+    "consumo_periodo": "32561",
+    "potencia_contratada": "4,071"
+}

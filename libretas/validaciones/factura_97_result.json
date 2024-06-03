@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Fermín Vívez Padilla",
+    "dni_cliente": "87730042S",
+    "calle_cliente": "PLAZA DEL AYUNTAMIENTO",
+    "cp_cliente": "18492",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÉCTRICA BENASQUE, S.L.",
+    "cif_comercializadora": "B22410286",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29-diciembre-2008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Granada",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-noviembre-2008",
+    "importe_factura": "19,88",
+    "fecha_cargo": "20/08/3112",
+    "consumo_periodo": "",
+    "potencia_contratada": "5,810"
+}

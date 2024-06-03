@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "96378571S",
+    "calle_cliente": "Calle de Jávea",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "VALENTINO LÁZARO LEYVA",
+    "cif_comercializadora": "F42212696",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "24/02/2002",
+    "fin_periodo": "25/04/2002",
+    "importe_factura": "216,42",
+    "fecha_cargo": "30/04/2002",
+    "consumo_periodo": "25/04/2002",
+    "potencia_contratada": "3,988"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Milagrosa Trujillo Olmeda",
+    "dni_cliente": "60074715A",
+    "calle_cliente": "Calle del Pintor Rivera",
+    "cp_cliente": "05021995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "IM3 ENERGIA SL",
+    "cif_comercializadora": "B75106500",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20600",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-febrero-1995",
+    "importe_factura": "36,65",
+    "fecha_cargo": "",
+    "consumo_periodo": "31785",
+    "potencia_contratada": "5,369"
+}

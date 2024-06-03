@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tecla Espino Gutiérrez",
+    "dni_cliente": "7ºD",
+    "calle_cliente": "Camino de Matalasgrajas",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SOCIETAT MUNICIPAL DE DISTRIBUCIO ELECTRICA",
+    "cif_comercializadora": "M-116715",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ZARAGOZA",
+    "número_factura": "",
+    "inicio_periodo": "13/12/2006",
+    "fin_periodo": "11/02/2007",
+    "importe_factura": "141,68",
+    "fecha_cargo": "16/02/2007",
+    "consumo_periodo": "11/02/2007",
+    "potencia_contratada": "4,901"
+}

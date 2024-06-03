@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FLAVIO VALDÉS JARAMILLO",
+    "dni_cliente": "61464175X",
+    "calle_cliente": "Av San Antonio Maria Claret",
+    "cp_cliente": "19227",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOM ENERGIA SCCL",
+    "cif_comercializadora": "F55091367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/01/0605",
+    "fecha_cargo": "20/01/0604",
+    "consumo_periodo": "C",
+    "potencia_contratada": "4,411"
+}

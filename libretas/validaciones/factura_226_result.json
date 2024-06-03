@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ana María Estévez Manzano",
+    "dni_cliente": "66845537Q",
+    "calle_cliente": "PLAZA MAYOR, 5 25691 -",
+    "cp_cliente": "10663",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DEL MONTSEC SL",
+    "cif_comercializadora": "B25267220",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24102013",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-octubre-2013",
+    "importe_factura": "24,81",
+    "fecha_cargo": "",
+    "consumo_periodo": "23122013",
+    "potencia_contratada": "3,665"
+}

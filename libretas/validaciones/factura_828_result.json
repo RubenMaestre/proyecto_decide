@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marlon Baños Galán",
+    "dni_cliente": "22984517L",
+    "calle_cliente": "CARRETERA DE SAN ADRIAN",
+    "cp_cliente": "18031998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADELFAS ENERGIA SL.",
+    "cif_comercializadora": "B26500231",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-marzo-1998",
+    "importe_factura": "16,47",
+    "fecha_cargo": "22 de abril de 1998",
+    "consumo_periodo": "62071",
+    "potencia_contratada": "4,753"
+}

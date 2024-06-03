@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Guía Montalbán Noble",
+    "dni_cliente": "31937558B",
+    "calle_cliente": "Calle Eje 11 31745 Ituren",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GÁLLEGO, S.L.",
+    "cif_comercializadora": "B22216725",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "06/05/2005",
+    "fin_periodo": "05/06/2005",
+    "importe_factura": "101,39",
+    "fecha_cargo": "10/06/2005",
+    "consumo_periodo": "05/06/2005",
+    "potencia_contratada": "5,193"
+}

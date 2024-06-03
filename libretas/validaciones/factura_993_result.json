@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Amanda Benítez Varela",
+    "dni_cliente": "56719070N",
+    "calle_cliente": "Calle de Valdegovia",
+    "cp_cliente": "27744",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  C CAMPANAR Nº41 POL.",
+    "cif_comercializadora": "B54985353",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03330",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "104,42",
+    "fecha_cargo": "",
+    "consumo_periodo": "11382",
+    "potencia_contratada": ""
+}

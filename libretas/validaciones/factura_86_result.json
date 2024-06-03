@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Imanol Silva Leandro",
+    "dni_cliente": "89483469Z",
+    "calle_cliente": "Travesia de la Calle Seis",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VIVA LUZ SOLUCIONES, S.L.",
+    "cif_comercializadora": "B66823881",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08350",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-noviembre-2009",
+    "importe_factura": "25,93",
+    "fecha_cargo": "20/10/1601",
+    "consumo_periodo": "34761",
+    "potencia_contratada": "3,786"
+}

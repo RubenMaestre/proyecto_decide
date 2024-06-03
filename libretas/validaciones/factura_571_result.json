@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Düsseldorf Alemania",
+    "dni_cliente": "65551783N",
+    "calle_cliente": "Lugar la Cepeda",
+    "cp_cliente": "04859",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "STATKRAFT MARKETS GMBH",
+    "cif_comercializadora": "DE204011192",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "858709950007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "38,59",
+    "fecha_cargo": "18 40547",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

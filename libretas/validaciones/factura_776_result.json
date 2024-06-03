@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HIDROELECTRICA DEL CABRERA,S L",
+    "dni_cliente": "98857285L",
+    "calle_cliente": "Plaza de la Sierra de Grazalema",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "PEREGRINA MANZANAL ALMENDÁREZ",
+    "cif_comercializadora": "B24373367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "25/02/2003",
+    "fin_periodo": "27/03/2003",
+    "importe_factura": "49,43",
+    "fecha_cargo": "01/04/2003",
+    "consumo_periodo": "27/03/2003",
+    "potencia_contratada": "4,034"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ZACARÍAS NOVOA CARVALLO",
+    "dni_cliente": "55313273K",
+    "calle_cliente": "CAMINO ALMALAFA, 375 12100 - GRAO DE CASTELLÓN",
+    "cp_cliente": "36457",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "COOP VALENCIANA ELECTRODISTRIBUIDORA DE FUERZA Y",
+    "cif_comercializadora": "F12057196",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12100",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-noviembre-2002",
+    "importe_factura": "25,22",
+    "fecha_cargo": "20/03/2701",
+    "consumo_periodo": "20/03/2501",
+    "potencia_contratada": "3,560"
+}

@@ -1,0 +1,45 @@
+{
+    "text": "Datos de la Factura El cliente, florian ayala savala, con DNI 32123459W, ha recibido la factura número placeholder_13 con referencia 6735292097611194. La fecha de emisión de la factura es placeholder_17. El periodo de facturación abarca desde el placeholder_14 hasta el placeholder_15, cubriendo un total de 30 días. La fecha de cargo es el 16 de junio de 2020. La empresa comercializadora responsable es placeholder_07, con CIF placeholder_08. Su dirección es placeholder_09, placeholder_10, placeholder_11, provincia placeholder_12. El cliente reside en Calle de Buenos Aires, CP 33696, población ajalvir, provincia zaragoza. La forma de pago es domiciliada. Consumo de Electricidad Durante el periodo de facturación, el consumo de electricidad se detalla a continuación. La evolución del consumo es de placeholder_18 kWh desde el 12 de mayo de 2020 al 11 de junio de 2020. La lectura anterior fue de 8958 kWh, mientras que la lectura actual fue de 9260 kWh, con un consumo de 302 kWh en el periodo. El consumo acumulado durante el último año es de x.xxx kWh. El reparto del consumo muestra que la mayor parte se ha realizado en el periodo llano. Importe de la Factura El importe total de la factura viene desglosado a continuación. El resumen de la factura y datos de pago indican que el importe por energía consumida es de 302 kWh x 0,266211 €/kWh. El destino del importe de su factura de 70,55 euros se desglosa de la siguiente manera: Importe por potencia contratada: 5,679 kW x 0,114399 €/kW x 30 días, totalizando 15,51€ Facturación por peaje de acceso: kw x 0,266211 €/kWh y año x 30 días, totalizando 80,40€ Otros importes incluyen el consumo llano de 302 kWh x 0,091475 €/kWh y los incentivos a las energías renovables, cogeneración y residuos, coste de redes de transporte y distribución, y otros costes regulados incluida la anualidad del déficit. El subtotal es de 100,81€. Importancia de la Factura de la Luz La factura de la luz no solo representa un registro de consumo energético, sino que también es un documento crucial que refleja el uso responsable y eficiente de la electricidad. Mantener un control sobre el consumo y entender los diferentes componentes de la factura ayuda a los clientes a tomar decisiones informadas para mejorar su eficiencia energética y reducir costos. Además, conocer la descomposición de los cargos y entender los diferentes términos y conceptos incluidos en la factura puede ser útil para identificar oportunidades de ahorro y contribuir a un consumo más sostenible. Información y Contacto Para cualquier urgencia, puede contactarnos al 900 101 061. Para reclamaciones sobre el contrato de suministro o facturaciones, puede dirigirse a la Consejería de Empleo, Industria y Comercio de su comunidad autónoma en el teléfono 928 XXX XXX. Para atención al cliente, consultas, gestiones y reclamaciones 24 horas, estamos a su disposición. Información de su producto, costes regulados, coste de producción de electricidad, impuestos aplicados, y destino del importe de la factura se detallan a continuación. Atención al Cliente Atentamente, Su comercializadora de confianza",
+    "entities": [
+        [
+            32,
+            52,
+            "nombre_cliente"
+        ],
+        [
+            62,
+            71,
+            "dni_cliente"
+        ],
+        [
+            556,
+            577,
+            "calle_cliente"
+        ],
+        [
+            582,
+            587,
+            "cp_cliente"
+        ],
+        [
+            599,
+            606,
+            "poblacion_cliente"
+        ],
+        [
+            618,
+            626,
+            "provincia_cliente"
+        ],
+        [
+            1393,
+            1398,
+            "importe_factura"
+        ],
+        [
+            1474,
+            1479,
+            "potencia_contratada"
+        ]
+    ]
+}

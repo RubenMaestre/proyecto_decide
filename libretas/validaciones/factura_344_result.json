@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "POLINICE MANZANO HERNÁNDEZ",
+    "dni_cliente": "89409390H",
+    "calle_cliente": "Calle de Caleruega",
+    "cp_cliente": "18041999",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOLAR EAAS, S.L.",
+    "cif_comercializadora": "B88639059",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28691",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-abril-1999",
+    "importe_factura": "15,23",
+    "fecha_cargo": "23 de mayo de 1999",
+    "consumo_periodo": "35140",
+    "potencia_contratada": "4,568"
+}

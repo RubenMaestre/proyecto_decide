@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MILTON ROJAS CASAS",
+    "dni_cliente": "63381059M",
+    "calle_cliente": "Calle Encerradillas",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "FACTOR ENERGÍA ESPAÑA, S.A.",
+    "cif_comercializadora": "A62943600",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "37892",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-julio-2020",
+    "importe_factura": "15,94",
+    "fecha_cargo": "",
+    "consumo_periodo": "78010",
+    "potencia_contratada": "4,700"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mimi Vela Figueras",
+    "dni_cliente": "52229481T",
+    "calle_cliente": "Calle Jaralón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ISMAEL BIOSCA, S.L. 559069986650",
+    "cif_comercializadora": "B25823006",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "09/12/2006",
+    "fin_periodo": "08/01/2007",
+    "importe_factura": "60,23",
+    "fecha_cargo": "13/01/2007",
+    "consumo_periodo": "08/01/2007",
+    "potencia_contratada": "5,945"
+}

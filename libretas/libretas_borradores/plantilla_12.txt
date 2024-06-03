@@ -1,0 +1,9 @@
+factura de la luz
+
+el cliente, placeholder_01, con dni placeholder_02, ha recibido la factura numero placeholder_13. la fecha de emision es placeholder_17, cubriendo el periodo de consumo desde placeholder_14 hasta placeholder_15. la fecha de cargo es el 11 de julio de 2020. la empresa comercializadora es placeholder_07, con cif placeholder_08, domiciliada en placeholder_09, placeholder_10 placeholder_11, provincia placeholder_12. el cliente reside en placeholder_03, cp placeholder_04, poblacion placeholder_05, provincia placeholder_06.
+
+el consumo durante el periodo fue de placeholder_18 kwh. detalles: el importe total de la factura es de placeholder_16, con placeholder_19 kw de potencia contratada a un precio de 0,116699 /kw por 60 dias. el impuesto de electricidad es 3,80 y el alquiler de equipos de medida es 1,06. el igic reducido de 10% es 7,82.
+
+el titular del contrato es con nif placeholder_02. la direccion de suministro es placeholder_06. el contrato finaliza el placeholder_15 y se renueva automaticamente. el cups es es8499131146833801qoqh. el tipo de contrato es pvpc sin discriminacion horaria.
+
+para consultas y reclamaciones, contacte al 900 103 601 o al email atencionalcliente@tuempresacomercializadora.com.

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Fiorela Acuña Escamilla",
+    "dni_cliente": "14024853M",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ELECTRICA SEROSENSE, S.L.",
+    "cif_comercializadora": "B25051947",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lérida",
+    "número_factura": "",
+    "inicio_periodo": "09/01/2015",
+    "fin_periodo": "10/03/2015",
+    "importe_factura": "227,40",
+    "fecha_cargo": "15/03/2015",
+    "consumo_periodo": "10/03/2015",
+    "potencia_contratada": "2,882"
+}

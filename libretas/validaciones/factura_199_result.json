@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALFONSA AMADOR FIERRO",
+    "dni_cliente": "10104712F",
+    "calle_cliente": "PLAZA DE LA GESTA, Nº2",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EDP ESPAÑA, S.A",
+    "cif_comercializadora": "A33473752",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "11/10/2015",
+    "fin_periodo": "09/12/2015",
+    "importe_factura": "36,03",
+    "fecha_cargo": "14/12/2015",
+    "consumo_periodo": "09/12/2015",
+    "potencia_contratada": "2,918"
+}

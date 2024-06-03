@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Humberto Vívez Lández",
+    "dni_cliente": "37457508F",
+    "calle_cliente": "PLAZA AVIADOR RUIZ DE ALDA, 11",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "NODEX CONNECTING S.L",
+    "cif_comercializadora": "B90206566",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "13/10/2001",
+    "fin_periodo": "12/11/2001 30 días  ",
+    "importe_factura": "144,25",
+    "fecha_cargo": "17/11/2001",
+    "consumo_periodo": "93351",
+    "potencia_contratada": "2,770"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Archibaldo Lines Bautista",
+    "dni_cliente": "36277645K",
+    "calle_cliente": "CALLE PORTUGAL 14",
+    "cp_cliente": "10081998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ATENCO ENERGIA SL",
+    "cif_comercializadora": "B76366723",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-agosto-1998",
+    "importe_factura": "32,43",
+    "fecha_cargo": "14 de octubre de 1998",
+    "consumo_periodo": "79252",
+    "potencia_contratada": "4,704"
+}

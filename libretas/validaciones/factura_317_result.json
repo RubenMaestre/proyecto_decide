@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leonilda Hernández Daniel",
+    "dni_cliente": "27809776Q",
+    "calle_cliente": "Paseo Joaquín Ruiz Jiménez",
+    "cp_cliente": "35508",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "XENERA COMPAÑÍA ELECTRICA, S.A.",
+    "cif_comercializadora": "A94071727",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-mayo-2015",
+    "importe_factura": "38,32",
+    "fecha_cargo": "",
+    "consumo_periodo": "03072015",
+    "potencia_contratada": "5,679"
+}

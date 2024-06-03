@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ISABELA PÁRAMO MAGALLÓN",
+    "dni_cliente": "81639437V",
+    "calle_cliente": "Calle de Antonio González",
+    "cp_cliente": "05121991",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LORCA ENERGIA, S.L.",
+    "cif_comercializadora": "B73977464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30880",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-enero-1992",
+    "importe_factura": "11,00",
+    "fecha_cargo": "09 de enero de 1992",
+    "consumo_periodo": "54466",
+    "potencia_contratada": "3,206"
+}

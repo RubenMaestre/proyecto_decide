@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SOLANA PEÑA ESCOTO",
+    "dni_cliente": "80353767R",
+    "calle_cliente": "Calle Francisco Inglott Artiles 36309 Oia",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B98516693",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "12/06/1994",
+    "fin_periodo": "11/08/1994",
+    "importe_factura": "213,96",
+    "fecha_cargo": "16/08/1994",
+    "consumo_periodo": "11/08/1994",
+    "potencia_contratada": "4,582"
+}

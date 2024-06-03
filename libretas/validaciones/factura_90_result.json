@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Adelina Rosas Lombardo",
+    "dni_cliente": "05072014 60",
+    "calle_cliente": "Viale Regina Margherita, 125",
+    "cp_cliente": "07072014",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENEL TRADE S.P.A.",
+    "cif_comercializadora": "5918271007",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "00198",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-mayo-2014",
+    "importe_factura": "24,70",
+    "fecha_cargo": "10 de julio de 2014",
+    "consumo_periodo": "26513",
+    "potencia_contratada": "3,693"
+}

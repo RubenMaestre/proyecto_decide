@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MILLÁN QUIJANO SALGADO",
+    "dni_cliente": "17311497H",
+    "calle_cliente": "",
+    "cp_cliente": "13071994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Párroco Villar Reina",
+    "cif_comercializadora": "B22216220",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22661",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-julio-1994",
+    "importe_factura": "13,52",
+    "fecha_cargo": "17 de agosto de 1994",
+    "consumo_periodo": "",
+    "potencia_contratada": "lista.phpNombreEnergC3ADas2"
+}

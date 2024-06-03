@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MARGAUX SANDOVAL GRANADA",
+    "dni_cliente": "82020085S",
+    "calle_cliente": "JUAN DE LA CIERVA 62 NAVE 5",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B42585141",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "ALICANTE",
+    "número_factura": "",
+    "inicio_periodo": "08/06/2014",
+    "fin_periodo": "08/07/2014 30 días  ",
+    "importe_factura": "206,88",
+    "fecha_cargo": "13/07/2014",
+    "consumo_periodo": "74124",
+    "potencia_contratada": "4,492"
+}

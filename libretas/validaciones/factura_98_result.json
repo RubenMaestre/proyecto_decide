@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Adán Dueñas Escalante",
+    "dni_cliente": "35544114Y",
+    "calle_cliente": "TORREJÓN DEL REY",
+    "cp_cliente": "25211",
+    "población_cliente": "",
+    "provincia_cliente": "REY Guadalajara",
+    "nombre_comercializadora": "HENARENERGIA SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B19317304",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "19174",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "130,65",
+    "fecha_cargo": "23 19174",
+    "consumo_periodo": "27124",
+    "potencia_contratada": ""
+}

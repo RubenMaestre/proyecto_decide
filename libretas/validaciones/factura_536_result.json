@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Velasco Venegas Galán",
+    "dni_cliente": "32568206E",
+    "calle_cliente": "Calle Sigüenza",
+    "cp_cliente": "10011994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MUNICIPAL DE SERVICIOS",
+    "cif_comercializadora": "B12820155",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12124",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-enero-1994",
+    "importe_factura": "16,68",
+    "fecha_cargo": "14 de febrero de 1994",
+    "consumo_periodo": "89848",
+    "potencia_contratada": "4,733"
+}

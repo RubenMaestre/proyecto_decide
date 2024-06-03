@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ivo Zavala Vargas",
+    "dni_cliente": "48424450C",
+    "calle_cliente": "Calle de Francisca de Torres Catalán",
+    "cp_cliente": "27072015",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDP CLIENTES SAU",
+    "cif_comercializadora": "A74472911",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-julio-2015",
+    "importe_factura": "18,31",
+    "fecha_cargo": "",
+    "consumo_periodo": "91816",
+    "potencia_contratada": "5,291"
+}

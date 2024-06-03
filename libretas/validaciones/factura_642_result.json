@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ZORAIDA ECHEVERRÍA TRAVIESO",
+    "dni_cliente": "81463553Z",
+    "calle_cliente": "Calle de Luis de Góngora",
+    "cp_cliente": "06031993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ZORAIDA ECHEVERRÍA TRAVIESO",
+    "cif_comercializadora": "F46004834",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06-marzo-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-mayo-1993",
+    "importe_factura": "27,50",
+    "fecha_cargo": "10 de mayo de 1993",
+    "consumo_periodo": "12611",
+    "potencia_contratada": "3,983"
+}

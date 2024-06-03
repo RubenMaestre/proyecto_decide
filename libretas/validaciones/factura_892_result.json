@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Galo Gámez Ureña",
+    "dni_cliente": "75609661J",
+    "calle_cliente": "Camino Rey",
+    "cp_cliente": "40517",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B98823933",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "186,77",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

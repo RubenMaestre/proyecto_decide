@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PATROCINIO JERANO",
+    "dni_cliente": "60475942H",
+    "calle_cliente": "Calle de San Victorino",
+    "cp_cliente": "48110",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B22411433",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22450",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "57,48",
+    "fecha_cargo": "17 de octubre de 2014",
+    "consumo_periodo": "19004",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SIBILA ALMENDÁREZ",
+    "dni_cliente": "32994688S",
+    "calle_cliente": "CARRETERA DE FRIOL 16",
+    "cp_cliente": "39506",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BIOWATIO COMERCIALIZADORA ENERGÉTICA SLU.",
+    "cif_comercializadora": "B27512417",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27297",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20/05/2508 30 días",
+    "importe_factura": "17,17",
+    "fecha_cargo": "20/05/2708",
+    "consumo_periodo": "33799",
+    "potencia_contratada": "5,025"
+}

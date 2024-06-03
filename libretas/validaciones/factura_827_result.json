@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Amapola Duarte Reyes",
+    "dni_cliente": "80063680J",
+    "calle_cliente": "AVENIDA DE PORTUGAL, 27 PLANTA 4, PUERTA",
+    "cp_cliente": "46007",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Valñncia",
+    "cif_comercializadora": "B26558056",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/05/0910",
+    "fin_periodo": "20/05/0812",
+    "importe_factura": "34,62",
+    "fecha_cargo": "",
+    "consumo_periodo": "25814",
+    "potencia_contratada": "5,119"
+}

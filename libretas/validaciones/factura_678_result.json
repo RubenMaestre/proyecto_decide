@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Blas Salgado Galán",
+    "dni_cliente": "85114117H",
+    "calle_cliente": "CARRETERA DE SAN ADRIAN",
+    "cp_cliente": "26111997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADELFAS ENERGIA SL.",
+    "cif_comercializadora": "B26500231",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46133",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-noviembre-1997",
+    "importe_factura": "32,62",
+    "fecha_cargo": "30 de enero de 1998",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,828"
+}

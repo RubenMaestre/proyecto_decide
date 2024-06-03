@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Iracema Baños Martínez",
+    "dni_cliente": "28930205T",
+    "calle_cliente": "Camino Viejo de El Escorial",
+    "cp_cliente": "17111997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SIGNO ENERGY, S.L.",
+    "cif_comercializadora": "B01804400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-noviembre-1997",
+    "importe_factura": "10,57",
+    "fecha_cargo": "22 de diciembre de 1997",
+    "consumo_periodo": "59906",
+    "potencia_contratada": "3,107"
+}

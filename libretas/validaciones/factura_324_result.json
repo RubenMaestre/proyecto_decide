@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Natalia Ramón Usaga",
+    "dni_cliente": "56262844Z",
+    "calle_cliente": "Calle Puerto del Padornelo",
+    "cp_cliente": "14022021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "UNIC GLOBAL-LOGISTICS, S.L.",
+    "cif_comercializadora": "B66277138",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08242",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "14-febrero-2021",
+    "importe_factura": "17,72",
+    "fecha_cargo": "",
+    "consumo_periodo": "19796",
+    "potencia_contratada": "5,210"
+}

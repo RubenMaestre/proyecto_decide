@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEODORO IBARRA BARRERA",
+    "dni_cliente": "69123215G",
+    "calle_cliente": "Cañada de Zahurdón 14650 Bujalance",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B25512641",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "06/01/2017",
+    "fin_periodo": "07/03/2017",
+    "importe_factura": "141,37",
+    "fecha_cargo": "12/03/2017",
+    "consumo_periodo": "07/03/2017",
+    "potencia_contratada": "atencionalclienteneoelectra.esindex.phpesservicio"
+}

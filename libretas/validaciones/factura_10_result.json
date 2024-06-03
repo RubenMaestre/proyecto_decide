@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LAUREANA PERALTA ACOSTA",
+    "dni_cliente": "33040846N",
+    "calle_cliente": "Calle de Sierra Gorda",
+    "cp_cliente": "33675",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B25267220",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25691",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "121,12",
+    "fecha_cargo": "05 de julio de 2017",
+    "consumo_periodo": "67565",
+    "potencia_contratada": ""
+}

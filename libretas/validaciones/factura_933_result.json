@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Florián Novo Ramírez",
+    "dni_cliente": "54783661F",
+    "calle_cliente": "PLAZA EUSKADI",
+    "cp_cliente": "30031995",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A95554630",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29051995",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-marzo-1995",
+    "importe_factura": "25,33",
+    "fecha_cargo": "29 de mayo de 1995",
+    "consumo_periodo": "30905",
+    "potencia_contratada": "2,789"
+}

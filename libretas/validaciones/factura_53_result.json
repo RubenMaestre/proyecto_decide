@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sándor Calleja Olmeda",
+    "dni_cliente": "65647521R",
+    "calle_cliente": "Calle de Santa Margarita",
+    "cp_cliente": "40569",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ASERVAL ENERGÍA, SL",
+    "cif_comercializadora": "B98625080",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46950",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "139,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "37987",
+    "potencia_contratada": ""
+}

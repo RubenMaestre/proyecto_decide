@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Romeo Morillo Quesada",
+    "dni_cliente": "20075343T",
+    "calle_cliente": "PASEO JOAN BRUDIEU, 17 25700 - SEO DE URGEL",
+    "cp_cliente": "197539",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "HIDROELÉCTRICA DEL VALIRA, S.L.",
+    "cif_comercializadora": "B25365180",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "20/10/2608",
+    "fin_periodo": "20/10/2510",
+    "importe_factura": "309,69",
+    "fecha_cargo": "",
+    "consumo_periodo": "31765",
+    "potencia_contratada": "3,612"
+}

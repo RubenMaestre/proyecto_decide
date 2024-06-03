@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Graciela Fonseca Montiel",
+    "dni_cliente": "43606802K",
+    "calle_cliente": "Calle de Jerónima Llorente",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "UNION FENOSA COMERCIAL, S.L.",
+    "cif_comercializadora": "B82207275",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "08/08/2000",
+    "fin_periodo": "07/10/2000",
+    "importe_factura": "355,70",
+    "fecha_cargo": "12/10/2000",
+    "consumo_periodo": "07/10/2000",
+    "potencia_contratada": "3,882"
+}

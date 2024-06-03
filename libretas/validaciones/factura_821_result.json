@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Venanci Barrera Zúñiga",
+    "dni_cliente": "49749345T",
+    "calle_cliente": "Calle de los Invencibles 49211 Carbellino",
+    "cp_cliente": "49211",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B66152851",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08221",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "50,80",
+    "fecha_cargo": "25 de agosto de 1991",
+    "consumo_periodo": "29193",
+    "potencia_contratada": ""
+}

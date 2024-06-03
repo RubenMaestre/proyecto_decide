@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ENERXIA GALEGA MAIS SLU.",
+    "dni_cliente": "11735159F",
+    "calle_cliente": "Calle de Natalia de Silva",
+    "cp_cliente": "04122016",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EVELIO SALINAS GODINES",
+    "cif_comercializadora": "B27266279",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27790",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-diciembre-2016",
+    "importe_factura": "13,00",
+    "fecha_cargo": "",
+    "consumo_periodo": "58459",
+    "potencia_contratada": "3,753"
+}

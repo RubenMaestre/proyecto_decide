@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Luna Cadenas Sagel",
+    "dni_cliente": "13646608H",
+    "calle_cliente": "Calle Cárabo",
+    "cp_cliente": "08112000",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALCANZIA ENERGIA, S.L.",
+    "cif_comercializadora": "B98373269",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "8,81",
+    "fecha_cargo": "13 de diciembre de 2000",
+    "consumo_periodo": "81419",
+    "potencia_contratada": "2,595"
+}

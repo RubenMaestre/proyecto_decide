@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Caín Roldán Montero",
+    "dni_cliente": "35436805S",
+    "calle_cliente": "Calle Juan Carlos Onetti",
+    "cp_cliente": "17031997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "APELES ELECTRICIDAD, SL.",
+    "cif_comercializadora": "B76654771",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38110",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-marzo-1997",
+    "importe_factura": "16,87",
+    "fecha_cargo": "21 de mayo de 1997",
+    "consumo_periodo": "47813",
+    "potencia_contratada": "2,507"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Francisco Javier Chávez Mantilla",
+    "dni_cliente": "74315109Q",
+    "calle_cliente": "Calle del Cantábrico",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B65711855",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "04/05/1991",
+    "fin_periodo": "03/06/1991",
+    "importe_factura": "93,80",
+    "fecha_cargo": "08/06/1991",
+    "consumo_periodo": "03/06/1991",
+    "potencia_contratada": "4,402"
+}

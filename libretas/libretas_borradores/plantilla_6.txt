@@ -1,0 +1,13 @@
+factura de la luz
+
+la empresa, placeholder_07, con cif placeholder_08, tiene su domicilio social en placeholder_09, placeholder_10 placeholder_11, provincia placeholder_12. el cliente, placeholder_01, reside en placeholder_03, cp placeholder_04, poblacion placeholder_05, provincia placeholder_06. la factura numero placeholder_13, cubre el periodo de consumo del placeholder_14 al placeholder_15, y la fecha de cargo esta programada para el placeholder_17.
+
+evolucion del consumo electrico: la lectura anterior fue de 76645 kwh, mientras que la lectura actual es de 76911 kwh, resultando en un consumo de placeholder_18 kwh. el consumo medio diario en este ultimo periodo ha sido de 0,xx kwh. el consumo acumulado del ultimo ano es de x.xxx kwh.
+
+detalles de la factura: el importe total es de placeholder_16, desglosado en peaje de acceso de 266 kwh x 0,119103 /kwh = 31,68 y coste de la energia de 266 kwh x 0,108910 /kwh = 28,97. por potencia contratada: placeholder_19 kw x 37,882512 /kw y ano = 13,13. impuesto de electricidad: 3,83 y alquiler de equipos de medida: 0,90.
+
+informacion del contrato: el titular es con nif placeholder_02. direccion de suministro: placeholder_03, cp placeholder_04, poblacion placeholder_05, provincia placeholder_06. tipo de contrato pvpc sin discriminacion horaria, con un contador inteligente y facturacion por consumo real horario. el cups es es7702834876833197hvrt.
+
+contacto y reclamaciones: para atencion al cliente, puede contactar al 900 525 241. en caso de averias y urgencias, al 900 850 832. para reclamaciones, enviar un correo a atencionalclienteledesmaenergia.com o llamar al 900 525 045. puntos de atencion cercanos en placeholder_11, madrid.
+
+notas adicionales: la compañia esta adherida al sistema arbitral de consumo. para mas informacion, estamos a su disposicion en el telefono del cliente 900 525 241. nuevas condiciones de aplicacion del bono social estan disponibles en nuestra pagina web.

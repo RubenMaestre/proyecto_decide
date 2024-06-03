@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dante Medina Cadenas",
+    "dni_cliente": "31902121V",
+    "calle_cliente": "PLAZA DE ESPAÑA, 1",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A57048332",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "20/08/2020",
+    "fin_periodo": "19/09/2020 30 días  ",
+    "importe_factura": "151,12",
+    "fecha_cargo": "24/09/2020",
+    "consumo_periodo": "8663",
+    "potencia_contratada": "3,299"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JONATHAN TABLADA CORRO",
+    "dni_cliente": "63087893C",
+    "calle_cliente": "Calle la Golondrina",
+    "cp_cliente": "30062017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALIA TRES COMERCIALIZADORA DE ENERGÍA, S.L.",
+    "cif_comercializadora": "B67046185",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30-junio-2017",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ávila",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-agosto-2017",
+    "importe_factura": "19,44",
+    "fecha_cargo": "03 de septiembre de 2017",
+    "consumo_periodo": "72496",
+    "potencia_contratada": "2,911"
+}

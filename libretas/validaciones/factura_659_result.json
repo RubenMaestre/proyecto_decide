@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mila Sandoval Ventura",
+    "dni_cliente": "26584444D",
+    "calle_cliente": "Camino de Cebadales",
+    "cp_cliente": "15530",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B85551273",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "212,81",
+    "fecha_cargo": "24 de septiembre de 1996",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

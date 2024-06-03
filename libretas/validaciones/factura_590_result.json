@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GRACIA REDONDO ROBLE",
+    "dni_cliente": "90862060P",
+    "calle_cliente": "Calle Pablo Penaguilas",
+    "cp_cliente": "17061995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LA UNIÓN ELECTRO INDUSTRIAL, S.L.U.",
+    "cif_comercializadora": "B30001770",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03330",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-junio-1995",
+    "importe_factura": "13,64",
+    "fecha_cargo": "22 de julio de 1995",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,879"
+}

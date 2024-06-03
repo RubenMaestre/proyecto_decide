@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leonora Báez Dávila",
+    "dni_cliente": "53000567B",
+    "calle_cliente": "Callejon del Capote",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "VIVA LUZ SOLUCIONES, S.L.",
+    "cif_comercializadora": "B66823881",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "09/04/1990",
+    "fin_periodo": "08/06/1990",
+    "importe_factura": "134,78",
+    "fecha_cargo": "13/06/1990",
+    "consumo_periodo": "08/06/1990",
+    "potencia_contratada": "3,771"
+}

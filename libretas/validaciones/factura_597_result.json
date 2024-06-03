@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OROSIA TRUJILLO BAÑOS",
+    "dni_cliente": "47235662X",
+    "calle_cliente": "Callejon de la Barranca",
+    "cp_cliente": "24081991",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B22350466",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "23091991",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-agosto-1991",
+    "importe_factura": "82,87",
+    "fecha_cargo": "28 de septiembre de 1991",
+    "consumo_periodo": "27070",
+    "potencia_contratada": "3,941"
+}

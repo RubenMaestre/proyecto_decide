@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Payo Palomar Galindo",
+    "dni_cliente": "82472462M",
+    "calle_cliente": "Calle de la Herrería",
+    "cp_cliente": "06184",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA Y COMERCIALIZACIÓN",
+    "cif_comercializadora": "B47770656",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "47015",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "DOMINGO DE SILOS, 11 1ºB,",
+    "fin_periodo": "13-febrero-2021",
+    "importe_factura": "24,71",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,782"
+}

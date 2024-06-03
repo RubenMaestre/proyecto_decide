@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NATALI GÁMEZ MARTÍNEZ",
+    "dni_cliente": "52311093P",
+    "calle_cliente": "Travesia Antonio Machado 27592 Monforte de Lemos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ALPIQ ENERGIA ESPAÑA SAU",
+    "cif_comercializadora": "A82405788",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "24/12/2001",
+    "fin_periodo": "sau.jsplecturas",
+    "importe_factura": "33,72",
+    "fecha_cargo": "27/02/2002",
+    "consumo_periodo": "22/02/2002",
+    "potencia_contratada": "4,319"
+}

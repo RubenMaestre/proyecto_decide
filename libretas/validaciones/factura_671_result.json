@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FERRER VELA MANZANAL",
+    "dni_cliente": "55949348P",
+    "calle_cliente": "PLAZA DE CUENCA, 1 16320 - TALAYUELAS",
+    "cp_cliente": "24379",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA TALAYUELAS S.L.",
+    "cif_comercializadora": "B16322042",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "16320",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "32,34",
+    "fecha_cargo": "",
+    "consumo_periodo": "3706",
+    "potencia_contratada": "4,839"
+}

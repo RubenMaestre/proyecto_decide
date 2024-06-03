@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OBERÓN SALA HEREDIA",
+    "dni_cliente": "68086907F",
+    "calle_cliente": "Calle de Ardales",
+    "cp_cliente": "11012019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INER ENERGIA CASTILLA LA MANCHA SL",
+    "cif_comercializadora": "B02494375",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-enero-2019",
+    "importe_factura": "23,60",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,394"
+}

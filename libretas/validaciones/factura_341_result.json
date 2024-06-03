@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TEODOSIA QUIJADA VILLAS",
+    "dni_cliente": "86803684M",
+    "calle_cliente": "Calle Prado de la Navata",
+    "cp_cliente": "15215",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "NATURGY IBERIA,",
+    "cif_comercializadora": "A08431090",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "19,89",
+    "fecha_cargo": "03 de octubre de 2002",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

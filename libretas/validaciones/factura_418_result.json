@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CONSTANZA SARDINAS NAVARO",
+    "dni_cliente": "15389665C",
+    "calle_cliente": "Calle Cipriano Sevillano",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B42544742",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "06/05/2000",
+    "fin_periodo": "05/07/2000",
+    "importe_factura": "227,60",
+    "fecha_cargo": "10/07/2000",
+    "consumo_periodo": "05/07/2000",
+    "potencia_contratada": "2,638"
+}

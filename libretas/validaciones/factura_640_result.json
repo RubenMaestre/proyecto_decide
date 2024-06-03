@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lavinia Merazo Doblado",
+    "dni_cliente": "86918629L",
+    "calle_cliente": "PLAZA EUSKADI",
+    "cp_cliente": "39805",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Lavinia Merazo Doblado",
+    "cif_comercializadora": "A95554630",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09071999",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-julio-1999",
+    "importe_factura": "26,68",
+    "fecha_cargo": "14 de julio de 1999",
+    "consumo_periodo": "5587",
+    "potencia_contratada": "3,877"
+}

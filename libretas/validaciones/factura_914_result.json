@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ROSELINA ESCOBEDO FARÍAS",
+    "dni_cliente": "40783324T",
+    "calle_cliente": "Carretera Particular de la Casa de los Hoyos",
+    "cp_cliente": "38869",
+    "población_cliente": "",
+    "provincia_cliente": "Santa Cruz de Tenerife",
+    "nombre_comercializadora": "LUCI MUNDI ENERGÍA, SL.",
+    "cif_comercializadora": "B98618614",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46780",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-septiembre-1999",
+    "importe_factura": "30,98",
+    "fecha_cargo": "",
+    "consumo_periodo": "43649",
+    "potencia_contratada": "4,670"
+}

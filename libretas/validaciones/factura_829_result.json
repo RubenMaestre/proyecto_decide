@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "DEDICACIÓN VALLEJO SOLER",
+    "dni_cliente": "57198629K",
+    "calle_cliente": "Avenida Cuarta",
+    "cp_cliente": "42225",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA POPULAR, S. COOP.",
+    "cif_comercializadora": "F28201374",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28540",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-noviembre-2008",
+    "importe_factura": "21,78",
+    "fecha_cargo": "20/09/2201",
+    "consumo_periodo": "20/09/2001",
+    "potencia_contratada": "3,125"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BARCLAYS BANK PLC",
+    "dni_cliente": "17307479W",
+    "calle_cliente": "Calle de los Abetos",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "BARCLAYS BANK PLC.",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "18/07/1995",
+    "fin_periodo": "17/08/1995",
+    "importe_factura": "54,17",
+    "fecha_cargo": "22/08/1995",
+    "consumo_periodo": "17/08/1995",
+    "potencia_contratada": "3,855"
+}

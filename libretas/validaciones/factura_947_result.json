@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JADE CHÁVEZ PEÑA",
+    "dni_cliente": "44864376R",
+    "calle_cliente": "Calle Jaen",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "REGULADA, GAS POWER, S.A.",
+    "cif_comercializadora": "A65067332",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "17/05/1994",
+    "fin_periodo": "16/06/1994",
+    "importe_factura": "57,25",
+    "fecha_cargo": "21/06/1994",
+    "consumo_periodo": "16/06/1994",
+    "potencia_contratada": "5,945"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Moctezuma Cabeza Becerril",
+    "dni_cliente": "69377483F",
+    "calle_cliente": "Calle Juan Apóstol",
+    "cp_cliente": "33935",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÍA EUROPEAS",
+    "cif_comercializadora": "B73778516",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30100",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-julio-2010",
+    "importe_factura": "21,90",
+    "fecha_cargo": "20/10/2607",
+    "consumo_periodo": "20/10/2409",
+    "potencia_contratada": "3,223"
+}

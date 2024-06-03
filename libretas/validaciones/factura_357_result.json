@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Tarsicio Fierro Domínguez",
+    "dni_cliente": "11825211Z",
+    "calle_cliente": "Jardines de Manuel González Carmona",
+    "cp_cliente": "36876",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ZERO ELECTRUM SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B55161400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17244",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-julio-2003",
+    "importe_factura": "33,73",
+    "fecha_cargo": "20/03/2109",
+    "consumo_periodo": "20/03/1909",
+    "potencia_contratada": "5,056"
+}

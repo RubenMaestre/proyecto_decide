@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "COVADONGA BASTIDA SOTELO",
+    "dni_cliente": "14191135C",
+    "calle_cliente": "Calle Vencejo",
+    "cp_cliente": "29370",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA SERRANIA DE RONDA",
+    "cif_comercializadora": "B93158293",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "225,04",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "31-julio-2012",
+    "importe_factura": "20,63",
+    "fecha_cargo": "20/12/3107",
+    "consumo_periodo": "20/12/2909",
+    "potencia_contratada": "3,020"
+}

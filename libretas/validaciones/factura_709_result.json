@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Faustino Vivas Padilla",
+    "dni_cliente": "55146563S",
+    "calle_cliente": "Calle de los Frailes",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LLUM DAIN SL 682476511992",
+    "cif_comercializadora": "A61293387",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "21/08/1999",
+    "fin_periodo": "20/09/1999 30 días  ",
+    "importe_factura": "219,02",
+    "fecha_cargo": "25/09/1999",
+    "consumo_periodo": "50604",
+    "potencia_contratada": "4,673"
+}

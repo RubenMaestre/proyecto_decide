@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TABARÉ CHAVIRA MARTÍNEZ",
+    "dni_cliente": "43412974Z",
+    "calle_cliente": "Calle de Manuel Pavia",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "MADRILEÑA SUMINISTRO DE GAS,",
+    "cif_comercializadora": "B65142333",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "06/02/2011",
+    "fin_periodo": "08/03/2011 30 días  ",
+    "importe_factura": "78,95",
+    "fecha_cargo": "13/03/2011",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,540"
+}

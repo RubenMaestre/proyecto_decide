@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vlademir Escoto Solís",
+    "dni_cliente": "61314237D",
+    "calle_cliente": "social MACIA BONAPLATA, 1",
+    "cp_cliente": "13400",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "A17651829",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "32,55",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

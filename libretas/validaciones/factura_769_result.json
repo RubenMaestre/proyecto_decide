@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Andrea Rueda Cornejo",
+    "dni_cliente": "89256022Z",
+    "calle_cliente": "Calle del Tucán",
+    "cp_cliente": "21031991",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "F46004768",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "20051991",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-marzo-1991",
+    "importe_factura": "226,55",
+    "fecha_cargo": "25 de mayo de 1991",
+    "consumo_periodo": "54938",
+    "potencia_contratada": "4,872"
+}

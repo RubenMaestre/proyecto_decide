@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Orquídea Silva Carvajal",
+    "dni_cliente": "68126741M",
+    "calle_cliente": "PLAZA DEL AYUNTAMIENTO, 1 25595 -",
+    "cp_cliente": "41702",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "SOCIETAT MUNICIPAL DE DISTRIBUCIÓ ELECTRICA DE TIRVIA, S.L.",
+    "cif_comercializadora": "B25583147",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25595",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "20/08/2810",
+    "fin_periodo": "20/08/2711",
+    "importe_factura": "35,45",
+    "fecha_cargo": "02 de diciembre de 2008",
+    "consumo_periodo": "13813",
+    "potencia_contratada": "3,755"
+}

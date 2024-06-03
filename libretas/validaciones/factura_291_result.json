@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FEBE SOL SUÁREZ",
+    "dni_cliente": "39912033H",
+    "calle_cliente": "Lugar Salomón y tras el Río",
+    "cp_cliente": "33812",
+    "población_cliente": "",
+    "provincia_cliente": "Ciudad Real",
+    "nombre_comercializadora": "ROMERO ABREU HERMANOS, S.L.",
+    "cif_comercializadora": "B11000783",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "11140",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cádiz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "79,29",
+    "fecha_cargo": "",
+    "consumo_periodo": "68984",
+    "potencia_contratada": ""
+}

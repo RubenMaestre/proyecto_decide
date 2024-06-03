@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BENEDICTA LUGO",
+    "dni_cliente": "53946302D",
+    "calle_cliente": "Calle Piamonte",
+    "cp_cliente": "32899",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "NATURGY IBERIA,",
+    "cif_comercializadora": "A08431090",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "99,92",
+    "fecha_cargo": "25 de enero de 1999",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

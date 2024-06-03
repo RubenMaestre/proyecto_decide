@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Teodosia Altamirano Calles",
+    "dni_cliente": "86403250R",
+    "calle_cliente": "Lugar la Finca La Olmedilla",
+    "cp_cliente": "50550",
+    "población_cliente": "",
+    "provincia_cliente": "Mallén",
+    "nombre_comercializadora": "RECICLAJES ECOLOGICOS CHANDUY,S.L.",
+    "cif_comercializadora": "B67605584",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08810",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "20/09/2601",
+    "fin_periodo": "20/09/2502",
+    "importe_factura": "27,38",
+    "fecha_cargo": "25 de febrero de 2009",
+    "consumo_periodo": "23552",
+    "potencia_contratada": "3,557"
+}

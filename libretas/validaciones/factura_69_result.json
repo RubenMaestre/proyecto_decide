@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Minos Bonilla Parra",
+    "dni_cliente": "47088651S",
+    "calle_cliente": "PLAZA PABLO RUIZ PICASSO NUM 1 28020 - MADRID",
+    "cp_cliente": "03051994",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "WOMWAT ENERGY S.L",
+    "cif_comercializadora": "B87993937",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02071994",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-mayo-1994",
+    "importe_factura": "157,04",
+    "fecha_cargo": "07 de julio de 1994",
+    "consumo_periodo": "20967",
+    "potencia_contratada": "4,091"
+}

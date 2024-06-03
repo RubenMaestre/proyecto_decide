@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GERMAIN DONATO MILANÉS",
+    "dni_cliente": "71027486J",
+    "calle_cliente": "Calle Manzano",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B37572617",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "28/05/1999",
+    "fin_periodo": "27/07/1999",
+    "importe_factura": "145,45",
+    "fecha_cargo": "01/08/1999",
+    "consumo_periodo": "27/07/1999",
+    "potencia_contratada": "5,394"
+}

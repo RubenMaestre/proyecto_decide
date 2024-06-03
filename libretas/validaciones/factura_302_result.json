@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Arquímedes Barba Bautista",
+    "dni_cliente": "93121468B",
+    "calle_cliente": "Rotonda Albert Einstein 36658",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "EXPORT INNOVATION GROUP, S.L.",
+    "cif_comercializadora": "B66286634",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "27/07/2010",
+    "fin_periodo": "25/09/2010",
+    "importe_factura": "267,26",
+    "fecha_cargo": "30/09/2010",
+    "consumo_periodo": "25/09/2010",
+    "potencia_contratada": "5,107"
+}

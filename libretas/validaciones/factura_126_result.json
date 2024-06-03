@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Primo Aguirre Velásquez",
+    "dni_cliente": "96652465W",
+    "calle_cliente": "PASEO DEL VIOLÓN 25 LOCAL",
+    "cp_cliente": "03051993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOLAR EUROPE ANDALUCIA S.L.",
+    "cif_comercializadora": "B18831842",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "18006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-mayo-1993",
+    "importe_factura": "68,09",
+    "fecha_cargo": "06 de mayo de 1993",
+    "consumo_periodo": "89922",
+    "potencia_contratada": "2,495"
+}

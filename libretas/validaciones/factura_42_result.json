@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lujan Verti Grijalba",
+    "dni_cliente": "90803879V",
+    "calle_cliente": "Calle Narváez",
+    "cp_cliente": "21042013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LUZÍA ENERGÍA, S.L.",
+    "cif_comercializadora": "B90332776",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41927",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-febrero-2013",
+    "importe_factura": "33,03",
+    "fecha_cargo": "",
+    "consumo_periodo": "45811",
+    "potencia_contratada": "4,772"
+}

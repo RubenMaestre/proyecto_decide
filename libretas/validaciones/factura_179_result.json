@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "YASMINA RIVERA GALÁN",
+    "dni_cliente": "43163389W",
+    "calle_cliente": "Carretera de Andalucía",
+    "cp_cliente": "13345",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ZERO ELECTRUM SOCIEDAD LIMITADA.",
+    "cif_comercializadora": "B55161400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06-agosto-2008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-julio-2008",
+    "importe_factura": "15,61",
+    "fecha_cargo": "20/08/0808",
+    "consumo_periodo": "93133",
+    "potencia_contratada": "4,685"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Altea Chavira Baños",
+    "dni_cliente": "14941277V",
+    "calle_cliente": "Ronda Valdezarza",
+    "cp_cliente": "21021998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "REGULADA, GAS POWER, S.A.",
+    "cif_comercializadora": "A65067332",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28033",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-febrero-1998",
+    "importe_factura": "16,12",
+    "fecha_cargo": "27 de abril de 1998",
+    "consumo_periodo": "67740",
+    "potencia_contratada": "2,329"
+}

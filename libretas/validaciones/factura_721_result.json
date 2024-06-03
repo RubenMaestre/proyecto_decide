@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JAIRO MOLLEDA HUERTA",
+    "dni_cliente": "57531550V",
+    "calle_cliente": "Calle de Jiménez Díaz",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "REPSOL GENERACIÓN ELÉCTRICA S.A.U.",
+    "cif_comercializadora": "A62733126",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "21/07/1995",
+    "fin_periodo": "20/08/1995",
+    "importe_factura": "20,86",
+    "fecha_cargo": "25/08/1995",
+    "consumo_periodo": "20/08/1995",
+    "potencia_contratada": "3,129"
+}

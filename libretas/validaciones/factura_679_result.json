@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mohamed Baca Palomar",
+    "dni_cliente": "56119503D",
+    "calle_cliente": "Calle Sebastián de Belalcázar",
+    "cp_cliente": "19051995",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA NTRA SRA DE GRACIA SDAD",
+    "cif_comercializadora": "F03013356",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03410",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "18-marzo-1995",
+    "importe_factura": "21,45",
+    "fecha_cargo": "22 de mayo de 1995",
+    "consumo_periodo": "4861",
+    "potencia_contratada": "3,195"
+}

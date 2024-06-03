@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rocío Guardiola Noble",
+    "dni_cliente": "86764622C",
+    "calle_cliente": "Lugar Valdesquí",
+    "cp_cliente": "05122017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NORTELECTRICA ENERGIA SL",
+    "cif_comercializadora": "B25829904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-diciembre-2017",
+    "importe_factura": "15,20",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,330"
+}

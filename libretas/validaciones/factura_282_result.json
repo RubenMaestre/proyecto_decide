@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Higinio Merazo Juárez",
+    "dni_cliente": "87227452K",
+    "calle_cliente": "AVENIDA DE AMERICA 18",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A42785949",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "22/10/1999",
+    "fin_periodo": "21/12/1999",
+    "importe_factura": "103,07",
+    "fecha_cargo": "26/12/1999",
+    "consumo_periodo": "21/12/1999",
+    "potencia_contratada": "1,906"
+}

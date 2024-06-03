@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FLORIÁN AYALA SAVALA",
+    "dni_cliente": "73537616S",
+    "calle_cliente": "Finca la Nava M-137",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "MERCURIA ENERGY TRADING, S.A.",
+    "cif_comercializadora": "CHE116348521",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "13/07/2007",
+    "fin_periodo": "12/08/2007 30 días  ",
+    "importe_factura": "90,64",
+    "fecha_cargo": "17/08/2007",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,686"
+}

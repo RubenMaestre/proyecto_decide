@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Gail Varga Román",
+    "dni_cliente": "88844864G",
+    "calle_cliente": "Lugar Viviendas en Cuevas Torres",
+    "cp_cliente": "03051997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ANOTHER ENERGY OPTION, S.L.",
+    "cif_comercializadora": "B93267300",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-mayo-1997",
+    "importe_factura": "28,70",
+    "fecha_cargo": "07 de julio de 1997",
+    "consumo_periodo": "73256",
+    "potencia_contratada": "4,176"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Raimundo Ulloa Perdomo",
+    "dni_cliente": "53056122K",
+    "calle_cliente": "Travesia San Andrés",
+    "cp_cliente": "02042021",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B40178550",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "01-junio-2021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-abril-2021",
+    "importe_factura": "135,27",
+    "fecha_cargo": "",
+    "consumo_periodo": "82149",
+    "potencia_contratada": "5,610"
+}

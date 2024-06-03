@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Eric Cuesta Salvado",
+    "dni_cliente": "14657135V",
+    "calle_cliente": "Calle Costura",
+    "cp_cliente": "27786",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.  PUERTO DE BEJAR 22",
+    "cif_comercializadora": "B01804400",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "129,07",
+    "fecha_cargo": "17 de diciembre de 2014",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

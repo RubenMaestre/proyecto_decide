@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "RUFINO FRAGA PINO",
+    "dni_cliente": "18796498R",
+    "calle_cliente": "Calle del Triunfo",
+    "cp_cliente": "15149",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "THE YELLOW ENERGY, S.L",
+    "cif_comercializadora": "B66027731",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08014",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "314,86",
+    "fecha_cargo": "24 de octubre de 2008",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

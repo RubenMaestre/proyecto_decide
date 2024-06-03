@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "XENIA GAYTÁN",
+    "dni_cliente": "22493778P",
+    "calle_cliente": "Calle de Villapalacios",
+    "cp_cliente": "11190",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "CONSTELLATION ENERGY COMMODITIES GROUP LIMITED, SUCURSAL",
+    "cif_comercializadora": "N0060091F",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08034",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BARCELONA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "199,66",
+    "fecha_cargo": "29 de febrero de 1992",
+    "consumo_periodo": "46337",
+    "potencia_contratada": ""
+}

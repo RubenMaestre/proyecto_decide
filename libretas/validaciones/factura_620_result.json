@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PABLO ARRIAGA OVIEDO",
+    "dni_cliente": "51188595W",
+    "calle_cliente": "PLAZA DEL GAS",
+    "cp_cliente": "26071992",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "NATURGY ENERGY GROUP, S.A.",
+    "cif_comercializadora": "A08015497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-junio-1992",
+    "importe_factura": "14,04",
+    "fecha_cargo": "29 de julio de 1992",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,137"
+}

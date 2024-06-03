@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Washington Vargas Lamas",
+    "dni_cliente": "53098638X",
+    "calle_cliente": "PASEO DE LA ESTACIÓN MÉDICO MANUEL SAMPER",
+    "cp_cliente": "25592",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DE CALLOSA DE SEGURA",
+    "cif_comercializadora": "F03013331",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "32-BJ 03360",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-febrero-2012",
+    "importe_factura": "34,68",
+    "fecha_cargo": "20/12/0103",
+    "consumo_periodo": "20/12/2802",
+    "potencia_contratada": "5,110"
+}

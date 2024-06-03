@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Felicitas Gaytán Fuentes",
+    "dni_cliente": "16431657C",
+    "calle_cliente": "Calle de Peal",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B36000917",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "12/02/2000",
+    "fin_periodo": "13/03/2000",
+    "importe_factura": "54,20",
+    "fecha_cargo": "18/03/2000",
+    "consumo_periodo": "13/03/2000",
+    "potencia_contratada": "4,234"
+}

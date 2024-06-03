@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Yamil Collado Alanis",
+    "dni_cliente": "40634665J",
+    "calle_cliente": "Calle de la Escuela",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "S.L.U.",
+    "cif_comercializadora": "B25378779",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "03/02/1994",
+    "fin_periodo": "05/03/1994",
+    "importe_factura": "111,28",
+    "fecha_cargo": "10/03/1994",
+    "consumo_periodo": "05/03/1994",
+    "potencia_contratada": "3,312"
+}

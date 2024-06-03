@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Nazarena Báez Montalbán",
+    "dni_cliente": "69421059K",
+    "calle_cliente": "BAHNHOFQUAI, 12",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "CHE105974401MWST",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "11/05/2004",
+    "fin_periodo": "10/07/2004",
+    "importe_factura": "223,39",
+    "fecha_cargo": "15/07/2004",
+    "consumo_periodo": "10/07/2004",
+    "potencia_contratada": "4,555"
+}

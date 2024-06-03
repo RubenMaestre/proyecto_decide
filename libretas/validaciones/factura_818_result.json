@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FE MOSCOA",
+    "dni_cliente": "46486349Z",
+    "calle_cliente": "Urbanizacion la Dehesa Boyal",
+    "cp_cliente": "09061993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TRACTAMENT I SELECCIÓ DE RESIDUS,",
+    "cif_comercializadora": "A08800880",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "4323",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-mayo-1993",
+    "importe_factura": "14,36",
+    "fecha_cargo": "",
+    "consumo_periodo": "39911",
+    "potencia_contratada": "4,186"
+}

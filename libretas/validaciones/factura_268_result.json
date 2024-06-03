@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Edna Oviedo Seballos",
+    "dni_cliente": "86278396Z",
+    "calle_cliente": "Camino de Robledondo",
+    "cp_cliente": "34309",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGY BY COGEN SL-UNIPERSONAL-",
+    "cif_comercializadora": "B85634350",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28660",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-junio-2009",
+    "importe_factura": "20/09/0507",
+    "fecha_cargo": "20/09/0506",
+    "consumo_periodo": "10264",
+    "potencia_contratada": "3,517"
+}

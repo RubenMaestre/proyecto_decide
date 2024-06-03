@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Branca Torre Manzanal",
+    "dni_cliente": "10469191M",
+    "calle_cliente": "Calle Colada de Pozuelo",
+    "cp_cliente": "05061997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INNOVACION ENERGIA DEL NORTE SL",
+    "cif_comercializadora": "B32487548",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "32990",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-mayo-1997",
+    "importe_factura": "15,90",
+    "fecha_cargo": "",
+    "consumo_periodo": "72671",
+    "potencia_contratada": "4,539"
+}

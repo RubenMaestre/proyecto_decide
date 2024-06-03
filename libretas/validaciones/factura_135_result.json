@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Peregrina Páez Becerril",
+    "dni_cliente": "13772783S",
+    "calle_cliente": "Camino del Pintado",
+    "cp_cliente": "19224",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TRACTAMENT I SELECCIÓ DE RESIDUS,",
+    "cif_comercializadora": "A08800880",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08930",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-febrero-2020",
+    "importe_factura": "32,70",
+    "fecha_cargo": "",
+    "consumo_periodo": "76259",
+    "potencia_contratada": "4,847"
+}

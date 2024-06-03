@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MERRIL LYNCH COMMODITIES EUROPE LIMITED",
+    "dni_cliente": "85320949B",
+    "calle_cliente": "Calle de Porto Lagos",
+    "cp_cliente": "19442",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "MARGOT RUBÍN ORTIZ",
+    "cif_comercializadora": "GB245122493",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "01-junio-2007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "20/07/0205",
+    "fin_periodo": "02-mayo-2007",
+    "importe_factura": "20/07/0106",
+    "fecha_cargo": "20/07/0306",
+    "consumo_periodo": "33518",
+    "potencia_contratada": "4,287"
+}

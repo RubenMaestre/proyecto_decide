@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "BKW ENERGIE AG  VIKTORIAPLATZ 3",
+    "dni_cliente": "54037097T",
+    "calle_cliente": "Camino de las Costezuelas",
+    "cp_cliente": "40175",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "BKW ENERGIE AG",
+    "cif_comercializadora": "CHE103258498",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "281,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "13361",
+    "potencia_contratada": ""
+}

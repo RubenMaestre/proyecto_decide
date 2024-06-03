@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FUENSANTA VALDÉS TRAVIESO",
+    "dni_cliente": "97381799Y",
+    "calle_cliente": "Calle de Manuel de Falla",
+    "cp_cliente": "08552",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGYA VM GESTION DE ENERGÍA, S.L",
+    "cif_comercializadora": "B83393066",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28042",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "28,44",
+    "fecha_cargo": "",
+    "consumo_periodo": "79037",
+    "potencia_contratada": "4,306"
+}

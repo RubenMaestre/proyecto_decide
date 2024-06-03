@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MYRIAN VÁSQUEZ LOMBARDO",
+    "dni_cliente": "96301872K",
+    "calle_cliente": "Carretera a Entrepinos 05358 San Juan de la Encinilla",
+    "cp_cliente": "05358",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "MYRIAN VÁSQUEZ LOMBARDO",
+    "cif_comercializadora": "B71196463",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "31620",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "16,82",
+    "fecha_cargo": "10 de abril de 1997",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

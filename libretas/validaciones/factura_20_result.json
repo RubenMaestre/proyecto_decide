@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Román Rubín Jerano",
+    "dni_cliente": "15716699V",
+    "calle_cliente": "Plaza de San Alberto",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GESSELLSCHAFT LAUFENBURG AG",
+    "cif_comercializadora": "CH243039",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "27/04/2018",
+    "fin_periodo": "27/05/2018 30 días  ",
+    "importe_factura": "19,43",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,375"
+}

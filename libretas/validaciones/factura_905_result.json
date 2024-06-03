@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ali Darío Fernández",
+    "dni_cliente": "51502701C",
+    "calle_cliente": "PASEO DEL CLUB DEPORTIVO, 1 BL.11 BAJO",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "TARRAGONA, S.L.",
+    "cif_comercializadora": "B83682245",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "24/09/2000",
+    "fin_periodo": "24/10/2000 30 días  ",
+    "importe_factura": "41,49",
+    "fecha_cargo": "29/10/2000",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,161"
+}

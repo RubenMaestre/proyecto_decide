@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "HOSANA LUCAS ANAYA",
+    "dni_cliente": "26366746Y",
+    "calle_cliente": "Camino de Zaga la Huerta",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B85551273",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "26/06/2001",
+    "fin_periodo": "25/08/2001",
+    "importe_factura": "244,06",
+    "fecha_cargo": "30/08/2001",
+    "consumo_periodo": "25/08/2001",
+    "potencia_contratada": "HOSANA"
+}

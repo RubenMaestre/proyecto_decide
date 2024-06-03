@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "INDRO SOL VIVAS",
+    "dni_cliente": "59638328H",
+    "calle_cliente": "Calle Doctor del Juan de Padilla",
+    "cp_cliente": "29011994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "RONDA OESTE ENERGÍA, S.L.",
+    "cif_comercializadora": "B37500238",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-enero-1994",
+    "importe_factura": "38,98",
+    "fecha_cargo": "",
+    "consumo_periodo": "92868",
+    "potencia_contratada": "2,281"
+}

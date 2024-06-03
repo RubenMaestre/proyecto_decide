@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ADRIÁN ESCAMILLA MACHADO",
+    "dni_cliente": "56615989V",
+    "calle_cliente": "PLAZA EUSKADI",
+    "cp_cliente": "19273",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A95554630",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "20/08/2401",
+    "fin_periodo": "20/08/2403",
+    "importe_factura": "49,97",
+    "fecha_cargo": "",
+    "consumo_periodo": "64476",
+    "potencia_contratada": "2,086"
+}

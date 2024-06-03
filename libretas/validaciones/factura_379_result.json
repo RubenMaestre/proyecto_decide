@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Milagros Hidalgo Montero",
+    "dni_cliente": "22615912N",
+    "calle_cliente": "EDIFICIO REY DE BAEZA, 5ºA 50003 - ZARAGOZA",
+    "cp_cliente": "26101996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SYDER COMERCIALIZADORA VERDE",
+    "cif_comercializadora": "B99275851",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "25-agosto-1996",
+    "importe_factura": "23,42",
+    "fecha_cargo": "29 de octubre de 1996",
+    "consumo_periodo": "94354",
+    "potencia_contratada": "3,439"
+}

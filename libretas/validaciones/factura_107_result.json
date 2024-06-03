@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LÁZARO VELARDE",
+    "dni_cliente": "45182207H",
+    "calle_cliente": "Calle de la Guayaba",
+    "cp_cliente": "30749",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "APELES ELECTRICIDAD, SL.",
+    "cif_comercializadora": "B76654771",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38110",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-octubre-2004",
+    "importe_factura": "26,15",
+    "fecha_cargo": "20/04/0212",
+    "consumo_periodo": "20/04/3011",
+    "potencia_contratada": "3,813"
+}

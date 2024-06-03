@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PELAGIA VENEGAS BARRIENTOS",
+    "dni_cliente": "19218582N",
+    "calle_cliente": "Rotonda Gregorio Toledo Rodríguez Doctor",
+    "cp_cliente": "07092021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "PELAGIA VENEGAS BARRIENTOS",
+    "cif_comercializadora": "B99567364",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-agosto-2021",
+    "importe_factura": "15,23",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,393"
+}

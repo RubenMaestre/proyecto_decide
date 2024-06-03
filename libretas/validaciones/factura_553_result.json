@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AGAPITO CADENAS LÁZARO",
+    "dni_cliente": "65454149J",
+    "calle_cliente": "Calle Ventorrillo",
+    "cp_cliente": "30387",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ASISTENCIA ENERGETICA, S.L.",
+    "cif_comercializadora": "B84898659",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28036",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Murcia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-septiembre-2007",
+    "importe_factura": "19,65",
+    "fecha_cargo": "20/07/0409",
+    "consumo_periodo": "20/07/0311",
+    "potencia_contratada": "2,859"
+}

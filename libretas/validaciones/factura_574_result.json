@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vidal Meza Hierro",
+    "dni_cliente": "19009976Q",
+    "calle_cliente": "Plaza de Jaime Meric",
+    "cp_cliente": "47131",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F46025136",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46026",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "21,12",
+    "fecha_cargo": "30 de julio de 1994",
+    "consumo_periodo": "22200",
+    "potencia_contratada": ""
+}

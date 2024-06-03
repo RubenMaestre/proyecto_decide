@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JACOBA DOMÍNGUEZ PALADINO",
+    "dni_cliente": "25592057A",
+    "calle_cliente": "CALLE ESCULTOR JOSE CAPUZ Nº1 PUERTA",
+    "cp_cliente": "24101997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B98583115",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-octubre-1997",
+    "importe_factura": "65,84",
+    "fecha_cargo": "",
+    "consumo_periodo": "44698",
+    "potencia_contratada": "2,702"
+}

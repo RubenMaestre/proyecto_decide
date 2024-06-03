@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lucio Losada Marcías",
+    "dni_cliente": "88093454G",
+    "calle_cliente": "PLAZA EGIDO",
+    "cp_cliente": "08640",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EFI DUERO ENERGY SOCIEDAD COOP",
+    "cif_comercializadora": "F37560554",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "37173",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-diciembre-1993",
+    "importe_factura": "26,29",
+    "fecha_cargo": "23 de febrero de 1994",
+    "consumo_periodo": "76972",
+    "potencia_contratada": "3,711"
+}

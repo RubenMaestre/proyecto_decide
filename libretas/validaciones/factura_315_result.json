@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Prometeo Guillén Medina",
+    "dni_cliente": "11202911W",
+    "calle_cliente": "Calle de Joaquín Belón",
+    "cp_cliente": "17061997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "GALP ENERGÍA ESPAÑA, S.A.U.",
+    "cif_comercializadora": "A28559573",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28108",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-junio-1997",
+    "importe_factura": "18,85",
+    "fecha_cargo": "",
+    "consumo_periodo": "16796",
+    "potencia_contratada": "5,529"
+}

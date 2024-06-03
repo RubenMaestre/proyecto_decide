@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Emilio Cevallos Perdomo",
+    "dni_cliente": "20711498K",
+    "calle_cliente": "PASEO DE LA CASTELLANA 259-D, PLANTA",
+    "cp_cliente": "37590",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VILLAR MIR ENERGÍA,S.L.",
+    "cif_comercializadora": "B85253888",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28046",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "11-noviembre-1995",
+    "importe_factura": "27,96",
+    "fecha_cargo": "",
+    "consumo_periodo": "10541",
+    "potencia_contratada": "4,096"
+}

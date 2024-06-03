@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Teofanía Padilla Mantilla",
+    "dni_cliente": "77741419Q",
+    "calle_cliente": "Camino de la Cerca de los Pinos",
+    "cp_cliente": "01062018",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "GASILUZ ECO ENERCIA S.L.",
+    "cif_comercializadora": "B70609136",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "15174",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-junio-2018",
+    "importe_factura": "42,59",
+    "fecha_cargo": "",
+    "consumo_periodo": "26152",
+    "potencia_contratada": "4,743"
+}

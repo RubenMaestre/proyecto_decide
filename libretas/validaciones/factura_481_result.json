@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Filomena Roldán Seballos",
+    "dni_cliente": "18803839M",
+    "calle_cliente": "PLAZA DEL GAS",
+    "cp_cliente": "14911",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "NATURGY ENERGY GROUP, S.A.",
+    "cif_comercializadora": "A08015497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Córdoba",
+    "número_factura": "",
+    "inicio_periodo": "20/04/1107",
+    "fin_periodo": "20/04/0909",
+    "importe_factura": "220,81",
+    "fecha_cargo": "14 de septiembre de 2004",
+    "consumo_periodo": "97863",
+    "potencia_contratada": "2,792"
+}

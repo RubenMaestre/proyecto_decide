@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EMILIO DOBLADO ORTIZ",
+    "dni_cliente": "55403313Q",
+    "calle_cliente": "Calle Huerta del Peral",
+    "cp_cliente": "06891",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41920",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "73,70",
+    "fecha_cargo": "04 de julio de 1991",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

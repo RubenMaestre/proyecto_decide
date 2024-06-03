@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ERNESTINA BONILLA MENESES",
+    "dni_cliente": "51636234S",
+    "calle_cliente": "Calle Rafela de las Casas G",
+    "cp_cliente": "02011990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HIDROELECTRICA DE SILLEDA SL",
+    "cif_comercializadora": "B81997439",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-enero-1990",
+    "importe_factura": "12,08",
+    "fecha_cargo": "06 de febrero de 1990",
+    "consumo_periodo": "",
+    "potencia_contratada": "atencionalclientehidroelectricasilleda.co"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Marilyn Caldera Rangel",
+    "dni_cliente": "32252759C",
+    "calle_cliente": "Paseo Asturias",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A87705471",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cádiz",
+    "número_factura": "",
+    "inicio_periodo": "02/01/2021",
+    "fin_periodo": "01/02/2021",
+    "importe_factura": "283,11",
+    "fecha_cargo": "06/02/2021",
+    "consumo_periodo": "01/02/2021",
+    "potencia_contratada": "atencionalclientevive-energia.com"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Enriqueta Trujillo Llano",
+    "dni_cliente": "48135884N",
+    "calle_cliente": "Calle Prado Calabozo",
+    "cp_cliente": "08022017",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BASSOLS ENERGIA COMERCIAL, S.L",
+    "cif_comercializadora": "B17653213",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "7465",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "08-diciembre-2016",
+    "importe_factura": "29,11",
+    "fecha_cargo": "",
+    "consumo_periodo": "06022017",
+    "potencia_contratada": "4,162"
+}

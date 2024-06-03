@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Rutilio Ivañez Correa",
+    "dni_cliente": "75282991N",
+    "calle_cliente": "Calle Río Ardila",
+    "cp_cliente": "32971",
+    "población_cliente": "",
+    "provincia_cliente": "LLEIDA",
+    "nombre_comercializadora": "MONTOLIU DE LLEIDA S.L.U",
+    "cif_comercializadora": "B25813767",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25172",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "LLEIDA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "82,08",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

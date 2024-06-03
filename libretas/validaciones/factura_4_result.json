@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PANTALEÓN VELASCO DE ALBA",
+    "dni_cliente": "",
+    "calle_cliente": "Calle del Rayo",
+    "cp_cliente": "02150",
+    "población_cliente": "",
+    "provincia_cliente": "Valdeganga",
+    "nombre_comercializadora": "COMERCIALITZADORA, S.L.U.",
+    "cif_comercializadora": "B55697650",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43420",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "QUERALT",
+    "número_factura": "",
+    "inicio_periodo": "20/10/0409",
+    "fin_periodo": "20/10/0311",
+    "importe_factura": "61,84",
+    "fecha_cargo": "",
+    "consumo_periodo": "43165369",
+    "potencia_contratada": "4,554"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "José Manuel Linares Alcocer",
+    "dni_cliente": "29992783R",
+    "calle_cliente": "Avenida del Prado Bastero",
+    "cp_cliente": "07012013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "WEGO ENERGY, S.L.",
+    "cif_comercializadora": "B98953177",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-enero-2013",
+    "importe_factura": "36,64",
+    "fecha_cargo": "",
+    "consumo_periodo": "16967",
+    "potencia_contratada": "5,290"
+}

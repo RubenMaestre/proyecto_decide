@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "10133757A",
+    "calle_cliente": "Calle de Pardo Bazán",
+    "cp_cliente": "39491",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "Febe Navaro",
+    "cif_comercializadora": "A85677466",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28760",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "55,83",
+    "fecha_cargo": "22 de diciembre de 2007",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

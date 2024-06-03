@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MANUEL PERLES VICENS SL",
+    "dni_cliente": "43772230X",
+    "calle_cliente": "Calle del Arroyo Valdecelada",
+    "cp_cliente": "26586",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "TARSICIO ALZATE NOVO",
+    "cif_comercializadora": "A22194856",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22300",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huesca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "135,44",
+    "fecha_cargo": "05 de septiembre de 2014",
+    "consumo_periodo": "47961",
+    "potencia_contratada": ""
+}

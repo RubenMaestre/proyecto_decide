@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Edison Lafuente Vallejo",
+    "dni_cliente": "21460467H",
+    "calle_cliente": "",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "F46027298",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "04/10/1998",
+    "fin_periodo": "03/12/1998",
+    "importe_factura": "250,62",
+    "fecha_cargo": "08/12/1998",
+    "consumo_periodo": "03/12/1998",
+    "potencia_contratada": "3,938"
+}

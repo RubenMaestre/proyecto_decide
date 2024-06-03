@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "",
+    "calle_cliente": "",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "datos de la factura factura importe factura factura 61,84 61,84 61,84 € nº factura factura nx1033830468 nx1033830468 nx1033830468 nx1033830468 nx1033830468 nx1033830468 nx1033830468 nx1033830468 referencia 7494408339851041 7494408339851041 7494408339851041 7494408339851041 7494408339851041 7494408339851041 7494408339851041 7494408339851041 7494408339851041 periodo de consumo 04092010 04092010 04092010 a 03112010 03112010 03112010 03112010 fecha de cargo 08 de noviembre de 2010 electrica electrica municipal de santa coloma coloma de queralt queralt , comercialitzadora comercialitzadora comercialitzadora , s.l.u s.l.u s.l.u s.l.u s.l.u . cif cif b55697650 b55697650 b55697650 b55697650 b55697650 b55697650 plaza major , 1 43420 43420 santa coloma coloma de queralt queralt pantaleón pantaleón pantaleón velasco velasco de alba calle del rayo rayo 02150 02150 valdeganga valdeganga valdeganga albacete albacete albacete por potencia contratada contratada por energía consumida consumida consumida impuesto impuesto electricidad electricidad alquiler alquiler alquiler equipos de medida y control igic igic reducido reducido 10 31,94 31,94 31,94 € 21,48 21,48 21,48 € 2,73 2,73 2,73 € 0,06 0,06 0,06 € 5,62 5,62 5,62 € igic igic normal 10 0,01 0,01 0,01 € . total importe factura factura 61,84 61,84 61,84 € información del consumo eléctrico consumo en el periodo llano llano de 0h 0h a 24h 24h . lectura anterior kwh kwh kwh evolución del consumo 420 360 74060 74060 kwh kwh kwh real 300 04septiembre2010 04septiembre2010 04septiembre2010 04septiembre2010 04septiembre2010 . lectura actual 240 180 74178 74178 74178 kwh kwh kwh real 120 03noviembre2010 03noviembre2010 03noviembre2010 03noviembre2010 . consumo 60 118 kwh kwh kwh 0 en el periodo ene mar mar may jun jun jun jun ago sep sep oct oct nov dic dic ene feb feb mar 19 19 19 19 19 19 19 19 19 19 19 20 20 20 consumo real consumo estimado estimado media su consumo medio diario en el periodo facturado facturado ha sido de x , xx € su consumo medio diario en los últimos 14 meses ha sido de x , xx € su consumo acumulado acumulado del último año ha sido de x.xxx x.xxx x.xxx x.xxx kwh kwh kwh fecha emisión factura factura 05 de noviembre de 2010 titular del contrato pantaleón pantaleón pantaleón velasco velasco de alba nif nif 43165369 43165369 43165369 43165369 g dirección de suministro suministro suministro calle del rayo rayo , valdeganga valdeganga valdeganga , albacete albacete albacete peaje peaje de acceso 2.0dha 2.0dha 2.0dha 2.0dha número de contador contador 716373317 716373317 716373317 716373317 716373317 potencia contratada contratada 4,554 4,554 4,554 kw kw referencia del contrato de suministro suministro suministro 6100531689237 6100531689237 6100531689237 6100531689237 6100531689237 6100531689237 6100531689237 6100531689237 referencia del contrato de acceso eléctrica conquense conquense conquense distribución s.a s.a s.a . 369408111609 369408111609 369408111609 369408111609 369408111609 369408111609 369408111609 fecha fin de contrato 03 de noviembre de 2010 renovación renovación anual automática automática código unificado unificado de punto de suministro suministro suministro cups cups es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven es8033331751331644aven tipo de contador contador contador contador inteligente inteligente inteligente facturación facturación facturación por consumo real horario horario . . electrica electrica municipal de santa coloma coloma de queralt queralt , comercialitzadora comercialitzadora comercialitzadora , s.l.u s.l.u s.l.u s.l.u s.l.u .",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

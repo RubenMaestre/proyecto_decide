@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Manolo Manzanal Ocampo",
+    "dni_cliente": "38433149B",
+    "calle_cliente": "Finca Valdemera",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "LESTACIO",
+    "cif_comercializadora": "B98729486",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "24/08/1998",
+    "fin_periodo": "9-3-3",
+    "importe_factura": "90,26",
+    "fecha_cargo": "28/09/1998",
+    "consumo_periodo": "23/09/1998",
+    "potencia_contratada": "atencionalclienteplena-energia.com"
+}

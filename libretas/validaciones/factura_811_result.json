@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ÁGUEDA VELARDE IBÁÑEZ",
+    "dni_cliente": "72546836Y",
+    "calle_cliente": "CALLE TEMPLE, 25 08911 - BADALONA",
+    "cp_cliente": "24166",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LOVE ENERGY, S.L.",
+    "cif_comercializadora": "B67604157",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17-octubre-2003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-septiembre-2003",
+    "importe_factura": "127,50",
+    "fecha_cargo": "20/03/1910",
+    "consumo_periodo": "39651",
+    "potencia_contratada": "2,447"
+}

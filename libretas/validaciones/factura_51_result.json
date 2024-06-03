@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Poncio Batalla Paz",
+    "dni_cliente": "89683781L",
+    "calle_cliente": "Calle de Blandón",
+    "cp_cliente": "17465",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALDRO ZERO S.L.",
+    "cif_comercializadora": "B39872775",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "39313",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "29,18",
+    "fecha_cargo": "20/10/0102",
+    "consumo_periodo": "20/10/0204",
+    "potencia_contratada": "4,299"
+}

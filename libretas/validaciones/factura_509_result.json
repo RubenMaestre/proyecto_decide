@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Justa Ordóñez Cardoso",
+    "dni_cliente": "53118001F",
+    "calle_cliente": "Calle José Luis Paniagua Tebar 44511",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "F46004750",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "electricaguadassuar.ecsocial.com.mobi",
+    "número_factura": "",
+    "inicio_periodo": "21/09/2000",
+    "fin_periodo": "21/10/2000",
+    "importe_factura": "39,56",
+    "fecha_cargo": "26/10/2000",
+    "consumo_periodo": "21/10/2000",
+    "potencia_contratada": "3,924"
+}

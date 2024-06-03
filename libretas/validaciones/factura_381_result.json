@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Kolman Naranjo Ponce",
+    "dni_cliente": "27076441J",
+    "calle_cliente": "Calle de Federico García Sanchiz",
+    "cp_cliente": "22587",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SOLVAY ENERGY SERVICES IBÉRICA, S.L.",
+    "cif_comercializadora": "B64757602",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28020",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "28,83",
+    "fecha_cargo": "05 de abril de 2000",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALBA CUEVAS ALCOCER",
+    "dni_cliente": "21871284D",
+    "calle_cliente": "Calle Gutierrez Solana",
+    "cp_cliente": "12012019",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELEKTRIZITÄTS-GESSELLSCHAFT LAUFENBURG AG.",
+    "cif_comercializadora": "CH243039",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "8953",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "12-enero-2019",
+    "importe_factura": "22,46",
+    "fecha_cargo": "",
+    "consumo_periodo": "33758",
+    "potencia_contratada": "3,276"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EVELIO TRIGUERO ZAVALA",
+    "dni_cliente": "70806308A",
+    "calle_cliente": "Calle del Iridio",
+    "cp_cliente": "18490",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L.U.  C VELAZQUEZ Nº4 - 1º",
+    "cif_comercializadora": "B87166435",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "276,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

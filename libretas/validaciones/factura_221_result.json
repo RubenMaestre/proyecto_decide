@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Aránzazu Martínez Falcón",
+    "dni_cliente": "77379725C",
+    "calle_cliente": "Travesia del Cerro del Aire 31291 Guirguillano",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B24373367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "18/11/2014",
+    "fin_periodo": "17/01/2015",
+    "importe_factura": "123,29",
+    "fecha_cargo": "22/01/2015",
+    "consumo_periodo": "17/01/2015",
+    "potencia_contratada": "4,095"
+}

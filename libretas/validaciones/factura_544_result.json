@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Arquímedes Funez Cervantes",
+    "dni_cliente": "89979769C",
+    "calle_cliente": "Calle el Pedregal",
+    "cp_cliente": "28492",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SLU",
+    "cif_comercializadora": "B94133535",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36670",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "103,45",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

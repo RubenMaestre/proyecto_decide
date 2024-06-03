@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jorgelina Castellanos Ramírez",
+    "dni_cliente": "75814043V",
+    "calle_cliente": "Calle del Pintor",
+    "cp_cliente": "23269",
+    "población_cliente": "",
+    "provincia_cliente": "Jaén",
+    "nombre_comercializadora": "HIDROBESORA SERVICIOS, S.L.",
+    "cif_comercializadora": "B12979605",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12161",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "20/10/0108",
+    "fin_periodo": "20/10/3009",
+    "importe_factura": "25,30",
+    "fecha_cargo": "",
+    "consumo_periodo": "20640",
+    "potencia_contratada": "3,780"
+}

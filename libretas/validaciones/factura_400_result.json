@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CELINA GUZMÁN ZACARÍAS",
+    "dni_cliente": "31022136N",
+    "calle_cliente": "Calle Asia",
+    "cp_cliente": "49024",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DISTRIBUIDORA ELÈCTRICA",
+    "cif_comercializadora": "B25467887",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25171",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-febrero-2004",
+    "importe_factura": "10,70",
+    "fecha_cargo": "20/04/2003",
+    "consumo_periodo": "97880",
+    "potencia_contratada": "3,196"
+}

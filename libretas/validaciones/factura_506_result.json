@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Hildegunda Sandino Paredes",
+    "dni_cliente": "88658937D",
+    "calle_cliente": "Calle Pino Ojeda Pintora-Poeta",
+    "cp_cliente": "01071990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "POWER WATT ENERGY ISLAND, SL",
+    "cif_comercializadora": "B76299627",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "30-abril-1990",
+    "importe_factura": "27,35",
+    "fecha_cargo": "04 de julio de 1990",
+    "consumo_periodo": "32405",
+    "potencia_contratada": "4,010"
+}

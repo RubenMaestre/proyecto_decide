@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Gea Gayoso Solana",
+    "dni_cliente": "19242515W",
+    "calle_cliente": "Camino de la Cañada Juan Gato",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRA CUNTIENSE, SL",
+    "cif_comercializadora": "B36350361",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41927",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Sevilla",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-enero-2001",
+    "importe_factura": "30,77",
+    "fecha_cargo": "20/01/0703",
+    "consumo_periodo": "20/01/0503",
+    "potencia_contratada": "4,440"
+}

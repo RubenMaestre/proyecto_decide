@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Titular SIGRID OSPINO HURTADO",
+    "dni_cliente": "50026814C",
+    "calle_cliente": "MARQUES DE LA AHUMADA, 5",
+    "cp_cliente": "44115",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "SIGRID OSPINO HURTADO",
+    "cif_comercializadora": "B88628573",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "MADRID",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "92,52",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

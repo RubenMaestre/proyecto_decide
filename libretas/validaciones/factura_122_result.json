@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ozana Alcázar Murillo",
+    "dni_cliente": "63343450R",
+    "calle_cliente": "Calle Acacia",
+    "cp_cliente": "43459",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "PULSAR SERVICIOS ENERGÉTICOS, S.L.",
+    "cif_comercializadora": "B91794941",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41920",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-enero-2012",
+    "importe_factura": "12,89",
+    "fecha_cargo": "20/12/1802",
+    "consumo_periodo": "31350",
+    "potencia_contratada": "3,741"
+}

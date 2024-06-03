@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "GABRIELA SALAZAR MAURER",
+    "dni_cliente": "71694254B",
+    "calle_cliente": "Calle Salou 07469 Pollença",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B06748446",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "BADAJOZ",
+    "número_factura": "",
+    "inicio_periodo": "19/12/2002",
+    "fin_periodo": "17/02/2003",
+    "importe_factura": "159,62",
+    "fecha_cargo": "22/02/2003",
+    "consumo_periodo": "17/02/2003",
+    "potencia_contratada": "5,370"
+}

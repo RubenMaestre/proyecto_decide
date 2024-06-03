@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JOAQUIN GARCIA MORATO",
+    "dni_cliente": "65329473C",
+    "calle_cliente": "Calle de Collado",
+    "cp_cliente": "47209",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "TERAMELCOR SL",
+    "cif_comercializadora": "B52031168",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "52006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "376,60",
+    "fecha_cargo": "15 de julio de 2000",
+    "consumo_periodo": "",
+    "potencia_contratada": "52006"
+}

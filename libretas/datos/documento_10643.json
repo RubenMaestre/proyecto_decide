@@ -1,0 +1,35 @@
+{
+    "text": "Factura de Energía Datos Principales: Cliente: sigrid ospino hurtado DNI: 23467890T Factura N°: placeholder_13 Referencia: 7063934636513628 Fecha de Emisión: placeholder_17 Periodo de Facturación: Desde el placeholder_14 hasta el placeholder_15 (60 días) Fecha de Cargo: 19 de marzo de 2018 Información de la Empresa: La compañía placeholder_07, identificada con CIF placeholder_08, tiene su domicilio en placeholder_09, placeholder_10, placeholder_11, placeholder_12. Si desea atención personalizada, puede visitar nuestros centros o consultar en nuestra página web. Detalles de Consumo: Durante este periodo, el consumo de energía se ha distribuido de la siguiente manera: Consumo en el periodo llano: placeholder_18 kWh Lectura anterior: 23114 kWh (13 de enero de 2018) Lectura actual: 23360 kWh (14 de marzo de 2018) Consumo total: 246 kWh Resumen de Importes: Potencia contratada: placeholder_19 kW Precio por kW: 0,113668 €/kW día Importe: 65,63 € Energía consumida: Precio por kWh: 0,266783 €/kWh Importe: 18,21 € Otros conceptos: Impuesto de electricidad: 4,29 € Alquiler de equipos de medida y control: 2,68 € IGIC reducido (10%): 8,81 € IGIC normal (7%): 0,19 € Total a pagar: placeholder_16 € Información Adicional: Nuestro servicio de atención al cliente está disponible 24 horas para consultas, gestiones y reclamaciones. Llámenos al 900 649 062 o visite nuestra web para más información. Datos del Contrato: Dirección de suministro: calle de san victorino, 12315, castell-platja d'aro, santa cruz de tenerife Número de contador: 716373317 CUPS: ES7425796885725250OBEN Comercializadora: Su entidad comercializadora de luz Distribuidora: Electro Distribución de Almodóvar del Campo SA Referencia del contrato de acceso: 924599018933 Peaje de acceso: 2.0A Fin de contrato: Renovación anual automática Impacto Ambiental: La energía comercializada por nuestra empresa tiene un impacto ambiental evaluado en una escala. Consulte el desglose del origen de la electricidad en nuestra web. Facilitando la Comprensión de su Factura de la Luz En nuestra compañia, nos esforzamos por hacer que la comprensión de su factura de la luz sea lo más sencilla y clara posible. Hemos estructurado la información de manera que pueda ver fácilmente los detalles de su consumo y los importes asociados. Esto le permite tener un control más preciso sobre su gasto energético y tomar decisiones informadas para optimizar su consumo.",
+    "entities": [
+        [
+            47,
+            68,
+            "nombre_cliente"
+        ],
+        [
+            74,
+            83,
+            "dni_cliente"
+        ],
+        [
+            1447,
+            1469,
+            "calle_cliente"
+        ],
+        [
+            1471,
+            1476,
+            "cp_cliente"
+        ],
+        [
+            1478,
+            1498,
+            "poblacion_cliente"
+        ],
+        [
+            1500,
+            1522,
+            "provincia_cliente"
+        ]
+    ]
+}

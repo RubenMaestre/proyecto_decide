@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Antolina Cevallos Santos",
+    "dni_cliente": "29900651F",
+    "calle_cliente": "Calle Cándido Soto González",
+    "cp_cliente": "36460",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SOM ENERGIA SCCL",
+    "cif_comercializadora": "F55091367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-marzo-2004",
+    "importe_factura": "15,94",
+    "fecha_cargo": "20/04/1604",
+    "consumo_periodo": "C",
+    "potencia_contratada": "4,618"
+}

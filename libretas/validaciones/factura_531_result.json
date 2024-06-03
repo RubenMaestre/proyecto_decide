@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PATROCLO VILLEDA OLIVARES",
+    "dni_cliente": "63819990G",
+    "calle_cliente": "Calle de Suintila",
+    "cp_cliente": "18071996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TERAMELCOR SL",
+    "cif_comercializadora": "B52031168",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "52006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cantabria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-mayo-1996",
+    "importe_factura": "14,92",
+    "fecha_cargo": "21 de julio de 1996",
+    "consumo_periodo": "81250",
+    "potencia_contratada": "2,163"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Salvino Sandino Valenzuela",
+    "dni_cliente": "15972179J",
+    "calle_cliente": "Plaza del Portillo Romero",
+    "cp_cliente": "17200",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "EUROPEA DE ENERGIA LIMPIA, S.L.",
+    "cif_comercializadora": "B76361393",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "170111",
+    "fecha_cargo": "",
+    "consumo_periodo": "49465",
+    "potencia_contratada": ""
+}

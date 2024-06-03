@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NAZARENA LOMBARDO ECHEVERRÍA",
+    "dni_cliente": "89072857K",
+    "calle_cliente": "PASEO MILICIAS DE GARACHICO 1, EDIF.",
+    "cp_cliente": "20121994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INSIGNIA ENERGIA SL",
+    "cif_comercializadora": "B76615970",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "38002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "CRUZ DE TENERIFE",
+    "fin_periodo": "18-febrero-1995",
+    "importe_factura": "19,58",
+    "fecha_cargo": "23 de febrero de 1995",
+    "consumo_periodo": "69745",
+    "potencia_contratada": "2,942"
+}

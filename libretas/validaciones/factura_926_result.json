@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Patroclo Lacayo Ivañez",
+    "dni_cliente": "16380700P",
+    "calle_cliente": "Calle de Oreja",
+    "cp_cliente": "28042013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DREUE ELECTRIC, S.L.U",
+    "cif_comercializadora": "B98202237",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46980",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "28-abril-2013",
+    "importe_factura": "26,12",
+    "fecha_cargo": "02 de julio de 2013",
+    "consumo_periodo": "69358",
+    "potencia_contratada": "3,910"
+}

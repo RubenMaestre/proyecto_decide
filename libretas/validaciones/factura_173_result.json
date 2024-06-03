@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "AMADOR MALTÉS ZÚÑIGA",
+    "dni_cliente": "67548065D",
+    "calle_cliente": "Calle Ribatajada",
+    "cp_cliente": "43559",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ELEKTRIZITÄTS-GESSELLSCHAFT LAUFENBURG AG",
+    "cif_comercializadora": "CH243039",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "8953",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "153,24",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Estanislao Hurtado Villaseñor",
+    "dni_cliente": "18906998D",
+    "calle_cliente": "Calle la Travesía 31860",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SHELL ESPAÑA, S.A",
+    "cif_comercializadora": "A28013522",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "30/03/2002",
+    "fin_periodo": "29/04/2002 30 días  ",
+    "importe_factura": "54,83",
+    "fecha_cargo": "04/05/2002",
+    "consumo_periodo": "11975",
+    "potencia_contratada": "5,461"
+}

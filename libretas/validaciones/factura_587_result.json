@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ana Belén Maduro Zavaleta",
+    "dni_cliente": "43633342L",
+    "calle_cliente": "Camino de Robledo de Chavela a la Cereda",
+    "cp_cliente": "22193",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "CENTRICA ENERGY TRADING, S.A.",
+    "cif_comercializadora": "DK20293195",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "101,94",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

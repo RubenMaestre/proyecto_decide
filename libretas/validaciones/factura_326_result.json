@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Hernando Granados Sala",
+    "dni_cliente": "62168909R",
+    "calle_cliente": "PASEO SANTA MARÍA DE LA CABEZA, 21 28045 - MADRID",
+    "cp_cliente": "27081994",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERGÉTICA, S.A.",
+    "cif_comercializadora": "A81798480",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "27-agosto-1994",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "26-octubre-1994",
+    "importe_factura": "18,27",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,720"
+}

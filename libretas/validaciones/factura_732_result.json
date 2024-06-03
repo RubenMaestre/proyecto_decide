@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEONIDAS CALDERA PÁRAMO",
+    "dni_cliente": "97601382P",
+    "calle_cliente": "S.L.  C COLON, 14",
+    "cp_cliente": "38296",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "MELIANA, S.L. 5506965302688",
+    "cif_comercializadora": "B98196249",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46133",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "266,18",
+    "fecha_cargo": "14 de febrero de 2001",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

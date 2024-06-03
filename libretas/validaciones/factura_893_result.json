@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leandra Garrido Ibarra",
+    "dni_cliente": "42743018W",
+    "calle_cliente": "Calle de Peña Rivera",
+    "cp_cliente": "32800",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LOW COST POWER, S.L.",
+    "cif_comercializadora": "B66436437",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-abril-2001",
+    "importe_factura": "20/01/1005",
+    "fecha_cargo": "20/01/1004",
+    "consumo_periodo": "85866",
+    "potencia_contratada": "2,386"
+}

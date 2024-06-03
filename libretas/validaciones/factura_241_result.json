@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EUFEMIA ROLDÁN ARJONA",
+    "dni_cliente": "11269439Z",
+    "calle_cliente": "Colonia de las Puertas Verdes",
+    "cp_cliente": "20081993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CONECTA2 ENERGIA, S.L.",
+    "cif_comercializadora": "B66024464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08173",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-agosto-1993",
+    "importe_factura": "17,37",
+    "fecha_cargo": "24 de septiembre de 1993",
+    "consumo_periodo": "1616",
+    "potencia_contratada": "5,010"
+}

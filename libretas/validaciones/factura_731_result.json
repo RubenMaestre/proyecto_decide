@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CIRIACO LIRA",
+    "dni_cliente": "53037417S",
+    "calle_cliente": "Calle de Norberto",
+    "cp_cliente": "10041993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ALTERNA OPERADOR INTEGRAL, S.L.",
+    "cif_comercializadora": "B87075982",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08-abril-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Navarra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "11,64",
+    "fecha_cargo": "13 de abril de 1993",
+    "consumo_periodo": "72995",
+    "potencia_contratada": "3,455"
+}

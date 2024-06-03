@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EMANUEL OZUNO MAURER",
+    "dni_cliente": "88399458Q",
+    "calle_cliente": "Parque Santa Catalina",
+    "cp_cliente": "08101993",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AVANGREEN ENERGY SOLUTIONS",
+    "cif_comercializadora": "A19240621",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08-octubre-1993",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-diciembre-1993",
+    "importe_factura": "36,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "15063",
+    "potencia_contratada": "5,271"
+}

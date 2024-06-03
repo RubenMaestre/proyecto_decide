@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Elvira Uveda Caballero",
+    "dni_cliente": "87724368E",
+    "calle_cliente": "Calle del Rancho",
+    "cp_cliente": "10032016",
+    "población_cliente": "",
+    "provincia_cliente": "Lugo",
+    "nombre_comercializadora": "ENSTROGA, S.L.",
+    "cif_comercializadora": "B57903825",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "07003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "1ºIZDA",
+    "importe_factura": "70,40",
+    "fecha_cargo": "14 de abril de 2016",
+    "consumo_periodo": "26612",
+    "potencia_contratada": "5,451"
+}

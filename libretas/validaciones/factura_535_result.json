@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Zoraida Olivar Leyva",
+    "dni_cliente": "28844691T",
+    "calle_cliente": "Subida de la Fuente del Valle",
+    "cp_cliente": "08052018",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AIRE LIMPIO SL",
+    "cif_comercializadora": "B02469096",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-mayo-2018",
+    "importe_factura": "15,81",
+    "fecha_cargo": "Gallegos",
+    "consumo_periodo": "",
+    "potencia_contratada": "PALENCIA"
+}

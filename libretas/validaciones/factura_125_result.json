@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEDESMA ENERGIA S.L",
+    "dni_cliente": "40381701A",
+    "calle_cliente": "JOVINO CUÉLLAR",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "JOVINO CUÉLLAR CARVAJAL",
+    "cif_comercializadora": "B86855962",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "25/10/1993",
+    "fin_periodo": "24/12/1993",
+    "importe_factura": "246,47",
+    "fecha_cargo": "29/12/1993",
+    "consumo_periodo": "24/12/1993",
+    "potencia_contratada": "2,566"
+}

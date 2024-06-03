@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "22810655Z",
+    "calle_cliente": "Lugar Dehesa Altas Torres",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "FUENCISCLA ALANIS LOBO",
+    "cif_comercializadora": "C227767191",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "02/03/2017",
+    "fin_periodo": "01/05/2017",
+    "importe_factura": "372,38",
+    "fecha_cargo": "06/05/2017",
+    "consumo_periodo": "01/05/2017",
+    "potencia_contratada": "0,721"
+}

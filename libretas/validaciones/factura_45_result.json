@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NEREO OTERO GODINES",
+    "dni_cliente": "47128440Z",
+    "calle_cliente": "Calle Agualatente",
+    "cp_cliente": "28042021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELEKTRIZITÄTS-GESSELLSCHAFT LAUFENBURG AG.",
+    "cif_comercializadora": "CH243039",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "8953",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "27-junio-2021",
+    "importe_factura": "25,84",
+    "fecha_cargo": "",
+    "consumo_periodo": "2600",
+    "potencia_contratada": "3,747"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sabra Monzón Sabín",
+    "dni_cliente": "91134847S",
+    "calle_cliente": "Calle del Zinc",
+    "cp_cliente": "06101996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "Sabra Monzón Sabín",
+    "cif_comercializadora": "B57688731",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3100",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Bizkaia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-octubre-1996",
+    "importe_factura": "41,82",
+    "fecha_cargo": "",
+    "consumo_periodo": "32697",
+    "potencia_contratada": "1,444"
+}

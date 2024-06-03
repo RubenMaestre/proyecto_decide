@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Heraclio Novales Ochoa",
+    "dni_cliente": "57156107A",
+    "calle_cliente": "Paraje Dehesa Parda",
+    "cp_cliente": "21031996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ROMA ENERGÍAS S.L.",
+    "cif_comercializadora": "B66420407",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "9570",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "19-marzo-1996",
+    "importe_factura": "28,12",
+    "fecha_cargo": "",
+    "consumo_periodo": "30966",
+    "potencia_contratada": "4,245"
+}

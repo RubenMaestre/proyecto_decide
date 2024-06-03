@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Salvia Aguilar Garrido",
+    "dni_cliente": "62498695J",
+    "calle_cliente": "Calle del Aconcagua",
+    "cp_cliente": "02102021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "AURORA ENERGY SUPPLY SL.",
+    "cif_comercializadora": "B17657719",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "17007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-diciembre-2021",
+    "importe_factura": "30,14",
+    "fecha_cargo": "",
+    "consumo_periodo": "16056",
+    "potencia_contratada": "4,441"
+}

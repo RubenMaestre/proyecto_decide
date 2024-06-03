@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Simón Gamboa Ayala",
+    "dni_cliente": "82447595R",
+    "calle_cliente": "Calle Valencia de Don Juan",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B65960551",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Miranda",
+    "número_factura": "",
+    "inicio_periodo": "09/07/2012",
+    "fin_periodo": "08/08/2012",
+    "importe_factura": "63,84",
+    "fecha_cargo": "13/08/2012",
+    "consumo_periodo": "08/08/2012",
+    "potencia_contratada": "5,284"
+}

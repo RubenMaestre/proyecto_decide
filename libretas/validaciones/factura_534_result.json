@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FAUSTINA ALMENDÁREZ JURADO",
+    "dni_cliente": "52799089J",
+    "calle_cliente": "Calle del Sueldo",
+    "cp_cliente": "23614",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "S.L",
+    "cif_comercializadora": "B98583115",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "156,02",
+    "fecha_cargo": "26 de febrero de 2017",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VINTILA TABLADA",
+    "dni_cliente": "88257423Y",
+    "calle_cliente": "Calle de Alonso Martos",
+    "cp_cliente": "09514",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "COMPAGNIE NATIONALE DU RHÔNE.",
+    "cif_comercializadora": "FR59957520901",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "69316",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-septiembre-2015",
+    "importe_factura": "16,51",
+    "fecha_cargo": "",
+    "consumo_periodo": "76137",
+    "potencia_contratada": "4,894"
+}

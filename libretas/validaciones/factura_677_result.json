@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "",
+    "dni_cliente": "57764231F",
+    "calle_cliente": "AVENIDA DE PORTUGAL, 27 PLANTA 4, PUERTA 8",
+    "cp_cliente": "34486",
+    "población_cliente": "",
+    "provincia_cliente": "LA RIOJA",
+    "nombre_comercializadora": "FRANCISCA HURTADO TEDESCO",
+    "cif_comercializadora": "B26558056",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "26001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "20,37",
+    "fecha_cargo": "",
+    "consumo_periodo": "54867",
+    "potencia_contratada": "LOGROÑO"
+}

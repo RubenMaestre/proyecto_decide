@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ENRIQUE CAMARILLO BARRIENTOS",
+    "dni_cliente": "66427481P",
+    "calle_cliente": "Calle del Valle de Pas",
+    "cp_cliente": "33530",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENRIQUE CAMARILLO BARRIENTOS",
+    "cif_comercializadora": "B02553311",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "20/03/1307",
+    "fin_periodo": "13-julio-2003",
+    "importe_factura": "24,45",
+    "fecha_cargo": "20/03/1309",
+    "consumo_periodo": "20/03/1109",
+    "potencia_contratada": "3,494"
+}

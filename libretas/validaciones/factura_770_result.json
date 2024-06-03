@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Gregoria Ferrer Argüelles",
+    "dni_cliente": "13320111Y",
+    "calle_cliente": "Calle José Manuel Caballero Bonald",
+    "cp_cliente": "44441",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "CONECTA2 ENERGIA, S.L.",
+    "cif_comercializadora": "B66024464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08173",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "13-enero-1991",
+    "importe_factura": "21,86",
+    "fecha_cargo": "17 de febrero de 1991",
+    "consumo_periodo": "77653",
+    "potencia_contratada": "6,338"
+}

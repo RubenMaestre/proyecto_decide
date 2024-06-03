@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Vinicio Baca Montero",
+    "dni_cliente": "83500098R",
+    "calle_cliente": "Calle de Ponciano",
+    "cp_cliente": "25412",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "RONDA OESTE ENERGÍA, S.L",
+    "cif_comercializadora": "B37500238",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "174,74",
+    "fecha_cargo": "29 de julio de 2009",
+    "consumo_periodo": "19672",
+    "potencia_contratada": ""
+}

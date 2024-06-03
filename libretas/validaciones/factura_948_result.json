@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CORPORACIÓN ALIMENTARIA GUISSONA,",
+    "dni_cliente": "79745255T",
+    "calle_cliente": "Calle de la Ribera del Manzanares",
+    "cp_cliente": "16122017",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A25445131",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25210",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-octubre-2017",
+    "importe_factura": "286,42",
+    "fecha_cargo": "",
+    "consumo_periodo": "18054",
+    "potencia_contratada": "3,386"
+}

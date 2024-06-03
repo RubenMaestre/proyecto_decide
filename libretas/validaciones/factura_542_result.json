@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JESSICA CUÉLLAR ECHEVERRÍA",
+    "dni_cliente": "83112476K",
+    "calle_cliente": "Lugar Venta de Mea y Calcetas",
+    "cp_cliente": "36947",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "HOLDING SLOVENSKE ELEKTRARNE D.O.O.",
+    "cif_comercializadora": "SI99666189",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "1000",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "41,15",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

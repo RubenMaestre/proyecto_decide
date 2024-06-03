@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Leslie Ospino Vásquez",
+    "dni_cliente": "43202334P",
+    "calle_cliente": "Calle del Thaler",
+    "cp_cliente": "22031997",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADS ENERGIA AUDITORES",
+    "cif_comercializadora": "B40657405",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Huelva",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-marzo-1997",
+    "importe_factura": "14,34",
+    "fecha_cargo": "",
+    "consumo_periodo": "16338",
+    "potencia_contratada": "4,147"
+}

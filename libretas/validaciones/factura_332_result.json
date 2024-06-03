@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PEDRO SALINAS ZÚÑIGA",
+    "dni_cliente": "62507571B",
+    "calle_cliente": "Calle Castellón",
+    "cp_cliente": "22042021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B22411433",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22-abril-2021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-junio-2021",
+    "importe_factura": "20,49",
+    "fecha_cargo": "",
+    "consumo_periodo": "62085",
+    "potencia_contratada": "2,959"
+}

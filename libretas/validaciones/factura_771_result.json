@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TIARA ZARCO OBREGÓN",
+    "dni_cliente": "10645469B",
+    "calle_cliente": "MARQUES DE LA AHUMADA, 5 28028 - Madrid",
+    "cp_cliente": "10728",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "KWFVI ENERGIA, S.L.",
+    "cif_comercializadora": "B88628573",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28028",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cáceres",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-noviembre-2012",
+    "importe_factura": "20/12/2112",
+    "fecha_cargo": "20/12/2111",
+    "consumo_periodo": "76423",
+    "potencia_contratada": "3,895"
+}

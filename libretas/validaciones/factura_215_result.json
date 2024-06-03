@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Conrado Galindo Peraza",
+    "dni_cliente": "47367033M",
+    "calle_cliente": "CARRETERA DE ABANILLA, KM.",
+    "cp_cliente": "",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HEFAMECOM, S.A.",
+    "cif_comercializadora": "A73027930",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30140",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valladolid",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "31,98",
+    "fecha_cargo": "20/10/0805",
+    "consumo_periodo": "20/10/0605",
+    "potencia_contratada": "4,786"
+}

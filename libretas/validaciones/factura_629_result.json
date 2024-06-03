@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Clarisa Zamora Real",
+    "dni_cliente": "64095862Z",
+    "calle_cliente": "Camino de Villarreal",
+    "cp_cliente": "40236",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERKIA ENERGIA SL",
+    "cif_comercializadora": "B66589904",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06-abril-2001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "20/01/0605",
+    "fecha_cargo": "20/01/0604",
+    "consumo_periodo": "45969",
+    "potencia_contratada": "6,386"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Helena Reyes Zacarías",
+    "dni_cliente": "41436366A",
+    "calle_cliente": "AVENIDA DE LA ZARZUELA",
+    "cp_cliente": "24879",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "MINAI SERVICIOS",
+    "cif_comercializadora": "B88489802",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "12-noviembre-2006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "20/06/1309",
+    "fin_periodo": "20/06/1211",
+    "importe_factura": "10,29",
+    "fecha_cargo": "",
+    "consumo_periodo": "51191",
+    "potencia_contratada": "1,512"
+}

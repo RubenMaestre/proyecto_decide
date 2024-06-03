@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Carolo Sotomayor Mijares",
+    "dni_cliente": "60546670K",
+    "calle_cliente": "Travesia de Guabairo",
+    "cp_cliente": "01072013",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "LUZ SOLIDARIA S.L.",
+    "cif_comercializadora": "B67421875",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08840",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-julio-2013",
+    "importe_factura": "29,06",
+    "fecha_cargo": "05 de agosto de 2013",
+    "consumo_periodo": "37081",
+    "potencia_contratada": "2,415"
+}

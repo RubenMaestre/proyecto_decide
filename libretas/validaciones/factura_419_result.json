@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LESMES CUESTA AGUIRRE",
+    "dni_cliente": "72546718A",
+    "calle_cliente": "Calle de Francisco Alcántara",
+    "cp_cliente": "40594",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELÉCTRICA SUDANELL, S.L.U.",
+    "cif_comercializadora": "B25818733",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25173",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Segovia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-mayo-2007",
+    "importe_factura": "27,76",
+    "fecha_cargo": "20/07/1005",
+    "consumo_periodo": "20/07/0907",
+    "potencia_contratada": "4,041"
+}

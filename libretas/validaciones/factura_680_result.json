@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ALTAGRACIA VILLEDA RANGEL",
+    "dni_cliente": "18634476Z",
+    "calle_cliente": "Calle Santa Cruz",
+    "cp_cliente": "37429",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "EUROENERGIA DE LEVANTE",
+    "cif_comercializadora": "B98470727",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46001",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Valencia",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "15,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

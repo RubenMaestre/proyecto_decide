@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EUFEMIA ZELAYA FONSECA",
+    "dni_cliente": "49482106K",
+    "calle_cliente": "Calle de Honrubia",
+    "cp_cliente": "24121996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SUNAIR ONE HOME S.L.",
+    "cif_comercializadora": "B55641708",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "24-diciembre-1996",
+    "importe_factura": "11,94",
+    "fecha_cargo": "28 de enero de 1997",
+    "consumo_periodo": "53402",
+    "potencia_contratada": "3,533"
+}

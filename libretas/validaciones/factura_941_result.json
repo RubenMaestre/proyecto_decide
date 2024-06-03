@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KARENINA BASTIDA FRÍAS",
+    "dni_cliente": "47017306Q",
+    "calle_cliente": "Camino de Robledo de Abajo",
+    "cp_cliente": "03317",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B24291833",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "24380",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "244,64",
+    "fecha_cargo": "",
+    "consumo_periodo": "60399",
+    "potencia_contratada": ""
+}

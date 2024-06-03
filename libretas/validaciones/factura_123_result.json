@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cleopatra Góngora Gayoso",
+    "dni_cliente": "45439163H",
+    "calle_cliente": "Calle del Marqués",
+    "cp_cliente": "46016",
+    "población_cliente": "",
+    "provincia_cliente": "TALAYUELAS",
+    "nombre_comercializadora": "RONDA OESTE ENERGÍA, S.L",
+    "cif_comercializadora": "B37500238",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28003",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "100,29",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

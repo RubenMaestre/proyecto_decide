@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SONSOLES CAMARILLO SOL",
+    "dni_cliente": "57191827G",
+    "calle_cliente": "Avenida Juan de Vargas",
+    "cp_cliente": "24175",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ELECTRICIDAD EOSUN, S.L.",
+    "cif_comercializadora": "B88002027",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "112,48",
+    "fecha_cargo": "",
+    "consumo_periodo": "48962",
+    "potencia_contratada": ""
+}

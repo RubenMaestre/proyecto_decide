@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NILDA ALMENDÁREZ REYES",
+    "dni_cliente": "45289390K",
+    "calle_cliente": "Calle de Mario Cabré 37659 Nava de Francia",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B37547619",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "18/10/2012",
+    "fin_periodo": "17/11/2012",
+    "importe_factura": "78,77",
+    "fecha_cargo": "22/11/2012",
+    "consumo_periodo": "17/11/2012",
+    "potencia_contratada": "atencionalclientemasenergia.online"
+}

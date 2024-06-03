@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ingmar Martínez Calles",
+    "dni_cliente": "65080903B",
+    "calle_cliente": "Calle Yanusari Kwataba",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "ArabaÁlava",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "13/08/2001",
+    "fin_periodo": "12/10/2001",
+    "importe_factura": "247,91",
+    "fecha_cargo": "17/10/2001",
+    "consumo_periodo": "12/10/2001",
+    "potencia_contratada": "atencionalclientemasenergia.online"
+}

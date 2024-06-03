@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dani Rojas Moneda",
+    "dni_cliente": "80761381D",
+    "calle_cliente": "Camino de la Ensancha",
+    "cp_cliente": "49134",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "CACEIS Bank Spain, S.A.",
+    "cif_comercializadora": "A66783515",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08913",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Barcelona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "33,99",
+    "fecha_cargo": "",
+    "consumo_periodo": "53907",
+    "potencia_contratada": "BADALONA"
+}

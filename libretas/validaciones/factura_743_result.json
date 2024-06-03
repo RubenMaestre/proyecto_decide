@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MOSCOSO ENERGIA SL",
+    "dni_cliente": "11513832D",
+    "calle_cliente": "Travesia de Juncarejo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "MOSCOSO ENERGIA SL",
+    "cif_comercializadora": "B94130911",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "01/02/2005",
+    "fin_periodo": "03/03/2005",
+    "importe_factura": "72,48",
+    "fecha_cargo": "08/03/2005",
+    "consumo_periodo": "03/03/2005",
+    "potencia_contratada": "5,549"
+}

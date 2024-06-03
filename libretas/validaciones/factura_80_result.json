@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Oriana Silva Puente",
+    "dni_cliente": "11110127T",
+    "calle_cliente": "Calle de las Cuestas Altas",
+    "cp_cliente": "32138",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ECONOMICLUZ, S.L.",
+    "cif_comercializadora": "B54985353",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03330",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ourense",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-enero-2020",
+    "importe_factura": "28,61",
+    "fecha_cargo": "",
+    "consumo_periodo": "46396",
+    "potencia_contratada": "4,300"
+}

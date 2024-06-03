@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Hildegarda Ortega Ibarra",
+    "dni_cliente": "82618924A",
+    "calle_cliente": "Parque Las Comunidades",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B98823933",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "21/06/2002",
+    "fin_periodo": "20/08/2002",
+    "importe_factura": "26,23",
+    "fecha_cargo": "25/08/2002",
+    "consumo_periodo": "20/08/2002",
+    "potencia_contratada": "3,308"
+}

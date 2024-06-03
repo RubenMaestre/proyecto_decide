@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "XIMENA MENDOZA MANZANO",
+    "dni_cliente": "46434234V",
+    "calle_cliente": "Avenida de Españ",
+    "cp_cliente": "15970",
+    "población_cliente": "",
+    "provincia_cliente": "municipal_95052",
+    "nombre_comercializadora": "TRACTAMENT I SELECCIÓ DE RESIDUS,",
+    "cif_comercializadora": "A08800880",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08930",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "269,69",
+    "fecha_cargo": "",
+    "consumo_periodo": "87955",
+    "potencia_contratada": ""
+}

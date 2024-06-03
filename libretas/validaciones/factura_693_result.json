@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Sebastián Moscoa Cárdenas",
+    "dni_cliente": "70167866H",
+    "calle_cliente": "Calle de Navacerrada",
+    "cp_cliente": "14061996",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TERAMELCOR SL",
+    "cif_comercializadora": "B52031168",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "52006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zamora",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "12,92",
+    "fecha_cargo": "",
+    "consumo_periodo": "46709",
+    "potencia_contratada": "3,826"
+}

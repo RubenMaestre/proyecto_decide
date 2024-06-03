@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Quin Vívez Lafuente",
+    "dni_cliente": "18612605Q",
+    "calle_cliente": "Glorieta Párroco Martín Chacón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B87757464",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "25/05/2020",
+    "fin_periodo": "24/07/2020",
+    "importe_factura": "277,78",
+    "fecha_cargo": "29/07/2020",
+    "consumo_periodo": "24/07/2020",
+    "potencia_contratada": "3,925"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MERRIL LYNCH COMMODITIES EUROPE LIMITED",
+    "dni_cliente": "24051567F",
+    "calle_cliente": "Calle de Florentino Gascón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "CACEIS Bank Spain, S.A.",
+    "cif_comercializadora": "GB245122493",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Abr",
+    "número_factura": "",
+    "inicio_periodo": "28/11/2002",
+    "fin_periodo": "28/12/2002",
+    "importe_factura": "56,25",
+    "fecha_cargo": "02/01/2003",
+    "consumo_periodo": "28/12/2002",
+    "potencia_contratada": "4,417"
+}

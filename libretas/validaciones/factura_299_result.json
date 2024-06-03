@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "CONCHA BUSTAMANTE VELARDE",
+    "dni_cliente": "77042799K",
+    "calle_cliente": "",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "ECOEQ ENERGÉTICA",
+    "cif_comercializadora": "C4",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "08/10/2005",
+    "fin_periodo": "07/11/2005",
+    "importe_factura": "122,66",
+    "fecha_cargo": "12/11/2005",
+    "consumo_periodo": "07/11/2005",
+    "potencia_contratada": "4,700"
+}

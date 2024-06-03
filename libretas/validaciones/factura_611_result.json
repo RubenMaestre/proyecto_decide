@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Roquelina Zuleta Salgado",
+    "dni_cliente": "29726942V",
+    "calle_cliente": "Carretera Alas Torres",
+    "cp_cliente": "36311",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "social CVICENTE BERDUSAN, BLOQUE D1",
+    "cif_comercializadora": "B87996468",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50010",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "208,60",
+    "fecha_cargo": "",
+    "consumo_periodo": "59626",
+    "potencia_contratada": ""
+}

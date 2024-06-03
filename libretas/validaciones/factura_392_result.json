@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "S.L.  CEDUARDO BENOT 25 LOCAL",
+    "dni_cliente": "95743198V",
+    "calle_cliente": "Calle Camelias",
+    "cp_cliente": "24404",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ISLA LUZ DE CANARIAS, S.L.",
+    "cif_comercializadora": "B76302512",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35008",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "35,45",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Emilio Vivas Carvajal",
+    "dni_cliente": "14745597K",
+    "calle_cliente": "AVENIDA A RUA 2",
+    "cp_cliente": "46988",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ASAL DE ENERGIA, S.L",
+    "cif_comercializadora": "B06688568",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06200",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Badajoz",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "02-octubre-2012",
+    "importe_factura": "19,44",
+    "fecha_cargo": "20/12/0210",
+    "consumo_periodo": "20/12/0112",
+    "potencia_contratada": "2,829"
+}

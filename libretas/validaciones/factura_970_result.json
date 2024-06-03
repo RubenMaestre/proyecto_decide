@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Zuleica Silva Lugo",
+    "dni_cliente": "46105102S",
+    "calle_cliente": "Calle de Villuercas",
+    "cp_cliente": "15891",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TOTAL GAS POWER LIMITED",
+    "cif_comercializadora": "",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "05-febrero-2004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "A Coruña",
+    "número_factura": "",
+    "inicio_periodo": "20/04/0502",
+    "fin_periodo": "20 de",
+    "importe_factura": "25,25",
+    "fecha_cargo": "20/04/0704",
+    "consumo_periodo": "20/04/0504",
+    "potencia_contratada": "3,757"
+}

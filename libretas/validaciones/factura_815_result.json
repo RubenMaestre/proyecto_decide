@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Dan Zetina Gillén",
+    "dni_cliente": "18708252Y",
+    "calle_cliente": "Calle Ladera Baja de San Juan",
+    "cp_cliente": "04072021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICIDAD EOSUN, S.L.",
+    "cif_comercializadora": "B88002027",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28045",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-julio-2021",
+    "importe_factura": "27,97",
+    "fecha_cargo": "",
+    "consumo_periodo": "68161",
+    "potencia_contratada": "4,039"
+}

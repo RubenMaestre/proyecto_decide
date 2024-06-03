@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "FELISA VELÁSQUEZ SAGEL",
+    "dni_cliente": "66882694M",
+    "calle_cliente": "Calle de Matías López",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B98989239",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Palencia",
+    "número_factura": "",
+    "inicio_periodo": "23/08/1998",
+    "fin_periodo": "22/09/1998",
+    "importe_factura": "53,05",
+    "fecha_cargo": "27/09/1998",
+    "consumo_periodo": "22/09/1998",
+    "potencia_contratada": "2,389"
+}

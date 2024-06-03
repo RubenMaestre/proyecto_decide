@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Madonna Urieta Doblado",
+    "dni_cliente": "63729366T",
+    "calle_cliente": "Calle de Moratín",
+    "cp_cliente": "35530",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENDESA ENERGÍA S.A.U.",
+    "cif_comercializadora": "A81948077",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "09-agosto-2021",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Las Palmas",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "10-junio-2021",
+    "importe_factura": "43,30",
+    "fecha_cargo": "",
+    "consumo_periodo": "88180",
+    "potencia_contratada": "6,396"
+}

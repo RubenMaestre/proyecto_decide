@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "NICOMEDES LAFUENTE GALENO",
+    "dni_cliente": "50252055E",
+    "calle_cliente": "CALLE VILLAMANIN, 31 4F 28011 -",
+    "cp_cliente": "44381",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "TAUTRA ENERGIA S.L.",
+    "cif_comercializadora": "B04949384",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28011",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Teruel",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "15-mayo-1991",
+    "importe_factura": "15,38",
+    "fecha_cargo": "",
+    "consumo_periodo": "47700",
+    "potencia_contratada": "2,317"
+}

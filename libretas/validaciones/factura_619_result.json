@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Jesús María Ferrer Quijano",
+    "dni_cliente": "42842019B",
+    "calle_cliente": "Calle de las Navas de Oro",
+    "cp_cliente": "33680",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "A22004675",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "36700",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Asturias",
+    "número_factura": "",
+    "inicio_periodo": "20/07/0410",
+    "fin_periodo": "20/07/0311",
+    "importe_factura": "28,25",
+    "fecha_cargo": "2007",
+    "consumo_periodo": "74343",
+    "potencia_contratada": "3,302"
+}

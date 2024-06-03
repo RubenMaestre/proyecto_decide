@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Isaura Quevedo Alfaro",
+    "dni_cliente": "81573180T",
+    "calle_cliente": "AVENIDA PORTUS GADITANUS, 18- PUERTA 13",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": "Barcelona",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B72313992",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "30/03/1998",
+    "fin_periodo": "29/04/1998 30 días  ",
+    "importe_factura": "123,06",
+    "fecha_cargo": "04/05/1998",
+    "consumo_periodo": "13039",
+    "potencia_contratada": "5,017"
+}

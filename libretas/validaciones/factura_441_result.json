@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "OBERTO ROVIRA VILLALLOVOS",
+    "dni_cliente": "79087419X",
+    "calle_cliente": "CALLE LA BAÑEZA, 11",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "OBERTO ROVIRA VILLALLOVOS",
+    "cif_comercializadora": "B88110341",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Guadalajara",
+    "número_factura": "",
+    "inicio_periodo": "04/05/2015",
+    "fin_periodo": "03/06/2015",
+    "importe_factura": "84,60",
+    "fecha_cargo": "08/06/2015",
+    "consumo_periodo": "03/06/2015",
+    "potencia_contratada": "3,704"
+}

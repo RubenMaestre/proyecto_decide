@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "WOLFANGO CASAS JARAMILLO",
+    "dni_cliente": "82596540K",
+    "calle_cliente": "Lugar Valdecañas",
+    "cp_cliente": "23688",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "INER ENERGIA CASTILLA LA MANCHA SL",
+    "cif_comercializadora": "B02494375",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Jaén",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "29-julio-2007",
+    "importe_factura": "11,34",
+    "fecha_cargo": "20/07/3107",
+    "consumo_periodo": "19582",
+    "potencia_contratada": "3,271"
+}

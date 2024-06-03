@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Mario Báez Corro",
+    "dni_cliente": "22901859T",
+    "calle_cliente": "Lugar el Rincón",
+    "cp_cliente": "06041998",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ELECTRICA DE GUADASSUAR",
+    "cif_comercializadora": "B98194780",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "06-abril-1998",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "06-mayo-1998",
+    "importe_factura": "15,64",
+    "fecha_cargo": "88 46610 -",
+    "consumo_periodo": "49121",
+    "potencia_contratada": "4,590"
+}

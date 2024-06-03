@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "KEVIN LOSADA ALANIS",
+    "dni_cliente": "14404121A",
+    "calle_cliente": "Calle Serventia",
+    "cp_cliente": "14910",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "S.L.",
+    "cif_comercializadora": "B87579769",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28036",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Córdoba",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "07-junio-2010",
+    "importe_factura": "20/10/0707",
+    "fecha_cargo": "20/10/0907",
+    "consumo_periodo": "74842",
+    "potencia_contratada": "3,113"
+}

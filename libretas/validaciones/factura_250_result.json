@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Gamaliel Garrido Bautista",
+    "dni_cliente": "70843685M",
+    "calle_cliente": "Calle de Vergara",
+    "cp_cliente": "03450",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B25703968",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25600",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "20/03/2101",
+    "fin_periodo": "20/03/2203",
+    "importe_factura": "375,99",
+    "fecha_cargo": "",
+    "consumo_periodo": "28732",
+    "potencia_contratada": "4,074"
+}

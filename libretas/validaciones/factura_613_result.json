@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EFRAÍN PERALTA LAGUNAL",
+    "dni_cliente": "96928331Y",
+    "calle_cliente": "Calle de Maquileros",
+    "cp_cliente": "13192",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "HIDROELECTRICA LUMYMEY SL UNIPERSONAL.",
+    "cif_comercializadora": "B15552060",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "15800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-diciembre-2020",
+    "importe_factura": "21,86",
+    "fecha_cargo": "",
+    "consumo_periodo": "29185",
+    "potencia_contratada": "3,334"
+}

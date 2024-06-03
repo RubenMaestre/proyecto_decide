@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Concha Villeda Daniel",
+    "dni_cliente": "37454978F",
+    "calle_cliente": "Calle Doctor Gómez Escudero 13196 Picón",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B24373367",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Ciudad Real",
+    "número_factura": "",
+    "inicio_periodo": "23/07/2001",
+    "fin_periodo": "21/09/2001",
+    "importe_factura": "176,07",
+    "fecha_cargo": "26/09/2001",
+    "consumo_periodo": "21/09/2001",
+    "potencia_contratada": "3,765"
+}

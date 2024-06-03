@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MIRYAN MARTÍNEZ VENTURA",
+    "dni_cliente": "54509222G",
+    "calle_cliente": "Camino Finca el Valle",
+    "cp_cliente": "16442",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADURIZ ENERGÍA, SLU.",
+    "cif_comercializadora": "B09378720",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "3009",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Cuenca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "01-septiembre-2015",
+    "importe_factura": "15,71",
+    "fecha_cargo": "",
+    "consumo_periodo": "20669",
+    "potencia_contratada": "4,452"
+}

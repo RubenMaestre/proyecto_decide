@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MANON SOL",
+    "dni_cliente": "78733164R",
+    "calle_cliente": "Calle Residencial Santa Elena",
+    "cp_cliente": "35610",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ALBATERREC Lérida",
+    "cif_comercializadora": "B25467887",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "25171",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "109,36",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

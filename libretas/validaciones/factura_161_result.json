@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Baltasar Gayoso Llano",
+    "dni_cliente": "80363962F",
+    "calle_cliente": "Calle del Doctor Castroviejo",
+    "cp_cliente": "08781",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "KONERY EFICIENCIA ENERGETICA, SOCIEDAD LIMITADA",
+    "cif_comercializadora": "B73704405",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "30709",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "MURCIA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "109,01",
+    "fecha_cargo": "26 de agosto de 2002",
+    "consumo_periodo": "78517",
+    "potencia_contratada": ""
+}

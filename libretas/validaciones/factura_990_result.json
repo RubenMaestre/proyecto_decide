@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "JAIRO LEANDRO CEVALLOS",
+    "dni_cliente": "34199367T",
+    "calle_cliente": "Calle Castro",
+    "cp_cliente": "19277",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B98729486",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALENCIA",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "110,25",
+    "fecha_cargo": "23 de mayo de 2004",
+    "consumo_periodo": "36100",
+    "potencia_contratada": ""
+}

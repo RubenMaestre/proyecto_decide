@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MARISOL ESTRELLA ZACARÍAS",
+    "dni_cliente": "70437526A",
+    "calle_cliente": "AVENIDA JARDIN BOTÁNICO, 1345 EDIFICIO INTRA 1 OF.",
+    "cp_cliente": "09091990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "BETA RENOWABLE GROUP SA.",
+    "cif_comercializadora": "A33985540",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "33203",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lugo",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "09-septiembre-1990",
+    "importe_factura": "23,42",
+    "fecha_cargo": "",
+    "consumo_periodo": "65681",
+    "potencia_contratada": "3,387"
+}

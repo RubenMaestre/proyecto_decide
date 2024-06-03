@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MACEDONIO VERTI OZUNO",
+    "dni_cliente": "55616981Z",
+    "calle_cliente": "Calle los Nogales",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B53482774",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "20/08/2014",
+    "fin_periodo": "19/10/2014",
+    "importe_factura": "69,27",
+    "fecha_cargo": "24/10/2014",
+    "consumo_periodo": "19/10/2014",
+    "potencia_contratada": "5,708"
+}

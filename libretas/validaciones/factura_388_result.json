@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Fina Caldera Barriga",
+    "dni_cliente": "17552015W",
+    "calle_cliente": "Calle de Siete Fuentes",
+    "cp_cliente": "32786",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B99340564",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "50004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "39,49",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

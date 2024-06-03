@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Cibeles Guerrero Jiménez",
+    "dni_cliente": "50408234P",
+    "calle_cliente": "Calle de Lumbrales",
+    "cp_cliente": "08514",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B22280259",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22450",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "31,07",
+    "fecha_cargo": "12 de agosto de 2007",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

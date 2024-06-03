@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Pascasio Patiño Anaya",
+    "dni_cliente": "29085710W",
+    "calle_cliente": "Extraradio Cerro de los Ángeles",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "B87177408",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Madrid",
+    "número_factura": "",
+    "inicio_periodo": "07/01/2014",
+    "fin_periodo": "06/02/2014",
+    "importe_factura": "85,86",
+    "fecha_cargo": "11/02/2014",
+    "consumo_periodo": "06/02/2014",
+    "potencia_contratada": "5,600"
+}

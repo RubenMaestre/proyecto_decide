@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LORA LAGUNAL NOGUERA",
+    "dni_cliente": "11980163S",
+    "calle_cliente": "PASEO DE LA CASTELLANA 259-D, PLANTA",
+    "cp_cliente": "45216",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "VILLAR MIR ENERGÍA,S.L.",
+    "cif_comercializadora": "B85253888",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28046",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Toledo",
+    "número_factura": "",
+    "inicio_periodo": "20/09/1904",
+    "fin_periodo": "19-abril-2009",
+    "importe_factura": "28,50",
+    "fecha_cargo": "20/09/2006",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,338"
+}

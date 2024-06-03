@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ADÁN VANEGAS OLMEDO",
+    "dni_cliente": "49756404K",
+    "calle_cliente": "AVENIDA DE NAVARRA, 14 08911 - BADALONA",
+    "cp_cliente": "21041990",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ADÁN VANEGAS OLMEDO",
+    "cif_comercializadora": "B25687401",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08911",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Salamanca",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "21-abril-1990",
+    "importe_factura": "14,77",
+    "fecha_cargo": "26 de mayo de 1990",
+    "consumo_periodo": "",
+    "potencia_contratada": "4,259"
+}

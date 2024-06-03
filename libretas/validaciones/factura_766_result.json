@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TAKARA VALLEJO USAGA",
+    "dni_cliente": "30011746N",
+    "calle_cliente": "Travesia de Valdecaras",
+    "cp_cliente": "28012021",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B98823933",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "León",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "",
+    "importe_factura": "307,25",
+    "fecha_cargo": "",
+    "consumo_periodo": "53945",
+    "potencia_contratada": "3,601"
+}

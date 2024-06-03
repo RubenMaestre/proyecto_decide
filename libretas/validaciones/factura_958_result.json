@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Martiniano Velarde Gallegos",
+    "dni_cliente": "44829088H",
+    "calle_cliente": "Avenida de los Claveles 26141",
+    "cp_cliente": "26141",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B90031063",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "41004",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "SEVILLA",
+    "número_factura": "",
+    "inicio_periodo": "SEVILLA",
+    "fin_periodo": "50",
+    "importe_factura": "206,51",
+    "fecha_cargo": "28 de julio de 2008",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

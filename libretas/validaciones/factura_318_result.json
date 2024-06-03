@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Eleuterio Moscoa Venegas",
+    "dni_cliente": "57841986E",
+    "calle_cliente": "Calle de Don Severo Ochoa",
+    "cp_cliente": "47012",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B55703300",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "43206",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Tarragona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "341,24",
+    "fecha_cargo": "",
+    "consumo_periodo": "87009",
+    "potencia_contratada": ""
+}

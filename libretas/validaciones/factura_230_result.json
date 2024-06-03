@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "EMILIANA CASTELLANOS PALADINO",
+    "dni_cliente": "12850130F",
+    "calle_cliente": "PLAZA DEL AYUNTAMIENTO",
+    "cp_cliente": "17164",
+    "población_cliente": "",
+    "provincia_cliente": "Sant Juliñ",
+    "nombre_comercializadora": "ELÉCTRICA BENASQUE, S.L.",
+    "cif_comercializadora": "B22410286",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "22440",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "20/12/0305",
+    "fin_periodo": "20/12/0206",
+    "importe_factura": "10,77",
+    "fecha_cargo": "",
+    "consumo_periodo": "10160",
+    "potencia_contratada": "2,776"
+}

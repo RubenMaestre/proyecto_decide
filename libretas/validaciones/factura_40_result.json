@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ODILÓN NOGUERA",
+    "dni_cliente": "46247881X",
+    "calle_cliente": "Calle Trascasa",
+    "cp_cliente": "22071990",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "ELECTRICA VIENTOS ALISIOS DE LANZAROTE SL",
+    "cif_comercializadora": "B76200070",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "35500",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20-septiembre-1990",
+    "importe_factura": "21,16",
+    "fecha_cargo": "25 de septiembre de 1990",
+    "consumo_periodo": "38983",
+    "potencia_contratada": "2,407"
+}

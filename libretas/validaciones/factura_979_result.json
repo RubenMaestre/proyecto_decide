@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PAULINO PALOMINO",
+    "dni_cliente": "71511850C",
+    "calle_cliente": "Calle del Cosillo",
+    "cp_cliente": "24760",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B87095543",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28023",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "72,51",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

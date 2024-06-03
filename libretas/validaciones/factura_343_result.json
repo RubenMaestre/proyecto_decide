@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LENIN URRUTIA NAVARRO",
+    "dni_cliente": "27165427N",
+    "calle_cliente": "Camino del Mojón Blanco",
+    "cp_cliente": "30387",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B47762497",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "47006",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "VALLADOLID",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "142,48",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "Valladolid"
+}

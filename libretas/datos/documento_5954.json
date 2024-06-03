@@ -1,0 +1,30 @@
+{
+    "text": "detalles del cliente y factura: el cliente de este contrato con dni placeholder_02, ha recibido la factura numero placeholder_13 con referencia 2104713274745121. emitida el placeholder_17, esta factura cubre el periodo del placeholder_14 al placeholder_15, abarcando 60 dias. la fecha de cargo esta programada para el 1 de enero de 2022. la forma de pago es domiciliada. informacion de la comercializadora: la empresa comercializadora responsable es placeholder_07, con cif placeholder_08, ubicada en placeholder_09, placeholder_10 placeholder_11, provincia placeholder_12. detalles financieros: •\tpotencia contratada: placeholder_19 kw •\tenergia consumida: placeholder_18 kwh •\timporte total de la factura: placeholder_16 euros •\tigic reducido: 23,11 •\totros importes: 180,61 •\tcargos adicionales: 1,07, 10,42 y 4,28 •\tigic normal (21%): 0,22 el resumen de la factura y los datos de pago indican que el importe por energia consumida es de 740 kwh x 0,244067 €/kwh. el pago se justifica con el correspondiente apunte bancario. consumo energetico: durante el periodo de facturacion, el consumo se ha distribuido entre los periodos punta y valle. la evolucion del consumo se mantiene de 12h a 22h y de 22h a 12h. la lectura anterior, tomada el 28 de octubre de 2021, fue de 69495 kwh, mientras que la lectura actual, registrada el 27 de diciembre de 2021, fue de 70235 kwh, resultando en un consumo de 740 kwh en el periodo. datos del contrato: •\ttitular del contrato: melitina barrientos montes •\tnif: su documento de identidad •\tdireccion de suministro: calle de michael faraday, cp 36449, poblacion Ribera del Fresno, provincia SALAMANCA •\tnumero de contador: 245151267 •\tdistribuidora: hidroelectrica santa teresa sl •\treferencia del contrato de acceso: 781087855549 •\tpeaje de acceso: 2.0a •\tsu contrato de suministro: con renovacion anual automatica •\tcups: es8251682085417910djiy •\tproducto contratado: pvpc sin discriminacion horaria •\treferencia del contrato: 9608245917828 registro mercantil: su empresa comercializadora de electricidad esta inscrita en el registro mercantil de barcelona, tomo 6375, folio 5, seccion 5, hoja numero m 213151, inscripcion 138. la empresa tiene el numero de identificacion fiscal de la empresa y el domicilio social esta en direccion, cp ciudad, provincia donde se encuentra domiciliada su empresa comercializadora. desglose del importe total: el importe detallado de su factura detallado en su lugar correspondiente se desglosa de la siguiente manera: •\tpotencia contratada: potencia de electricidad contratada que puede ver detallado en su lugar correspondiente x 0,116028 €/kw x 60 dias = 23,11 euros •\tfacturacion por peaje de acceso: kw x 38,524425 €/kw y ano x 60/365 dias = 21,02 euros •\tconsumo p1: 740 kwh x 0,127891 €/kwh = 94,64 euros •\timpuestos de electricidad: 203,72 x 5,1127% = 10,42 euros •\talquiler de equipos de medida y control: 60 dias x 0,017753 €/dia = 1,07 euros •\tsubtotal con igic reducido de 7%: 214,14 + 11,49 = 215,21 euros •\tigic normal de 21%: 1,07 x 21% = 0,22 euros impacto ambiental y otros detalles: el impacto ambiental de su electricidad depende de las fuentes energeticas utilizadas para su generacion. en una escala de a a g, donde a indica el minimo impacto ambiental y g el maximo, la energia comercializada por tiene los siguientes valores de impacto medioambiental. aunque la energia electrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros consumidores conectados al mismo sistema electrico, ahora es posible garantizar el origen de la produccion de energia electrica que usted consume. se proporciona el desglose de la mezcla de tecnologias de produccion nacional para comparar los porcentajes del promedio nacional con los correspondientes a la energia vendida por su comercializadora. contacto y reclamaciones: para cualquier consulta o reclamacion, puede contactar con nuestro servicio de atencion al cliente: •\ttelefono gratuito de reclamaciones: 900 920 099 •\tdireccion: direccion, cp ciudad, provincia donde se encuentra domiciliada su empresa comercializadora •\turgencias: 900 373 431 para reclamaciones sobre el contrato de suministro o facturaciones, puede dirigirse a la consejeria de empleo, industria y comercio de la comunidad autonoma de canarias en el telefono 928 xxx xxx. atencion al cliente, consultas, gestiones y reclamaciones 24 horas. informacion sobre su producto, costes regulados, coste de produccion de electricidad, impuestos aplicados y destino del importe de la factura se detallan a continuacion. ",
+    "entities": [
+        [
+            1467,
+            1493,
+            "nombre_cliente"
+        ],
+        [
+            1554,
+            1578,
+            "calle_cliente"
+        ],
+        [
+            1583,
+            1588,
+            "cp_cliente"
+        ],
+        [
+            1600,
+            1617,
+            "poblacion_cliente"
+        ],
+        [
+            1629,
+            1638,
+            "provincia_cliente"
+        ]
+    ]
+}

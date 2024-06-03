@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Evel Carranza Cepeda",
+    "dni_cliente": "69392720H",
+    "calle_cliente": "Travesía del Codo",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": "Ciudad Real",
+    "nombre_comercializadora": "EMASP SOCIEDAD COOPERATIVA",
+    "cif_comercializadora": "F71235311",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Pontevedra",
+    "número_factura": "",
+    "inicio_periodo": "16/06/1998",
+    "fin_periodo": "15/08/1998",
+    "importe_factura": "102,69",
+    "fecha_cargo": "20/08/1998",
+    "consumo_periodo": "15/08/1998",
+    "potencia_contratada": "3,316"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "TINA ESCAMILLA GALLEGOS",
+    "dni_cliente": "53564117S",
+    "calle_cliente": "PASEO DE LA CASTELLANA 141 28046 - MADRID",
+    "cp_cliente": "04569",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "KIPIN ENERGY SL",
+    "cif_comercializadora": "B88319587",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28046",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Almería",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "14-junio-2004",
+    "importe_factura": "23,48",
+    "fecha_cargo": "20/04/1607",
+    "consumo_periodo": "40532",
+    "potencia_contratada": "2,077"
+}

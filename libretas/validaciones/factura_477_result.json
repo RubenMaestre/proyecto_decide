@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Haydé Vela Segura",
+    "dni_cliente": "43128441Z",
+    "calle_cliente": "Calle de Las Torcas",
+    "cp_cliente": "03011",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "EDP-ENERGÍAS DE PORTUGAL, S.A.",
+    "cif_comercializadora": "PT500697256",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "03-julio-2002",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "04-mayo-2002",
+    "importe_factura": "34,53",
+    "fecha_cargo": "20/02/0405",
+    "consumo_periodo": "20/02/0307",
+    "potencia_contratada": "5,037"
+}

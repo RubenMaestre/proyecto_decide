@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Melquíades Olmo Palacio",
+    "dni_cliente": "35699295Y",
+    "calle_cliente": "Calle Molino de Aceite",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "GAOLANIA SERVICIOS SL",
+    "cif_comercializadora": "B98717457",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Lleida",
+    "número_factura": "",
+    "inicio_periodo": "16/10/2013",
+    "fin_periodo": "15/11/2013 30 días  ",
+    "importe_factura": "77,96",
+    "fecha_cargo": "20/11/2013",
+    "consumo_periodo": "31414",
+    "potencia_contratada": "5,461"
+}

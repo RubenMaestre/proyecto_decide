@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Pedro Cepeda Castellanos",
+    "dni_cliente": "33197716E",
+    "calle_cliente": "Calle Castilla",
+    "cp_cliente": "49699",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "F46004750",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46610",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "94,77",
+    "fecha_cargo": "88 46610",
+    "consumo_periodo": "54533",
+    "potencia_contratada": ""
+}

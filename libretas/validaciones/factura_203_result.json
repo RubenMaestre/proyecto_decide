@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Lola Ruiz Navarrete",
+    "dni_cliente": "65748623H",
+    "calle_cliente": "PASEO DE LAS MORERAS",
+    "cp_cliente": "25280",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "",
+    "cif_comercializadora": "A25466939",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Albacete",
+    "número_factura": "",
+    "inicio_periodo": "13/04/2019",
+    "fin_periodo": "13/05/2019 30 días  ",
+    "importe_factura": "103,68",
+    "fecha_cargo": "18/05/2019",
+    "consumo_periodo": "",
+    "potencia_contratada": "2,262"
+}

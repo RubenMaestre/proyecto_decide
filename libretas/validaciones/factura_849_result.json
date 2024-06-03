@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "VLADIMIRO SOLÍS",
+    "dni_cliente": "55562159R",
+    "calle_cliente": "Glorieta Fuente Redondo",
+    "cp_cliente": "1212162877191",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "VIVA LUZ SOLUCIONES, S.L.",
+    "cif_comercializadora": "B66823881",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "08350",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "69,19",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}

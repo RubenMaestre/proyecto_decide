@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "Ángel Treminio Milanés",
+    "dni_cliente": "20604437W",
+    "calle_cliente": "Calle de la Codorniz",
+    "cp_cliente": "42138",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "DB ENERGY COMMODITIES LIMITED.",
+    "cif_comercializadora": "GB243609761",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "02-noviembre-2007",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Soria",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "03-septiembre-2007",
+    "importe_factura": "39,78",
+    "fecha_cargo": "20/07/0411",
+    "consumo_periodo": "20/07/0211",
+    "potencia_contratada": "5,891"
+}

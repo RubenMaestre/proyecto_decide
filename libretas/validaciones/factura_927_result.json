@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MAGIA ECHEVERRÍA SALDIVAR",
+    "dni_cliente": "39030954T",
+    "calle_cliente": "Calle de los Industriales",
+    "cp_cliente": "02102021",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "ENERLEK POWER COMPANY SL",
+    "cif_comercializadora": "B95948451",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "48800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Girona",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "20 de",
+    "importe_factura": "11,77",
+    "fecha_cargo": "",
+    "consumo_periodo": "37038",
+    "potencia_contratada": "3,500"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "SUCA SDAD COOP ANDALUZA",
+    "dni_cliente": "68512312G",
+    "calle_cliente": "CTRA.",
+    "cp_cliente": ".ñ",
+    "población_cliente": "",
+    "provincia_cliente": ".",
+    "nombre_comercializadora": "SUCA SDAD COOP ANDALUZA",
+    "cif_comercializadora": "F04030672",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "n",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Burgos",
+    "número_factura": "",
+    "inicio_periodo": "25/05/2021",
+    "fin_periodo": "24/07/2021",
+    "importe_factura": "196,18",
+    "fecha_cargo": "29/07/2021",
+    "consumo_periodo": "24/07/2021",
+    "potencia_contratada": "5,477"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "MARCIAL MONTALBÁN JUNCO",
+    "dni_cliente": "43399855M",
+    "calle_cliente": "Calle Labradores",
+    "cp_cliente": "15579",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "margen de comercialización fijo.",
+    "cif_comercializadora": "B88181441",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28016",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "78,33",
+    "fecha_cargo": "05 de enero de 1999",
+    "consumo_periodo": "4402",
+    "potencia_contratada": ""
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "ERNESTINA MANUEL BAZÁN",
+    "dni_cliente": "48795324L",
+    "calle_cliente": "Calle de Ordesa",
+    "cp_cliente": "20400",
+    "población_cliente": "",
+    "provincia_cliente": "Punta Real",
+    "nombre_comercializadora": "SHELL ESPAÑA, S.A.",
+    "cif_comercializadora": "A28013522",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "28034",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Gipuzkoa",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "17-noviembre-2004",
+    "importe_factura": "25,73",
+    "fecha_cargo": "20/04/1711",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,676"
+}

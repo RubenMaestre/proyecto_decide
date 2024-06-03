@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "PASTOR MOSCOA",
+    "dni_cliente": "13781315Z",
+    "calle_cliente": "Avenida de la Cava",
+    "cp_cliente": "05072018",
+    "población_cliente": "",
+    "provincia_cliente": "Real",
+    "nombre_comercializadora": "Margen de comercialización fijo publicado en RD 4692016.",
+    "cif_comercializadora": "B98729486",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "46800",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Zaragoza",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "05-julio-2018",
+    "importe_factura": "226,83",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": "3,473"
+}

@@ -1,0 +1,21 @@
+{
+    "nombre_cliente": "LEANDRO LACAYO PERALTA",
+    "dni_cliente": "41043031Z",
+    "calle_cliente": "Carrera de San Francisco",
+    "cp_cliente": "19332",
+    "población_cliente": "",
+    "provincia_cliente": "",
+    "nombre_comercializadora": "ZENCER, S. COOP.",
+    "cif_comercializadora": "F93157717",
+    "dirección_comercializadora": "",
+    "cp_comercializadora": "29640",
+    "población_comercializadora": "",
+    "provincia_comercializadora": "Málaga",
+    "número_factura": "",
+    "inicio_periodo": "",
+    "fin_periodo": "50",
+    "importe_factura": "87,07",
+    "fecha_cargo": "",
+    "consumo_periodo": "",
+    "potencia_contratada": ""
+}
