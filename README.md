@@ -72,7 +72,7 @@ Muchos de los datos comienzan en una carpeta que estará nombrada en varios arch
         |-- ...
         |-- factura_999.pdf
         |-- factura_999.json
-
+```
 
 Entonces ahora quiero explicar que es mi primera experiencia en NLP.
 Había visto alguna cosa en mi formación en Hack a Boss, pero nada como lo que he ido descubriendo enfrentándome a este desafío.
@@ -103,6 +103,7 @@ Muchos de los datos comienzan en una carpeta que estará nombrada en varios arch
     |-- libretas/
     |-- bert/
     |-- decide/
+```
 
 ### Descripción de las Carpetas
 
