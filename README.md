@@ -89,7 +89,9 @@ Curiosamente con spaCy he obtenido mejores métricas que con BERT y ROBERTA, que
 
 ## Estructura del Proyecto
 
-Muchos de los datos comienzan en una carpeta que estará nombrada en varios archivos llamada `TRAINING` que, por temas de privacidad y derechos, no puedo compartir.
+Esta sería digamos la carpeta que os vais a encontrar, menos los archivos de training. Cada una de las carpetas es un digamos un proyecto dentro del proyecto.
+Primero comencé con cuadernos, luego seguí con libretas y finalicé con bert.
+La que mejor resultados, o digamos funciona por así decirlo, es lo que hay en la carpeta libretas.
 
 ```plaintext
 |-- proyecto_decide/
