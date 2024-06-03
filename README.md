@@ -87,7 +87,7 @@ Lo he intentado con 3 modelos diferentes. Comencé con spaCy, y he ido acabando 
 
 Curiosamente con spaCy he obtenido mejores métricas que con BERT y ROBERTA, que deberían haber funcionado mejor. Quizás no he sido capaz de dar con la tecla con BERT. Tenía claro como hacerlo, pero a la hora de ponerlo a funcionar nunca conseguí acertar cómo hacerlo. Creo que el modelo entrenaba muy bien, pero la tokenización del mismo, separando por sílabas por así decirlo, desglosando los números en unidades más pequeñas, a la hora de validar el modelo y encontrar patrones me generaba muchos problemas. También me enfrenté a problemas de desbalanceamiento de categorías... por un lado me salía la categoría que no quería, la del texto en general casi con un 85% y las que yo quería que entrenara no llegaban al 15%. Tuve que enfrentarme a esos problemas.
 
-## Estructura del Proyecto
+## El proyecto
 
 Esta sería digamos la carpeta que os vais a encontrar, menos los archivos de training. Cada una de las carpetas es un digamos un proyecto dentro del proyecto.
 Primero comencé con cuadernos, luego seguí con libretas y finalicé con bert.
